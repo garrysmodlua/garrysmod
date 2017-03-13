@@ -16,7 +16,7 @@ include( "editor_player.lua" )
 --
 -- Make BaseClass available
 --
-DEFINE_BASECLASS( "gamemode_sandbox" )
+DEFINE_BASECLASS( "gamemode_base" )
 
 GM.Name 	= "Sandbox"
 GM.Author 	= "TEAM GARRY"
