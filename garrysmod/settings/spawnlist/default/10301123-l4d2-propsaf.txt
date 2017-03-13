@@ -1,0 +1,4067 @@
+
+"TableToKeyValues"
+{
+	"parentid"		"10301120"
+	"icon"		"icon16/page.png"
+	"id"		"10301123"
+	"contents"
+	{
+		"1"
+		{
+			"type"		"header"
+			"text"		"Buildables"
+		}
+		"2"
+		{
+			"type"		"model"
+			"model"		"models/props_buildables/arcade_button.mdl"
+		}
+		"3"
+		{
+			"type"		"model"
+			"model"		"models/props_buildables/basket.mdl"
+		}
+		"4"
+		{
+			"type"		"model"
+			"model"		"models/props_buildables/bracket.mdl"
+		}
+		"5"
+		{
+			"type"		"model"
+			"model"		"models/props_buildables/buildable_button.mdl"
+		}
+		"6"
+		{
+			"type"		"model"
+			"model"		"models/props_buildables/firetrap_pipe.mdl"
+		}
+		"7"
+		{
+			"type"		"model"
+			"model"		"models/props_buildables/fuel_gauge.mdl"
+		}
+		"8"
+		{
+			"type"		"model"
+			"model"		"models/props_buildables/mine.mdl"
+		}
+		"9"
+		{
+			"type"		"model"
+			"model"		"models/props_buildables/needle.mdl"
+		}
+		"10"
+		{
+			"type"		"model"
+			"model"		"models/props_buildables/plank_barricade01.mdl"
+		}
+		"11"
+		{
+			"type"		"model"
+			"model"		"models/props_buildables/plank_barricade01_dmg01.mdl"
+		}
+		"12"
+		{
+			"type"		"model"
+			"model"		"models/props_buildables/plank_barricade01_dmg02.mdl"
+		}
+		"13"
+		{
+			"type"		"model"
+			"model"		"models/props_buildables/plank_barricade01_dmg03.mdl"
+		}
+		"14"
+		{
+			"type"		"model"
+			"model"		"models/props_buildables/plank_barricade01_dmg04.mdl"
+		}
+		"15"
+		{
+			"type"		"model"
+			"model"		"models/props_buildables/plank_barricade01_dmg05.mdl"
+		}
+		"16"
+		{
+			"type"		"model"
+			"model"		"models/props_buildables/plank_barricade01_dmg06.mdl"
+		}
+		"17"
+		{
+			"type"		"model"
+			"model"		"models/props_buildables/small_cabinet.mdl"
+		}
+		"18"
+		{
+			"type"		"model"
+			"model"		"models/props_buildables/small_cabinet_ammo.mdl"
+		}
+		"19"
+		{
+			"type"		"model"
+			"model"		"models/props_buildables/small_cabinet_firstaid.mdl"
+		}
+		"20"
+		{
+			"type"		"model"
+			"model"		"models/props_buildables/spotlight_arms.mdl"
+		}
+		"21"
+		{
+			"type"		"model"
+			"model"		"models/props_buildables/trigger_arm.mdl"
+		}
+		"22"
+		{
+			"type"		"model"
+			"model"		"models/props_buildables/wall_barricade_helper.mdl"
+		}
+		"23"
+		{
+			"type"		"header"
+			"text"		"Buildings"
+		}
+		"24"
+		{
+			"type"		"model"
+			"model"		"models/props_buildings/bus_stop.mdl"
+		}
+		"25"
+		{
+			"type"		"model"
+			"model"		"models/props_buildings/storefront_door_straight.mdl"
+		}
+		"26"
+		{
+			"type"		"model"
+			"model"		"models/props_buildings/storefront_window_left.mdl"
+		}
+		"27"
+		{
+			"type"		"model"
+			"model"		"models/props_buildings/storefront_window_neutral.mdl"
+		}
+		"28"
+		{
+			"type"		"model"
+			"model"		"models/props_buildings/storefront_window_right.mdl"
+		}
+		"29"
+		{
+			"type"		"model"
+			"model"		"models/props_buildings/warehouse_roofbeams.mdl"
+		}
+		"30"
+		{
+			"type"		"model"
+			"model"		"models/props_buildings/watertower_001a.mdl"
+		}
+		"31"
+		{
+			"type"		"model"
+			"model"		"models/props_buildings/watertower_001a_skybox.mdl"
+		}
+		"32"
+		{
+			"type"		"header"
+			"text"		"Cemetery"
+		}
+		"33"
+		{
+			"type"		"model"
+			"model"		"models/props_cemetery/cemetery_gate.mdl"
+		}
+		"34"
+		{
+			"type"		"model"
+			"model"		"models/props_cemetery/cemetery_gate_128.mdl"
+		}
+		"35"
+		{
+			"type"		"model"
+			"model"		"models/props_cemetery/cemetery_gate_32.mdl"
+		}
+		"36"
+		{
+			"type"		"model"
+			"model"		"models/props_cemetery/cemetery_gate_64.mdl"
+		}
+		"37"
+		{
+			"type"		"model"
+			"model"		"models/props_cemetery/cemetery_sign.mdl"
+		}
+		"38"
+		{
+			"type"		"model"
+			"model"		"models/props_cemetery/crypt_bodyfront_destroyed.mdl"
+		}
+		"39"
+		{
+			"type"		"model"
+			"model"		"models/props_cemetery/crypts_base01.mdl"
+		}
+		"40"
+		{
+			"type"		"model"
+			"model"		"models/props_cemetery/crypts_base02.mdl"
+		}
+		"41"
+		{
+			"type"		"model"
+			"model"		"models/props_cemetery/crypts_base03.mdl"
+		}
+		"42"
+		{
+			"type"		"model"
+			"model"		"models/props_cemetery/crypts_base04.mdl"
+		}
+		"43"
+		{
+			"type"		"model"
+			"model"		"models/props_cemetery/crypts_bodyfront01.mdl"
+		}
+		"44"
+		{
+			"type"		"model"
+			"model"		"models/props_cemetery/crypts_bodyfront02.mdl"
+		}
+		"45"
+		{
+			"type"		"model"
+			"model"		"models/props_cemetery/crypts_bodyfront03.mdl"
+		}
+		"46"
+		{
+			"type"		"model"
+			"model"		"models/props_cemetery/crypts_bodyfront04.mdl"
+		}
+		"47"
+		{
+			"type"		"model"
+			"model"		"models/props_cemetery/crypts_bodyfront05.mdl"
+		}
+		"48"
+		{
+			"type"		"model"
+			"model"		"models/props_cemetery/crypts_oneoff01.mdl"
+		}
+		"49"
+		{
+			"type"		"model"
+			"model"		"models/props_cemetery/crypts_oneoff02.mdl"
+		}
+		"50"
+		{
+			"type"		"model"
+			"model"		"models/props_cemetery/crypts_oneoff03.mdl"
+		}
+		"51"
+		{
+			"type"		"model"
+			"model"		"models/props_cemetery/crypts_roof01.mdl"
+		}
+		"52"
+		{
+			"type"		"model"
+			"model"		"models/props_cemetery/crypts_roof02.mdl"
+		}
+		"53"
+		{
+			"type"		"model"
+			"model"		"models/props_cemetery/crypts_roofapex.mdl"
+		}
+		"54"
+		{
+			"type"		"model"
+			"model"		"models/props_cemetery/crypts_roofapexshort.mdl"
+		}
+		"55"
+		{
+			"type"		"model"
+			"model"		"models/props_cemetery/crypts_top01.mdl"
+		}
+		"56"
+		{
+			"type"		"model"
+			"model"		"models/props_cemetery/crypts_top02.mdl"
+		}
+		"57"
+		{
+			"type"		"model"
+			"model"		"models/props_cemetery/crypts_top04.mdl"
+		}
+		"58"
+		{
+			"type"		"model"
+			"model"		"models/props_cemetery/crypts_top05.mdl"
+		}
+		"59"
+		{
+			"type"		"model"
+			"model"		"models/props_cemetery/crypts_top06.mdl"
+		}
+		"60"
+		{
+			"type"		"model"
+			"model"		"models/props_cemetery/crypts_wall.mdl"
+		}
+		"61"
+		{
+			"type"		"model"
+			"model"		"models/props_cemetery/curb_128.mdl"
+		}
+		"62"
+		{
+			"type"		"model"
+			"model"		"models/props_cemetery/curb_16.mdl"
+		}
+		"63"
+		{
+			"type"		"model"
+			"model"		"models/props_cemetery/curb_32.mdl"
+		}
+		"64"
+		{
+			"type"		"model"
+			"model"		"models/props_cemetery/curb_64.mdl"
+		}
+		"65"
+		{
+			"type"		"model"
+			"model"		"models/props_cemetery/curb_64a.mdl"
+		}
+		"66"
+		{
+			"type"		"header"
+			"text"		"Collectables"
+		}
+		"67"
+		{
+			"type"		"model"
+			"model"		"models/props_collectables/alchemy_table.mdl"
+		}
+		"68"
+		{
+			"type"		"model"
+			"model"		"models/props_collectables/backpack.mdl"
+		}
+		"69"
+		{
+			"type"		"model"
+			"model"		"models/props_collectables/coin.mdl"
+		}
+		"70"
+		{
+			"type"		"model"
+			"model"		"models/props_collectables/flower.mdl"
+		}
+		"71"
+		{
+			"type"		"model"
+			"model"		"models/props_collectables/gold_bar.mdl"
+		}
+		"72"
+		{
+			"type"		"model"
+			"model"		"models/props_collectables/money_wad.mdl"
+		}
+		"73"
+		{
+			"type"		"model"
+			"model"		"models/props_collectables/mushrooms.mdl"
+		}
+		"74"
+		{
+			"type"		"model"
+			"model"		"models/props_collectables/piepan.mdl"
+		}
+		"75"
+		{
+			"type"		"model"
+			"model"		"models/props_collectables/striped_barricade.mdl"
+		}
+		"76"
+		{
+			"type"		"model"
+			"model"		"models/props_collectables/vault.mdl"
+		}
+		"77"
+		{
+			"type"		"header"
+			"text"		"Crates"
+		}
+		"78"
+		{
+			"type"		"model"
+			"model"		"models/props_crates/static_crate_40.mdl"
+		}
+		"79"
+		{
+			"type"		"header"
+			"text"		"Debris"
+		}
+		"80"
+		{
+			"type"		"model"
+			"model"		"models/props_debris/airliner_wreckage1.mdl"
+		}
+		"81"
+		{
+			"type"		"model"
+			"model"		"models/props_debris/airliner_wreckage2.mdl"
+		}
+		"82"
+		{
+			"type"		"model"
+			"model"		"models/props_debris/airliner_wreckage3.mdl"
+		}
+		"83"
+		{
+			"type"		"model"
+			"model"		"models/props_debris/airliner_wreckage4_ext.mdl"
+		}
+		"84"
+		{
+			"type"		"model"
+			"model"		"models/props_debris/airliner_wreckage5_int.mdl"
+		}
+		"85"
+		{
+			"type"		"model"
+			"model"		"models/props_debris/airliner_wreckage6_ripped.mdl"
+		}
+		"86"
+		{
+			"type"		"model"
+			"model"		"models/props_debris/airliner_wreckage6_wing.mdl"
+		}
+		"87"
+		{
+			"type"		"model"
+			"model"		"models/props_debris/airliner_wreckage7_exitdoor.mdl"
+		}
+		"88"
+		{
+			"type"		"model"
+			"model"		"models/props_debris/airliner_wreckage8_seats.mdl"
+		}
+		"89"
+		{
+			"type"		"model"
+			"model"		"models/props_debris/airliner_wreckage9_seatrow.mdl"
+		}
+		"90"
+		{
+			"type"		"model"
+			"model"		"models/props_debris/airliner_wreckage_sb.mdl"
+		}
+		"91"
+		{
+			"type"		"model"
+			"model"		"models/props_debris/burnt_building_chimney_01.mdl"
+		}
+		"92"
+		{
+			"type"		"model"
+			"model"		"models/props_debris/burnt_building_corner_01.mdl"
+		}
+		"93"
+		{
+			"type"		"model"
+			"model"		"models/props_debris/burnt_building_corner_02.mdl"
+		}
+		"94"
+		{
+			"type"		"model"
+			"model"		"models/props_debris/burnt_building_debrispile_01.mdl"
+		}
+		"95"
+		{
+			"type"		"model"
+			"model"		"models/props_debris/burnt_building_debrispile_02.mdl"
+		}
+		"96"
+		{
+			"type"		"model"
+			"model"		"models/props_debris/burnt_building_rafters_01.mdl"
+		}
+		"97"
+		{
+			"type"		"model"
+			"model"		"models/props_debris/burnt_building_rafters_02.mdl"
+		}
+		"98"
+		{
+			"type"		"model"
+			"model"		"models/props_debris/burnt_building_roof_01.mdl"
+		}
+		"99"
+		{
+			"type"		"model"
+			"model"		"models/props_debris/burnt_building_roof_02.mdl"
+		}
+		"100"
+		{
+			"type"		"model"
+			"model"		"models/props_debris/burnt_building_wall_01.mdl"
+		}
+		"101"
+		{
+			"type"		"model"
+			"model"		"models/props_debris/burnt_building_wall_02.mdl"
+		}
+		"102"
+		{
+			"type"		"model"
+			"model"		"models/props_debris/burnt_building_wall_03.mdl"
+		}
+		"103"
+		{
+			"type"		"model"
+			"model"		"models/props_debris/burnt_building_wall_04.mdl"
+		}
+		"104"
+		{
+			"type"		"model"
+			"model"		"models/props_debris/burnt_building_wall_05.mdl"
+		}
+		"105"
+		{
+			"type"		"model"
+			"model"		"models/props_debris/burnt_building_wall_06.mdl"
+		}
+		"106"
+		{
+			"type"		"model"
+			"model"		"models/props_debris/burnt_building_wall_07.mdl"
+		}
+		"107"
+		{
+			"type"		"model"
+			"model"		"models/props_debris/concrete_chunk01a.mdl"
+		}
+		"108"
+		{
+			"type"		"model"
+			"model"		"models/props_debris/concrete_chunk01c.mdl"
+		}
+		"109"
+		{
+			"type"		"model"
+			"model"		"models/props_debris/concrete_chunk02a.mdl"
+		}
+		"110"
+		{
+			"type"		"model"
+			"model"		"models/props_debris/concrete_chunk03a.mdl"
+		}
+		"111"
+		{
+			"type"		"model"
+			"model"		"models/props_debris/concrete_chunk07a.mdl"
+		}
+		"112"
+		{
+			"type"		"model"
+			"model"		"models/props_debris/concrete_chunk08a.mdl"
+		}
+		"113"
+		{
+			"type"		"model"
+			"model"		"models/props_debris/concrete_chunk09a.mdl"
+		}
+		"114"
+		{
+			"type"		"model"
+			"model"		"models/props_debris/concrete_debris128pile001a.mdl"
+		}
+		"115"
+		{
+			"type"		"model"
+			"model"		"models/props_debris/concrete_debris128pile001b.mdl"
+		}
+		"116"
+		{
+			"type"		"model"
+			"model"		"models/props_debris/concrete_debris256barricade001a.mdl"
+		}
+		"117"
+		{
+			"type"		"model"
+			"model"		"models/props_debris/concrete_debris256pile001a.mdl"
+		}
+		"118"
+		{
+			"type"		"model"
+			"model"		"models/props_debris/concrete_section64floor001b.mdl"
+		}
+		"119"
+		{
+			"type"		"model"
+			"model"		"models/props_debris/concrete_spawnchunk001a.mdl"
+		}
+		"120"
+		{
+			"type"		"model"
+			"model"		"models/props_debris/concrete_spawnchunk001b.mdl"
+		}
+		"121"
+		{
+			"type"		"model"
+			"model"		"models/props_debris/concrete_spawnchunk001c.mdl"
+		}
+		"122"
+		{
+			"type"		"model"
+			"model"		"models/props_debris/concrete_spawnchunk001d.mdl"
+		}
+		"123"
+		{
+			"type"		"model"
+			"model"		"models/props_debris/concrete_spawnchunk001e.mdl"
+		}
+		"124"
+		{
+			"type"		"model"
+			"model"		"models/props_debris/concrete_spawnchunk001f.mdl"
+		}
+		"125"
+		{
+			"type"		"model"
+			"model"		"models/props_debris/corner_rubble1.mdl"
+		}
+		"126"
+		{
+			"type"		"model"
+			"model"		"models/props_debris/dead_cow.mdl"
+		}
+		"127"
+		{
+			"type"		"model"
+			"model"		"models/props_debris/dead_cow_smallpile.mdl"
+		}
+		"128"
+		{
+			"type"		"model"
+			"model"		"models/props_debris/debris_brick01.mdl"
+		}
+		"129"
+		{
+			"type"		"model"
+			"model"		"models/props_debris/debris_brick02.mdl"
+		}
+		"130"
+		{
+			"type"		"model"
+			"model"		"models/props_debris/floor_rubble1.mdl"
+		}
+		"131"
+		{
+			"type"		"model"
+			"model"		"models/props_debris/mansion_structure.mdl"
+		}
+		"132"
+		{
+			"type"		"model"
+			"model"		"models/props_debris/paintbucket01.mdl"
+		}
+		"133"
+		{
+			"type"		"model"
+			"model"		"models/props_debris/rebar002a_32.mdl"
+		}
+		"134"
+		{
+			"type"		"model"
+			"model"		"models/props_debris/rebar002d_96.mdl"
+		}
+		"135"
+		{
+			"type"		"model"
+			"model"		"models/props_debris/rebar003c_64.mdl"
+		}
+		"136"
+		{
+			"type"		"model"
+			"model"		"models/props_debris/rebar004b_48.mdl"
+		}
+		"137"
+		{
+			"type"		"model"
+			"model"		"models/props_debris/rebar_cluster001a.mdl"
+		}
+		"138"
+		{
+			"type"		"model"
+			"model"		"models/props_debris/rebar_cluster001b.mdl"
+		}
+		"139"
+		{
+			"type"		"model"
+			"model"		"models/props_debris/rebar_cluster002a.mdl"
+		}
+		"140"
+		{
+			"type"		"model"
+			"model"		"models/props_debris/rebar_cluster002b.mdl"
+		}
+		"141"
+		{
+			"type"		"header"
+			"text"		"Dock"
+		}
+		"142"
+		{
+			"type"		"model"
+			"model"		"models/props_docks/dock01_polecluster01d_256.mdl"
+		}
+		"143"
+		{
+			"type"		"model"
+			"model"		"models/props_docks/dock02_pole02a.mdl"
+		}
+		"144"
+		{
+			"type"		"header"
+			"text"		"Doors"
+		}
+		"145"
+		{
+			"type"		"model"
+			"model"		"models/props_doors/checkpoint_crossbar_-01.mdl"
+		}
+		"146"
+		{
+			"type"		"model"
+			"model"		"models/props_doors/checkpoint_crossbar_01.mdl"
+		}
+		"147"
+		{
+			"type"		"model"
+			"model"		"models/props_doors/checkpoint_door_-01.mdl"
+		}
+		"148"
+		{
+			"type"		"model"
+			"model"		"models/props_doors/checkpoint_door_-01_static.mdl"
+		}
+		"149"
+		{
+			"type"		"model"
+			"model"		"models/props_doors/checkpoint_door_-02.mdl"
+		}
+		"150"
+		{
+			"type"		"model"
+			"model"		"models/props_doors/checkpoint_door_-02_static.mdl"
+		}
+		"151"
+		{
+			"type"		"model"
+			"model"		"models/props_doors/checkpoint_door_01.mdl"
+		}
+		"152"
+		{
+			"type"		"model"
+			"model"		"models/props_doors/checkpoint_door_01_static.mdl"
+		}
+		"153"
+		{
+			"type"		"model"
+			"model"		"models/props_doors/checkpoint_door_02.mdl"
+		}
+		"154"
+		{
+			"type"		"model"
+			"model"		"models/props_doors/checkpoint_door_02_static.mdl"
+		}
+		"155"
+		{
+			"type"		"model"
+			"model"		"models/props_doors/checkpoint_doorframe_-01.mdl"
+		}
+		"156"
+		{
+			"type"		"model"
+			"model"		"models/props_doors/checkpoint_doorframe_-02.mdl"
+		}
+		"157"
+		{
+			"type"		"model"
+			"model"		"models/props_doors/checkpoint_doorframe_01.mdl"
+		}
+		"158"
+		{
+			"type"		"model"
+			"model"		"models/props_doors/checkpoint_doorframe_02.mdl"
+		}
+		"159"
+		{
+			"type"		"model"
+			"model"		"models/props_doors/checkpoint_frame_reinforcement_01.mdl"
+		}
+		"160"
+		{
+			"type"		"model"
+			"model"		"models/props_doors/door_rotate_112.mdl"
+		}
+		"161"
+		{
+			"type"		"model"
+			"model"		"models/props_doors/door_sliding_112.mdl"
+		}
+		"162"
+		{
+			"type"		"model"
+			"model"		"models/props_doors/door_urban_48_118_boarded.mdl"
+		}
+		"163"
+		{
+			"type"		"model"
+			"model"		"models/props_doors/door_urban_48_118_damaged.mdl"
+		}
+		"164"
+		{
+			"type"		"model"
+			"model"		"models/props_doors/door_urban_48_118_damaged_boarded.mdl"
+		}
+		"165"
+		{
+			"type"		"model"
+			"model"		"models/props_doors/door_urban_double01.mdl"
+		}
+		"166"
+		{
+			"type"		"model"
+			"model"		"models/props_doors/door_urban_rooftop.mdl"
+		}
+		"167"
+		{
+			"type"		"model"
+			"model"		"models/props_doors/doordm_rural01_01.mdl"
+		}
+		"168"
+		{
+			"type"		"model"
+			"model"		"models/props_doors/doordm_rural02_01.mdl"
+		}
+		"169"
+		{
+			"type"		"model"
+			"model"		"models/props_doors/doordm_rural03_01.mdl"
+		}
+		"170"
+		{
+			"type"		"model"
+			"model"		"models/props_doors/doorfreezer01.mdl"
+		}
+		"171"
+		{
+			"type"		"model"
+			"model"		"models/props_doors/doorglassmain01.mdl"
+		}
+		"172"
+		{
+			"type"		"model"
+			"model"		"models/props_doors/doorglassmain01_dm01.mdl"
+		}
+		"173"
+		{
+			"type"		"model"
+			"model"		"models/props_doors/doorglassmain01_dm02.mdl"
+		}
+		"174"
+		{
+			"type"		"model"
+			"model"		"models/props_doors/doormain01_small.mdl"
+		}
+		"175"
+		{
+			"type"		"model"
+			"model"		"models/props_doors/doormain01_small_01.mdl"
+		}
+		"176"
+		{
+			"type"		"model"
+			"model"		"models/props_doors/doormain02_small_01.mdl"
+		}
+		"177"
+		{
+			"type"		"model"
+			"model"		"models/props_doors/doormain03_small_01.mdl"
+		}
+		"178"
+		{
+			"type"		"model"
+			"model"		"models/props_doors/doormain_rural01.mdl"
+		}
+		"179"
+		{
+			"type"		"model"
+			"model"		"models/props_doors/doormain_rural01_small.mdl"
+		}
+		"180"
+		{
+			"type"		"model"
+			"model"		"models/props_doors/doormain_rural01_small_01.mdl"
+		}
+		"181"
+		{
+			"type"		"model"
+			"model"		"models/props_doors/doormain_rural02_small_01.mdl"
+		}
+		"182"
+		{
+			"type"		"model"
+			"model"		"models/props_doors/doormain_rural03_small_01.mdl"
+		}
+		"183"
+		{
+			"type"		"model"
+			"model"		"models/props_doors/doormainmetal01.mdl"
+		}
+		"184"
+		{
+			"type"		"model"
+			"model"		"models/props_doors/doormainmetal01_dm01.mdl"
+		}
+		"185"
+		{
+			"type"		"model"
+			"model"		"models/props_doors/doormainmetal01_dm02.mdl"
+		}
+		"186"
+		{
+			"type"		"model"
+			"model"		"models/props_doors/doormainmetal01_dm03.mdl"
+		}
+		"187"
+		{
+			"type"		"model"
+			"model"		"models/props_doors/doormainmetal01_dm04.mdl"
+		}
+		"188"
+		{
+			"type"		"model"
+			"model"		"models/props_doors/doormainmetal01_dm05.mdl"
+		}
+		"189"
+		{
+			"type"		"model"
+			"model"		"models/props_doors/doormainmetal01_dm06.mdl"
+		}
+		"190"
+		{
+			"type"		"model"
+			"model"		"models/props_doors/doormainmetal01_dm07.mdl"
+		}
+		"191"
+		{
+			"type"		"model"
+			"model"		"models/props_doors/doormainmetalwindow01.mdl"
+		}
+		"192"
+		{
+			"type"		"model"
+			"model"		"models/props_doors/doormainmetalwindow01_dm01.mdl"
+		}
+		"193"
+		{
+			"type"		"model"
+			"model"		"models/props_doors/doormainmetalwindow01_dm02.mdl"
+		}
+		"194"
+		{
+			"type"		"model"
+			"model"		"models/props_doors/doormainmetalwindow01_dm03.mdl"
+		}
+		"195"
+		{
+			"type"		"model"
+			"model"		"models/props_doors/doormainmetalwindow01_dm04.mdl"
+		}
+		"196"
+		{
+			"type"		"model"
+			"model"		"models/props_doors/doormainmetalwindow01_dm05.mdl"
+		}
+		"197"
+		{
+			"type"		"model"
+			"model"		"models/props_doors/doormainmetalwindow01_dm06.mdl"
+		}
+		"198"
+		{
+			"type"		"model"
+			"model"		"models/props_doors/doormainmetalwindow01_dm07.mdl"
+		}
+		"199"
+		{
+			"type"		"model"
+			"model"		"models/props_doors/emergency_exit_sign.mdl"
+		}
+		"200"
+		{
+			"type"		"model"
+			"model"		"models/props_doors/gun_store_door.mdl"
+		}
+		"201"
+		{
+			"type"		"model"
+			"model"		"models/props_doors/null.mdl"
+		}
+		"202"
+		{
+			"type"		"model"
+			"model"		"models/props_doors/roll-up_door_full.mdl"
+		}
+		"203"
+		{
+			"type"		"model"
+			"model"		"models/props_doors/roll-up_door_half.mdl"
+		}
+		"204"
+		{
+			"type"		"model"
+			"model"		"models/props_doors/roll-up_door_open.mdl"
+		}
+		"205"
+		{
+			"type"		"model"
+			"model"		"models/props_doors/shackwall01.mdl"
+		}
+		"206"
+		{
+			"type"		"model"
+			"model"		"models/props_doors/shackwall01_dmg01.mdl"
+		}
+		"207"
+		{
+			"type"		"model"
+			"model"		"models/props_doors/shackwall01_dmg02.mdl"
+		}
+		"208"
+		{
+			"type"		"model"
+			"model"		"models/props_doors/shackwall01_dmg03.mdl"
+		}
+		"209"
+		{
+			"type"		"model"
+			"model"		"models/props_doors/shackwall01_dmg04.mdl"
+		}
+		"210"
+		{
+			"type"		"model"
+			"model"		"models/props_downtown/door02_80_136.mdl"
+		}
+		"211"
+		{
+			"type"		"model"
+			"model"		"models/props_downtown/door03_48_104.mdl"
+		}
+		"212"
+		{
+			"type"		"model"
+			"model"		"models/props_downtown/door_frame01.mdl"
+		}
+		"213"
+		{
+			"type"		"model"
+			"model"		"models/props_downtown/door_interior_112_01.mdl"
+		}
+		"214"
+		{
+			"type"		"model"
+			"model"		"models/props_downtown/door_interior_112_01_dm01_01.mdl"
+		}
+		"215"
+		{
+			"type"		"model"
+			"model"		"models/props_downtown/door_interior_112_01_dm02_01.mdl"
+		}
+		"216"
+		{
+			"type"		"model"
+			"model"		"models/props_downtown/door_interior_112_01_dm03_01.mdl"
+		}
+		"217"
+		{
+			"type"		"model"
+			"model"		"models/props_downtown/door_interior_128_01.mdl"
+		}
+		"218"
+		{
+			"type"		"model"
+			"model"		"models/props_downtown/door_interior_128_01_dm01_01.mdl"
+		}
+		"219"
+		{
+			"type"		"model"
+			"model"		"models/props_downtown/door_interior_128_01_dm02_01.mdl"
+		}
+		"220"
+		{
+			"type"		"model"
+			"model"		"models/props_downtown/door_interior_128_01_dm03_01.mdl"
+		}
+		"221"
+		{
+			"type"		"model"
+			"model"		"models/props_downtown/door_interior_with_trim_112_01.mdl"
+		}
+		"222"
+		{
+			"type"		"model"
+			"model"		"models/props_downtown/door_interior_with_trim_128_01.mdl"
+		}
+		"223"
+		{
+			"type"		"model"
+			"model"		"models/props_downtown/door_pillar01.mdl"
+		}
+		"224"
+		{
+			"type"		"model"
+			"model"		"models/props_downtown/door_pillar02.mdl"
+		}
+		"225"
+		{
+			"type"		"model"
+			"model"		"models/props_downtown/door_trim_56_112_01.mdl"
+		}
+		"226"
+		{
+			"type"		"model"
+			"model"		"models/props_downtown/door_trim_56_112_02.mdl"
+		}
+		"227"
+		{
+			"type"		"model"
+			"model"		"models/props_downtown/door_trim_64_128_01.mdl"
+		}
+		"228"
+		{
+			"type"		"model"
+			"model"		"models/props_downtown/door_trim_64_128_02.mdl"
+		}
+		"229"
+		{
+			"type"		"model"
+			"model"		"models/props_downtown/door_trim_64_128_03.mdl"
+		}
+		"230"
+		{
+			"type"		"model"
+			"model"		"models/props_downtown/door_trim_exterior_01.mdl"
+		}
+		"231"
+		{
+			"type"		"model"
+			"model"		"models/props_downtown/door_trim_exterior_02.mdl"
+		}
+		"232"
+		{
+			"type"		"model"
+			"model"		"models/props_downtown/door_trim_exterior_03.mdl"
+		}
+		"233"
+		{
+			"type"		"model"
+			"model"		"models/props_downtown/metal_door_112.mdl"
+		}
+		"234"
+		{
+			"type"		"model"
+			"model"		"models/props_downtown/metal_door_112_16_frame.mdl"
+		}
+		"235"
+		{
+			"type"		"model"
+			"model"		"models/props_downtown/metal_door_112_dm01_01.mdl"
+		}
+		"236"
+		{
+			"type"		"model"
+			"model"		"models/props_downtown/metal_door_112_dm02_01.mdl"
+		}
+		"237"
+		{
+			"type"		"model"
+			"model"		"models/props_downtown/metal_door_112_dm03_01.mdl"
+		}
+		"238"
+		{
+			"type"		"model"
+			"model"		"models/props_downtown/metal_door_112_dm04_01.mdl"
+		}
+		"239"
+		{
+			"type"		"model"
+			"model"		"models/props_downtown/metal_door_112_frame.mdl"
+		}
+		"240"
+		{
+			"type"		"model"
+			"model"		"models/props_downtown/metal_door_112_static.mdl"
+		}
+		"241"
+		{
+			"type"		"model"
+			"model"		"models/props_downtown/metal_door_doublewide_112_16_frame.mdl"
+		}
+		"242"
+		{
+			"type"		"model"
+			"model"		"models/props_downtown/metal_door_doublewide_112_frame.mdl"
+		}
+		"243"
+		{
+			"type"		"header"
+			"text"		"Downtown"
+		}
+		"244"
+		{
+			"type"		"model"
+			"model"		"models/props_downtown/atm.mdl"
+		}
+		"245"
+		{
+			"type"		"model"
+			"model"		"models/props_downtown/balcony_edge_trim01_128.mdl"
+		}
+		"246"
+		{
+			"type"		"model"
+			"model"		"models/props_downtown/balcony_edge_trim01_32.mdl"
+		}
+		"247"
+		{
+			"type"		"model"
+			"model"		"models/props_downtown/balcony_edge_trim01_64.mdl"
+		}
+		"248"
+		{
+			"type"		"model"
+			"model"		"models/props_downtown/balcony_edge_trim01_corner.mdl"
+		}
+		"249"
+		{
+			"type"		"model"
+			"model"		"models/props_downtown/balcony_post_base01_186.mdl"
+		}
+		"250"
+		{
+			"type"		"model"
+			"model"		"models/props_downtown/balcony_post_base02_154.mdl"
+		}
+		"251"
+		{
+			"type"		"model"
+			"model"		"models/props_downtown/balcony_post_base03_154.mdl"
+		}
+		"252"
+		{
+			"type"		"model"
+			"model"		"models/props_downtown/balcony_post_base04_154.mdl"
+		}
+		"253"
+		{
+			"type"		"model"
+			"model"		"models/props_downtown/balcony_post_upper01_154.mdl"
+		}
+		"254"
+		{
+			"type"		"model"
+			"model"		"models/props_downtown/balcony_post_upper02_144.mdl"
+		}
+		"255"
+		{
+			"type"		"model"
+			"model"		"models/props_downtown/balcony_underside_62_middle02.mdl"
+		}
+		"256"
+		{
+			"type"		"model"
+			"model"		"models/props_downtown/balcony_underside_left01.mdl"
+		}
+		"257"
+		{
+			"type"		"model"
+			"model"		"models/props_downtown/balcony_underside_left02.mdl"
+		}
+		"258"
+		{
+			"type"		"model"
+			"model"		"models/props_downtown/balcony_underside_middle01.mdl"
+		}
+		"259"
+		{
+			"type"		"model"
+			"model"		"models/props_downtown/balcony_underside_middle02.mdl"
+		}
+		"260"
+		{
+			"type"		"model"
+			"model"		"models/props_downtown/balcony_underside_middle03.mdl"
+		}
+		"261"
+		{
+			"type"		"model"
+			"model"		"models/props_downtown/balcony_underside_middle04.mdl"
+		}
+		"262"
+		{
+			"type"		"model"
+			"model"		"models/props_downtown/balcony_underside_right01.mdl"
+		}
+		"263"
+		{
+			"type"		"model"
+			"model"		"models/props_downtown/balcony_underside_right02.mdl"
+		}
+		"264"
+		{
+			"type"		"model"
+			"model"		"models/props_downtown/bar.mdl"
+		}
+		"265"
+		{
+			"type"		"model"
+			"model"		"models/props_downtown/bar_long.mdl"
+		}
+		"266"
+		{
+			"type"		"model"
+			"model"		"models/props_downtown/bar_long_endcorner.mdl"
+		}
+		"267"
+		{
+			"type"		"model"
+			"model"		"models/props_downtown/bar_short.mdl"
+		}
+		"268"
+		{
+			"type"		"model"
+			"model"		"models/props_downtown/bar_short_endcorner.mdl"
+		}
+		"269"
+		{
+			"type"		"model"
+			"model"		"models/props_downtown/bathroom_vanity01.mdl"
+		}
+		"270"
+		{
+			"type"		"model"
+			"model"		"models/props_downtown/bed_motel01.mdl"
+		}
+		"271"
+		{
+			"type"		"model"
+			"model"		"models/props_downtown/bedding_pile_01.mdl"
+		}
+		"272"
+		{
+			"type"		"model"
+			"model"		"models/props_downtown/bedding_pile_02.mdl"
+		}
+		"273"
+		{
+			"type"		"model"
+			"model"		"models/props_downtown/bollards_ornate.mdl"
+		}
+		"274"
+		{
+			"type"		"model"
+			"model"		"models/props_downtown/booth01.mdl"
+		}
+		"275"
+		{
+			"type"		"model"
+			"model"		"models/props_downtown/booth02.mdl"
+		}
+		"276"
+		{
+			"type"		"model"
+			"model"		"models/props_downtown/booth_table.mdl"
+		}
+		"277"
+		{
+			"type"		"model"
+			"model"		"models/props_downtown/broken_ceiling01.mdl"
+		}
+		"278"
+		{
+			"type"		"model"
+			"model"		"models/props_downtown/cigarettemachine.mdl"
+		}
+		"279"
+		{
+			"type"		"model"
+			"model"		"models/props_downtown/column_base.mdl"
+		}
+		"280"
+		{
+			"type"		"model"
+			"model"		"models/props_downtown/column_base_16.mdl"
+		}
+		"281"
+		{
+			"type"		"model"
+			"model"		"models/props_downtown/column_top_16.mdl"
+		}
+		"282"
+		{
+			"type"		"model"
+			"model"		"models/props_downtown/column_top_corner.mdl"
+		}
+		"283"
+		{
+			"type"		"model"
+			"model"		"models/props_downtown/column_top_double.mdl"
+		}
+		"284"
+		{
+			"type"		"model"
+			"model"		"models/props_downtown/column_top_double_right.mdl"
+		}
+		"285"
+		{
+			"type"		"model"
+			"model"		"models/props_downtown/column_top_straight.mdl"
+		}
+		"286"
+		{
+			"type"		"model"
+			"model"		"models/props_downtown/dormer_window01.mdl"
+		}
+		"287"
+		{
+			"type"		"model"
+			"model"		"models/props_downtown/dormer_window02.mdl"
+		}
+		"288"
+		{
+			"type"		"model"
+			"model"		"models/props_downtown/dresser.mdl"
+		}
+		"289"
+		{
+			"type"		"model"
+			"model"		"models/props_downtown/fan_ceiling.mdl"
+		}
+		"290"
+		{
+			"type"		"model"
+			"model"		"models/props_downtown/fan_ceiling32.mdl"
+		}
+		"291"
+		{
+			"type"		"model"
+			"model"		"models/props_downtown/fan_ceiling_blade.mdl"
+		}
+		"292"
+		{
+			"type"		"model"
+			"model"		"models/props_downtown/fan_ceiling_blade_static.mdl"
+		}
+		"293"
+		{
+			"type"		"model"
+			"model"		"models/props_downtown/garden_gate.mdl"
+		}
+		"294"
+		{
+			"type"		"model"
+			"model"		"models/props_downtown/gutter_downspout_corner01.mdl"
+		}
+		"295"
+		{
+			"type"		"model"
+			"model"		"models/props_downtown/gutter_downspout_straight01.mdl"
+		}
+		"296"
+		{
+			"type"		"model"
+			"model"		"models/props_downtown/gutter_downspout_straight02.mdl"
+		}
+		"297"
+		{
+			"type"		"model"
+			"model"		"models/props_downtown/gutter_downspout_straight_160_01.mdl"
+		}
+		"298"
+		{
+			"type"		"model"
+			"model"		"models/props_downtown/gutter_downspout_straight_160_02.mdl"
+		}
+		"299"
+		{
+			"type"		"model"
+			"model"		"models/props_downtown/horse_statue.mdl"
+		}
+		"300"
+		{
+			"type"		"model"
+			"model"		"models/props_downtown/iron.mdl"
+		}
+		"301"
+		{
+			"type"		"model"
+			"model"		"models/props_downtown/ironing_board.mdl"
+		}
+		"302"
+		{
+			"type"		"model"
+			"model"		"models/props_downtown/ironing_board_flat.mdl"
+		}
+		"303"
+		{
+			"type"		"model"
+			"model"		"models/props_downtown/keycard_reader.mdl"
+		}
+		"304"
+		{
+			"type"		"model"
+			"model"		"models/props_downtown/light01_32.mdl"
+		}
+		"305"
+		{
+			"type"		"model"
+			"model"		"models/props_downtown/light01_64.mdl"
+		}
+		"306"
+		{
+			"type"		"model"
+			"model"		"models/props_downtown/light02_128.mdl"
+		}
+		"307"
+		{
+			"type"		"model"
+			"model"		"models/props_downtown/light02_32.mdl"
+		}
+		"308"
+		{
+			"type"		"model"
+			"model"		"models/props_downtown/light02_64.mdl"
+		}
+		"309"
+		{
+			"type"		"model"
+			"model"		"models/props_downtown/mansion_roof_wall.mdl"
+		}
+		"310"
+		{
+			"type"		"model"
+			"model"		"models/props_downtown/metal_window01_16.mdl"
+		}
+		"311"
+		{
+			"type"		"model"
+			"model"		"models/props_downtown/metal_window01_8.mdl"
+		}
+		"312"
+		{
+			"type"		"model"
+			"model"		"models/props_downtown/mini_fridge.mdl"
+		}
+		"313"
+		{
+			"type"		"model"
+			"model"		"models/props_downtown/notepad.mdl"
+		}
+		"314"
+		{
+			"type"		"model"
+			"model"		"models/props_downtown/parade_float.mdl"
+		}
+		"315"
+		{
+			"type"		"model"
+			"model"		"models/props_downtown/phone_book.mdl"
+		}
+		"316"
+		{
+			"type"		"model"
+			"model"		"models/props_downtown/pipes_rooftop.mdl"
+		}
+		"317"
+		{
+			"type"		"model"
+			"model"		"models/props_downtown/pooltable.mdl"
+		}
+		"318"
+		{
+			"type"		"model"
+			"model"		"models/props_downtown/railing01_128.mdl"
+		}
+		"319"
+		{
+			"type"		"model"
+			"model"		"models/props_downtown/railing01_256.mdl"
+		}
+		"320"
+		{
+			"type"		"model"
+			"model"		"models/props_downtown/railing01_256_broken.mdl"
+		}
+		"321"
+		{
+			"type"		"model"
+			"model"		"models/props_downtown/railing01_62.mdl"
+		}
+		"322"
+		{
+			"type"		"model"
+			"model"		"models/props_downtown/railing01_94.mdl"
+		}
+		"323"
+		{
+			"type"		"model"
+			"model"		"models/props_downtown/railing02_256.mdl"
+		}
+		"324"
+		{
+			"type"		"model"
+			"model"		"models/props_downtown/railing02_broken.mdl"
+		}
+		"325"
+		{
+			"type"		"model"
+			"model"		"models/props_downtown/railing03_128.mdl"
+		}
+		"326"
+		{
+			"type"		"model"
+			"model"		"models/props_downtown/railing03_128_broken.mdl"
+		}
+		"327"
+		{
+			"type"		"model"
+			"model"		"models/props_downtown/railing03_256.mdl"
+		}
+		"328"
+		{
+			"type"		"model"
+			"model"		"models/props_downtown/railing03_62.mdl"
+		}
+		"329"
+		{
+			"type"		"model"
+			"model"		"models/props_downtown/railing03_94.mdl"
+		}
+		"330"
+		{
+			"type"		"model"
+			"model"		"models/props_downtown/railing04_128.mdl"
+		}
+		"331"
+		{
+			"type"		"model"
+			"model"		"models/props_downtown/railing04_256.mdl"
+		}
+		"332"
+		{
+			"type"		"model"
+			"model"		"models/props_downtown/railing04_62.mdl"
+		}
+		"333"
+		{
+			"type"		"model"
+			"model"		"models/props_downtown/railing04_94.mdl"
+		}
+		"334"
+		{
+			"type"		"model"
+			"model"		"models/props_downtown/railing_04_256_broken.mdl"
+		}
+		"335"
+		{
+			"type"		"model"
+			"model"		"models/props_downtown/railing_154_left.mdl"
+		}
+		"336"
+		{
+			"type"		"model"
+			"model"		"models/props_downtown/railing_brace.mdl"
+		}
+		"337"
+		{
+			"type"		"model"
+			"model"		"models/props_downtown/railing_brace01.mdl"
+		}
+		"338"
+		{
+			"type"		"model"
+			"model"		"models/props_downtown/railing_brace02.mdl"
+		}
+		"339"
+		{
+			"type"		"model"
+			"model"		"models/props_downtown/railing_brace03.mdl"
+		}
+		"340"
+		{
+			"type"		"model"
+			"model"		"models/props_downtown/railing_edge_broken.mdl"
+		}
+		"341"
+		{
+			"type"		"model"
+			"model"		"models/props_downtown/railing_frame_154.mdl"
+		}
+		"342"
+		{
+			"type"		"model"
+			"model"		"models/props_downtown/railing_frame_154_94.mdl"
+		}
+		"343"
+		{
+			"type"		"model"
+			"model"		"models/props_downtown/railing_frame_curved.mdl"
+		}
+		"344"
+		{
+			"type"		"model"
+			"model"		"models/props_downtown/railing_mansion01.mdl"
+		}
+		"345"
+		{
+			"type"		"model"
+			"model"		"models/props_downtown/railing_mansion_steps01.mdl"
+		}
+		"346"
+		{
+			"type"		"model"
+			"model"		"models/props_downtown/railing_mansion_steps01_left.mdl"
+		}
+		"347"
+		{
+			"type"		"model"
+			"model"		"models/props_downtown/robe_hanging.mdl"
+		}
+		"348"
+		{
+			"type"		"model"
+			"model"		"models/props_downtown/side_table.mdl"
+		}
+		"349"
+		{
+			"type"		"model"
+			"model"		"models/props_downtown/staircase01.mdl"
+		}
+		"350"
+		{
+			"type"		"model"
+			"model"		"models/props_downtown/street_lamp01.mdl"
+		}
+		"351"
+		{
+			"type"		"model"
+			"model"		"models/props_downtown/street_lamp_wall01.mdl"
+		}
+		"352"
+		{
+			"type"		"model"
+			"model"		"models/props_downtown/trim_exterior_edge_128.mdl"
+		}
+		"353"
+		{
+			"type"		"model"
+			"model"		"models/props_downtown/trim_exterior_edge_160.mdl"
+		}
+		"354"
+		{
+			"type"		"model"
+			"model"		"models/props_downtown/trim_exterior_edge_192.mdl"
+		}
+		"355"
+		{
+			"type"		"model"
+			"model"		"models/props_downtown/trim_roof01_128.mdl"
+		}
+		"356"
+		{
+			"type"		"model"
+			"model"		"models/props_downtown/trim_roof01_16.mdl"
+		}
+		"357"
+		{
+			"type"		"model"
+			"model"		"models/props_downtown/trim_roof01_24.mdl"
+		}
+		"358"
+		{
+			"type"		"model"
+			"model"		"models/props_downtown/trim_roof01_256.mdl"
+		}
+		"359"
+		{
+			"type"		"model"
+			"model"		"models/props_downtown/trim_roof01_40.mdl"
+		}
+		"360"
+		{
+			"type"		"model"
+			"model"		"models/props_downtown/trim_roof01_48.mdl"
+		}
+		"361"
+		{
+			"type"		"model"
+			"model"		"models/props_downtown/trim_roof01_64_01.mdl"
+		}
+		"362"
+		{
+			"type"		"model"
+			"model"		"models/props_downtown/trim_roof01_corner01.mdl"
+		}
+		"363"
+		{
+			"type"		"model"
+			"model"		"models/props_downtown/trim_roof01_corner02.mdl"
+		}
+		"364"
+		{
+			"type"		"model"
+			"model"		"models/props_exteriors/wood_railing001f.mdl"
+		}
+		"365"
+		{
+			"type"		"model"
+			"model"		"models/props_exteriors/fence002.mdl"
+		}
+		"366"
+		{
+			"type"		"model"
+			"model"		"models/props_exteriors/wood_railing001_dm.mdl"
+		}
+		"367"
+		{
+			"type"		"model"
+			"model"		"models/props_windows/window_industrial_frame.mdl"
+		}
+		"368"
+		{
+			"type"		"model"
+			"model"		"models/props_exteriors/fence_plastic001.mdl"
+		}
+		"369"
+		{
+			"type"		"header"
+			"text"		"Exterior"
+		}
+		"370"
+		{
+			"type"		"model"
+			"model"		"models/props_exteriors/stairs_house_01.mdl"
+		}
+		"371"
+		{
+			"type"		"model"
+			"model"		"models/props_exteriors/wood_porchsteps_02.mdl"
+		}
+		"372"
+		{
+			"type"		"model"
+			"model"		"models/props_exteriors/wood_post001.mdl"
+		}
+		"373"
+		{
+			"type"		"model"
+			"model"		"models/props_exteriors/wood_stairs_120.mdl"
+		}
+		"374"
+		{
+			"type"		"model"
+			"model"		"models/props_exteriors/wood_stairs_120_swamp.mdl"
+		}
+		"375"
+		{
+			"type"		"model"
+			"model"		"models/props_exteriors/wood_stairs_40.mdl"
+		}
+		"376"
+		{
+			"type"		"model"
+			"model"		"models/props_exteriors/wood_stairs_swamp.mdl"
+		}
+		"377"
+		{
+			"type"		"header"
+			"text"		"Equipment"
+		}
+		"378"
+		{
+			"type"		"model"
+			"model"		"models/props_equipment/cargo_container01.mdl"
+		}
+		"379"
+		{
+			"type"		"model"
+			"model"		"models/props_equipment/cooler.mdl"
+		}
+		"380"
+		{
+			"type"		"model"
+			"model"		"models/props_equipment/diesel_pump.mdl"
+		}
+		"381"
+		{
+			"type"		"model"
+			"model"		"models/props_equipment/elevator_buttons.mdl"
+		}
+		"382"
+		{
+			"type"		"model"
+			"model"		"models/props_equipment/firehosebox01.mdl"
+		}
+		"383"
+		{
+			"type"		"model"
+			"model"		"models/props_equipment/firepipe01.mdl"
+		}
+		"384"
+		{
+			"type"		"model"
+			"model"		"models/props_equipment/firepipe02.mdl"
+		}
+		"385"
+		{
+			"type"		"model"
+			"model"		"models/props_equipment/fountain_drinks.mdl"
+		}
+		"386"
+		{
+			"type"		"model"
+			"model"		"models/props_equipment/gas_pump.mdl"
+		}
+		"387"
+		{
+			"type"		"model"
+			"model"		"models/props_equipment/intercom.mdl"
+		}
+		"388"
+		{
+			"type"		"model"
+			"model"		"models/props_equipment/irrigation_system.mdl"
+		}
+		"389"
+		{
+			"type"		"model"
+			"model"		"models/props_equipment/irrigation_system_end.mdl"
+		}
+		"390"
+		{
+			"type"		"model"
+			"model"		"models/props_equipment/light_floodlight.mdl"
+		}
+		"391"
+		{
+			"type"		"model"
+			"model"		"models/props_equipment/metalladder002.mdl"
+		}
+		"392"
+		{
+			"type"		"model"
+			"model"		"models/props_equipment/oxygentank01.mdl"
+		}
+		"393"
+		{
+			"type"		"model"
+			"model"		"models/props_equipment/phone_booth.mdl"
+		}
+		"394"
+		{
+			"type"		"model"
+			"model"		"models/props_equipment/phone_booth_indoor.mdl"
+		}
+		"395"
+		{
+			"type"		"model"
+			"model"		"models/props_equipment/security_desk1.mdl"
+		}
+		"396"
+		{
+			"type"		"model"
+			"model"		"models/props_equipment/sleeping_bag1.mdl"
+		}
+		"397"
+		{
+			"type"		"model"
+			"model"		"models/props_equipment/sleeping_bag2.mdl"
+		}
+		"398"
+		{
+			"type"		"model"
+			"model"		"models/props_equipment/sleeping_bag3.mdl"
+		}
+		"399"
+		{
+			"type"		"model"
+			"model"		"models/props_equipment/snack_machine.mdl"
+		}
+		"400"
+		{
+			"type"		"model"
+			"model"		"models/props_equipment/snack_machine2.mdl"
+		}
+		"401"
+		{
+			"type"		"model"
+			"model"		"models/props_equipment/snack_machine_glass.mdl"
+		}
+		"402"
+		{
+			"type"		"model"
+			"model"		"models/props_equipment/surgicaltray_01.mdl"
+		}
+		"403"
+		{
+			"type"		"model"
+			"model"		"models/props_equipment/turnstile01.mdl"
+		}
+		"404"
+		{
+			"type"		"header"
+			"text"		"Fences and Railings"
+		}
+		"405"
+		{
+			"type"		"model"
+			"model"		"models/props_exteriors/wood_railing001d.mdl"
+		}
+		"406"
+		{
+			"type"		"model"
+			"model"		"models/props_windows/window_mill01_frame_thin.mdl"
+		}
+		"407"
+		{
+			"type"		"model"
+			"model"		"models/props_exteriors/fence002_end.mdl"
+		}
+		"408"
+		{
+			"type"		"model"
+			"model"		"models/props_exteriors/wood_railing001.mdl"
+		}
+		"409"
+		{
+			"type"		"model"
+			"model"		"models/props_windows/window_urban_bars_med.mdl"
+		}
+		"410"
+		{
+			"type"		"model"
+			"model"		"models/props_yard/playground_slide.mdl"
+		}
+		"411"
+		{
+			"type"		"model"
+			"model"		"models/props_windows/window_urban_stacked_double_96_112.mdl"
+		}
+		"412"
+		{
+			"type"		"model"
+			"model"		"models/props_windows/window_mill01.mdl"
+		}
+		"413"
+		{
+			"type"		"model"
+			"model"		"models/props_yard/playground_structure.mdl"
+		}
+		"414"
+		{
+			"type"		"model"
+			"model"		"models/props_windows/window_urban_apt_frame.mdl"
+		}
+		"415"
+		{
+			"type"		"model"
+			"model"		"models/props_exteriors/wood_railing001e.mdl"
+		}
+		"416"
+		{
+			"type"		"model"
+			"model"		"models/props_windows/window_urban_sash_48_88.mdl"
+		}
+		"417"
+		{
+			"type"		"model"
+			"model"		"models/props_exteriors/wood_railing001c.mdl"
+		}
+		"418"
+		{
+			"type"		"model"
+			"model"		"models/props_windows/window_mill02_broken.mdl"
+		}
+		"419"
+		{
+			"type"		"model"
+			"model"		"models/props_windows/window_urban_sash_48_88_full_frame.mdl"
+		}
+		"420"
+		{
+			"type"		"model"
+			"model"		"models/props_windows/hotel_window_sliding.mdl"
+		}
+		"421"
+		{
+			"type"		"model"
+			"model"		"models/props_windows/window_urban_stacked_40_112.mdl"
+		}
+		"422"
+		{
+			"type"		"model"
+			"model"		"models/props_windows/window_mill02_open.mdl"
+		}
+		"423"
+		{
+			"type"		"model"
+			"model"		"models/props_windows/window_mill01_thin.mdl"
+		}
+		"424"
+		{
+			"type"		"model"
+			"model"		"models/props_windows/window_farmhouse_big.mdl"
+		}
+		"425"
+		{
+			"type"		"model"
+			"model"		"models/props_windows/window_mill02_boarded.mdl"
+		}
+		"426"
+		{
+			"type"		"header"
+			"text"		"Fairground"
+		}
+		"427"
+		{
+			"type"		"model"
+			"model"		"models/props_fairgrounds/alligator.mdl"
+		}
+		"428"
+		{
+			"type"		"model"
+			"model"		"models/props_fairgrounds/amp_plexi.mdl"
+		}
+		"429"
+		{
+			"type"		"model"
+			"model"		"models/props_fairgrounds/amp_stack.mdl"
+		}
+		"430"
+		{
+			"type"		"model"
+			"model"		"models/props_fairgrounds/amp_stack_small.mdl"
+		}
+		"431"
+		{
+			"type"		"model"
+			"model"		"models/props_fairgrounds/anvil_case_32.mdl"
+		}
+		"432"
+		{
+			"type"		"model"
+			"model"		"models/props_fairgrounds/anvil_case_64.mdl"
+		}
+		"433"
+		{
+			"type"		"model"
+			"model"		"models/props_fairgrounds/anvil_case_casters_32.mdl"
+		}
+		"434"
+		{
+			"type"		"model"
+			"model"		"models/props_fairgrounds/anvil_case_casters_64.mdl"
+		}
+		"435"
+		{
+			"type"		"model"
+			"model"		"models/props_fairgrounds/arcadegame01.mdl"
+		}
+		"436"
+		{
+			"type"		"model"
+			"model"		"models/props_fairgrounds/arcadegame01_glassbroken.mdl"
+		}
+		"437"
+		{
+			"type"		"model"
+			"model"		"models/props_fairgrounds/arcadegame01_panel.mdl"
+		}
+		"438"
+		{
+			"type"		"model"
+			"model"		"models/props_fairgrounds/arcadegame01_screen.mdl"
+		}
+		"439"
+		{
+			"type"		"model"
+			"model"		"models/props_fairgrounds/arcadegame01_wheel.mdl"
+		}
+		"440"
+		{
+			"type"		"model"
+			"model"		"models/props_fairgrounds/barn_truss_01.mdl"
+		}
+		"441"
+		{
+			"type"		"model"
+			"model"		"models/props_fairgrounds/bass_amp.mdl"
+		}
+		"442"
+		{
+			"type"		"model"
+			"model"		"models/props_fairgrounds/bass_case.mdl"
+		}
+		"443"
+		{
+			"type"		"model"
+			"model"		"models/props_fairgrounds/bass_monitor.mdl"
+		}
+		"444"
+		{
+			"type"		"model"
+			"model"		"models/props_fairgrounds/building_support_128.mdl"
+		}
+		"445"
+		{
+			"type"		"model"
+			"model"		"models/props_fairgrounds/building_support_32.mdl"
+		}
+		"446"
+		{
+			"type"		"model"
+			"model"		"models/props_fairgrounds/building_support_64.mdl"
+		}
+		"447"
+		{
+			"type"		"model"
+			"model"		"models/props_fairgrounds/building_support_cornera.mdl"
+		}
+		"448"
+		{
+			"type"		"model"
+			"model"		"models/props_fairgrounds/building_support_cornerb.mdl"
+		}
+		"449"
+		{
+			"type"		"model"
+			"model"		"models/props_fairgrounds/bumper_car01.mdl"
+		}
+		"450"
+		{
+			"type"		"model"
+			"model"		"models/props_fairgrounds/bumper_car01_pole.mdl"
+		}
+		"451"
+		{
+			"type"		"model"
+			"model"		"models/props_fairgrounds/bumpercar.mdl"
+		}
+		"452"
+		{
+			"type"		"model"
+			"model"		"models/props_fairgrounds/bumpercar_pole.mdl"
+		}
+		"453"
+		{
+			"type"		"model"
+			"model"		"models/props_fairgrounds/bumpercar_wpole.mdl"
+		}
+		"454"
+		{
+			"type"		"model"
+			"model"		"models/props_fairgrounds/carousel_structure.mdl"
+		}
+		"455"
+		{
+			"type"		"model"
+			"model"		"models/props_fairgrounds/concession_sign_01.mdl"
+		}
+		"456"
+		{
+			"type"		"model"
+			"model"		"models/props_fairgrounds/concession_sign_02.mdl"
+		}
+		"457"
+		{
+			"type"		"model"
+			"model"		"models/props_fairgrounds/drum_riser.mdl"
+		}
+		"458"
+		{
+			"type"		"model"
+			"model"		"models/props_fairgrounds/elephant.mdl"
+		}
+		"459"
+		{
+			"type"		"model"
+			"model"		"models/props_fairgrounds/entrance_sign.mdl"
+		}
+		"460"
+		{
+			"type"		"model"
+			"model"		"models/props_fairgrounds/entrance_structure.mdl"
+		}
+		"461"
+		{
+			"type"		"model"
+			"model"		"models/props_fairgrounds/fairgrounds_banner01.mdl"
+		}
+		"462"
+		{
+			"type"		"model"
+			"model"		"models/props_fairgrounds/fairgrounds_banner02.mdl"
+		}
+		"463"
+		{
+			"type"		"model"
+			"model"		"models/props_fairgrounds/fairgrounds_electric_box001.mdl"
+		}
+		"464"
+		{
+			"type"		"model"
+			"model"		"models/props_fairgrounds/fairgrounds_electric_box001_frame.mdl"
+		}
+		"465"
+		{
+			"type"		"model"
+			"model"		"models/props_fairgrounds/fairgrounds_flagpole01.mdl"
+		}
+		"466"
+		{
+			"type"		"model"
+			"model"		"models/props_fairgrounds/ferris_wheel_01.mdl"
+		}
+		"467"
+		{
+			"type"		"model"
+			"model"		"models/props_fairgrounds/foodcart.mdl"
+		}
+		"468"
+		{
+			"type"		"model"
+			"model"		"models/props_fairgrounds/four_lights.mdl"
+		}
+		"469"
+		{
+			"type"		"model"
+			"model"		"models/props_fairgrounds/four_lights_b.mdl"
+		}
+		"470"
+		{
+			"type"		"model"
+			"model"		"models/props_fairgrounds/front_light.mdl"
+		}
+		"471"
+		{
+			"type"		"model"
+			"model"		"models/props_fairgrounds/front_speaker.mdl"
+		}
+		"472"
+		{
+			"type"		"model"
+			"model"		"models/props_fairgrounds/gallery_button.mdl"
+		}
+		"473"
+		{
+			"type"		"model"
+			"model"		"models/props_fairgrounds/gallery_gnome_sign.mdl"
+		}
+		"474"
+		{
+			"type"		"model"
+			"model"		"models/props_fairgrounds/gallery_panel_back.mdl"
+		}
+		"475"
+		{
+			"type"		"model"
+			"model"		"models/props_fairgrounds/gallery_panel_climber.mdl"
+		}
+		"476"
+		{
+			"type"		"model"
+			"model"		"models/props_fairgrounds/gallery_panel_front.mdl"
+		}
+		"477"
+		{
+			"type"		"model"
+			"model"		"models/props_fairgrounds/gallery_panel_middle.mdl"
+		}
+		"478"
+		{
+			"type"		"model"
+			"model"		"models/props_fairgrounds/gallery_sign.mdl"
+		}
+		"479"
+		{
+			"type"		"model"
+			"model"		"models/props_fairgrounds/gallery_target_lilpeanut.mdl"
+		}
+		"480"
+		{
+			"type"		"model"
+			"model"		"models/props_fairgrounds/gallery_target_moustachio.mdl"
+		}
+		"481"
+		{
+			"type"		"model"
+			"model"		"models/props_fairgrounds/gallery_target_skeleton.mdl"
+		}
+		"482"
+		{
+			"type"		"model"
+			"model"		"models/props_fairgrounds/garbage_drinks_container.mdl"
+		}
+		"483"
+		{
+			"type"		"model"
+			"model"		"models/props_fairgrounds/garbage_drinks_container_crushed.mdl"
+		}
+		"484"
+		{
+			"type"		"model"
+			"model"		"models/props_fairgrounds/garbage_hamburger_container.mdl"
+		}
+		"485"
+		{
+			"type"		"model"
+			"model"		"models/props_fairgrounds/garbage_paper_plate.mdl"
+		}
+		"486"
+		{
+			"type"		"model"
+			"model"		"models/props_fairgrounds/garbage_pile01.mdl"
+		}
+		"487"
+		{
+			"type"		"model"
+			"model"		"models/props_fairgrounds/garbage_pile02.mdl"
+		}
+		"488"
+		{
+			"type"		"model"
+			"model"		"models/props_fairgrounds/garbage_pile03.mdl"
+		}
+		"489"
+		{
+			"type"		"model"
+			"model"		"models/props_fairgrounds/garbage_pile_corner01.mdl"
+		}
+		"490"
+		{
+			"type"		"model"
+			"model"		"models/props_fairgrounds/garbage_pile_corner02.mdl"
+		}
+		"491"
+		{
+			"type"		"model"
+			"model"		"models/props_fairgrounds/garbage_pile_straight01.mdl"
+		}
+		"492"
+		{
+			"type"		"model"
+			"model"		"models/props_fairgrounds/garbage_pile_straight02.mdl"
+		}
+		"493"
+		{
+			"type"		"model"
+			"model"		"models/props_fairgrounds/garbage_pizza_box.mdl"
+		}
+		"494"
+		{
+			"type"		"model"
+			"model"		"models/props_fairgrounds/garbage_popcorn_box.mdl"
+		}
+		"495"
+		{
+			"type"		"model"
+			"model"		"models/props_fairgrounds/garbage_popcorn_tub.mdl"
+		}
+		"496"
+		{
+			"type"		"model"
+			"model"		"models/props_fairgrounds/giraffe.mdl"
+		}
+		"497"
+		{
+			"type"		"model"
+			"model"		"models/props_fairgrounds/gnome_closet.mdl"
+		}
+		"498"
+		{
+			"type"		"model"
+			"model"		"models/props_fairgrounds/hanging_amp.mdl"
+		}
+		"499"
+		{
+			"type"		"model"
+			"model"		"models/props_fairgrounds/hanging_corner_amp.mdl"
+		}
+		"500"
+		{
+			"type"		"model"
+			"model"		"models/props_fairgrounds/kiddyland_ridecar.mdl"
+		}
+		"501"
+		{
+			"type"		"model"
+			"model"		"models/props_fairgrounds/kiddyland_riderocket.mdl"
+		}
+		"502"
+		{
+			"type"		"model"
+			"model"		"models/props_fairgrounds/kiddyland_riderocket_small.mdl"
+		}
+		"503"
+		{
+			"type"		"model"
+			"model"		"models/props_fairgrounds/kiddyland_ridestructure.mdl"
+		}
+		"504"
+		{
+			"type"		"model"
+			"model"		"models/props_fairgrounds/kiddyland_ridestructure_closed.mdl"
+		}
+		"505"
+		{
+			"type"		"model"
+			"model"		"models/props_fairgrounds/kiddyland_ridetrain.mdl"
+		}
+		"506"
+		{
+			"type"		"model"
+			"model"		"models/props_fairgrounds/lighting_board.mdl"
+		}
+		"507"
+		{
+			"type"		"model"
+			"model"		"models/props_fairgrounds/lil'peanut_cutout001.mdl"
+		}
+		"508"
+		{
+			"type"		"model"
+			"model"		"models/props_fairgrounds/lil'peanut_cutout001_dmg001.mdl"
+		}
+		"509"
+		{
+			"type"		"model"
+			"model"		"models/props_fairgrounds/lil'peanut_cutout001_dmg002.mdl"
+		}
+		"510"
+		{
+			"type"		"model"
+			"model"		"models/props_fairgrounds/lil'peanut_cutout001_dmg003.mdl"
+		}
+		"511"
+		{
+			"type"		"model"
+			"model"		"models/props_fairgrounds/lil'peanut_cutout001_dmg004.mdl"
+		}
+		"512"
+		{
+			"type"		"model"
+			"model"		"models/props_fairgrounds/lil'peanut_cutout001_dmg005.mdl"
+		}
+		"513"
+		{
+			"type"		"model"
+			"model"		"models/props_fairgrounds/lil'peanut_sign001.mdl"
+		}
+		"514"
+		{
+			"type"		"model"
+			"model"		"models/props_fairgrounds/metal_cart.mdl"
+		}
+		"515"
+		{
+			"type"		"model"
+			"model"		"models/props_fairgrounds/metal_cart2.mdl"
+		}
+		"516"
+		{
+			"type"		"model"
+			"model"		"models/props_fairgrounds/metal_cart3.mdl"
+		}
+		"517"
+		{
+			"type"		"model"
+			"model"		"models/props_fairgrounds/mic_stand.mdl"
+		}
+		"518"
+		{
+			"type"		"model"
+			"model"		"models/props_fairgrounds/milk_bottle.mdl"
+		}
+		"519"
+		{
+			"type"		"model"
+			"model"		"models/props_fairgrounds/monitor_speaker.mdl"
+		}
+		"520"
+		{
+			"type"		"model"
+			"model"		"models/props_fairgrounds/monorail_column_01.mdl"
+		}
+		"521"
+		{
+			"type"		"model"
+			"model"		"models/props_fairgrounds/monorail_curve_01.mdl"
+		}
+		"522"
+		{
+			"type"		"model"
+			"model"		"models/props_fairgrounds/monorail_curve_02.mdl"
+		}
+		"523"
+		{
+			"type"		"model"
+			"model"		"models/props_fairgrounds/monorail_straight_512.mdl"
+		}
+		"524"
+		{
+			"type"		"model"
+			"model"		"models/props_fairgrounds/mortar_rack.mdl"
+		}
+		"525"
+		{
+			"type"		"model"
+			"model"		"models/props_fairgrounds/mr_mustachio.mdl"
+		}
+		"526"
+		{
+			"type"		"model"
+			"model"		"models/props_fairgrounds/pyrotechnics_launcher.mdl"
+		}
+		"527"
+		{
+			"type"		"model"
+			"model"		"models/props_fairgrounds/pyrotechnics_switch.mdl"
+		}
+		"528"
+		{
+			"type"		"model"
+			"model"		"models/props_fairgrounds/quad_light.mdl"
+		}
+		"529"
+		{
+			"type"		"model"
+			"model"		"models/props_fairgrounds/ride_rotato.mdl"
+		}
+		"530"
+		{
+			"type"		"model"
+			"model"		"models/props_fairgrounds/scaffold_arch.mdl"
+		}
+		"531"
+		{
+			"type"		"model"
+			"model"		"models/props_fairgrounds/single_light.mdl"
+		}
+		"532"
+		{
+			"type"		"model"
+			"model"		"models/props_fairgrounds/six_lights.mdl"
+		}
+		"533"
+		{
+			"type"		"model"
+			"model"		"models/props_fairgrounds/slide.mdl"
+		}
+		"534"
+		{
+			"type"		"model"
+			"model"		"models/props_fairgrounds/snake.mdl"
+		}
+		"535"
+		{
+			"type"		"model"
+			"model"		"models/props_fairgrounds/sound_board.mdl"
+		}
+		"536"
+		{
+			"type"		"model"
+			"model"		"models/props_fairgrounds/sound_board2.mdl"
+		}
+		"537"
+		{
+			"type"		"model"
+			"model"		"models/props_fairgrounds/sound_board_base.mdl"
+		}
+		"538"
+		{
+			"type"		"model"
+			"model"		"models/props_fairgrounds/sound_board_corner.mdl"
+		}
+		"539"
+		{
+			"type"		"model"
+			"model"		"models/props_fairgrounds/stadium_bench.mdl"
+		}
+		"540"
+		{
+			"type"		"model"
+			"model"		"models/props_fairgrounds/stadium_bench3.mdl"
+		}
+		"541"
+		{
+			"type"		"model"
+			"model"		"models/props_fairgrounds/stadium_bench4.mdl"
+		}
+		"542"
+		{
+			"type"		"model"
+			"model"		"models/props_fairgrounds/stadium_bench5.mdl"
+		}
+		"543"
+		{
+			"type"		"model"
+			"model"		"models/props_fairgrounds/stadium_bench6.mdl"
+		}
+		"544"
+		{
+			"type"		"model"
+			"model"		"models/props_fairgrounds/stadium_bench7.mdl"
+		}
+		"545"
+		{
+			"type"		"model"
+			"model"		"models/props_fairgrounds/stadium_bench7_left.mdl"
+		}
+		"546"
+		{
+			"type"		"model"
+			"model"		"models/props_fairgrounds/stadium_bench8.mdl"
+		}
+		"547"
+		{
+			"type"		"model"
+			"model"		"models/props_fairgrounds/stadium_bench8_left.mdl"
+		}
+		"548"
+		{
+			"type"		"model"
+			"model"		"models/props_fairgrounds/stadium_bench_customa.mdl"
+		}
+		"549"
+		{
+			"type"		"model"
+			"model"		"models/props_fairgrounds/stadium_bench_customb.mdl"
+		}
+		"550"
+		{
+			"type"		"model"
+			"model"		"models/props_fairgrounds/stadium_bench_customc.mdl"
+		}
+		"551"
+		{
+			"type"		"model"
+			"model"		"models/props_fairgrounds/stadium_bench_customd.mdl"
+		}
+		"552"
+		{
+			"type"		"model"
+			"model"		"models/props_fairgrounds/stadium_bench_custome.mdl"
+		}
+		"553"
+		{
+			"type"		"model"
+			"model"		"models/props_fairgrounds/stadium_bench_customf.mdl"
+		}
+		"554"
+		{
+			"type"		"model"
+			"model"		"models/props_fairgrounds/stadium_bench_customg.mdl"
+		}
+		"555"
+		{
+			"type"		"model"
+			"model"		"models/props_fairgrounds/stadium_bench_customh.mdl"
+		}
+		"556"
+		{
+			"type"		"model"
+			"model"		"models/props_fairgrounds/stadium_bench_customi.mdl"
+		}
+		"557"
+		{
+			"type"		"model"
+			"model"		"models/props_fairgrounds/stadium_bench_customj.mdl"
+		}
+		"558"
+		{
+			"type"		"model"
+			"model"		"models/props_fairgrounds/stadium_truss.mdl"
+		}
+		"559"
+		{
+			"type"		"model"
+			"model"		"models/props_fairgrounds/stage_cable1.mdl"
+		}
+		"560"
+		{
+			"type"		"model"
+			"model"		"models/props_fairgrounds/stage_drapery.mdl"
+		}
+		"561"
+		{
+			"type"		"model"
+			"model"		"models/props_fairgrounds/stage_roof_structure.mdl"
+		}
+		"562"
+		{
+			"type"		"model"
+			"model"		"models/props_fairgrounds/stage_roof_structureb.mdl"
+		}
+		"563"
+		{
+			"type"		"model"
+			"model"		"models/props_fairgrounds/stage_scaffold_128.mdl"
+		}
+		"564"
+		{
+			"type"		"model"
+			"model"		"models/props_fairgrounds/stage_scaffold_32.mdl"
+		}
+		"565"
+		{
+			"type"		"model"
+			"model"		"models/props_fairgrounds/stage_scaffold_64.mdl"
+		}
+		"566"
+		{
+			"type"		"model"
+			"model"		"models/props_fairgrounds/stage_structure.mdl"
+		}
+		"567"
+		{
+			"type"		"model"
+			"model"		"models/props_fairgrounds/stair_cascade.mdl"
+		}
+		"568"
+		{
+			"type"		"model"
+			"model"		"models/props_fairgrounds/strongman_almondo.mdl"
+		}
+		"569"
+		{
+			"type"		"model"
+			"model"		"models/props_fairgrounds/strongman_baby.mdl"
+		}
+		"570"
+		{
+			"type"		"model"
+			"model"		"models/props_fairgrounds/strongman_cashew.mdl"
+		}
+		"571"
+		{
+			"type"		"model"
+			"model"		"models/props_fairgrounds/strongman_lilpeanut.mdl"
+		}
+		"572"
+		{
+			"type"		"model"
+			"model"		"models/props_fairgrounds/strongman_moustachio.mdl"
+		}
+		"573"
+		{
+			"type"		"model"
+			"model"		"models/props_fairgrounds/strongman_moustachio_cutout001.mdl"
+		}
+		"574"
+		{
+			"type"		"model"
+			"model"		"models/props_fairgrounds/strongmangame_bell.mdl"
+		}
+		"575"
+		{
+			"type"		"model"
+			"model"		"models/props_fairgrounds/strongmangame_button.mdl"
+		}
+		"576"
+		{
+			"type"		"model"
+			"model"		"models/props_fairgrounds/strongmangame_puck.mdl"
+		}
+		"577"
+		{
+			"type"		"model"
+			"model"		"models/props_fairgrounds/strongmangame_puck_phys.mdl"
+		}
+		"578"
+		{
+			"type"		"model"
+			"model"		"models/props_fairgrounds/strongmangame_tower.mdl"
+		}
+		"579"
+		{
+			"type"		"model"
+			"model"		"models/props_fairgrounds/swan_boat.mdl"
+		}
+		"580"
+		{
+			"type"		"model"
+			"model"		"models/props_fairgrounds/ticketbooth_01.mdl"
+		}
+		"581"
+		{
+			"type"		"model"
+			"model"		"models/props_fairgrounds/ticketbooth_02.mdl"
+		}
+		"582"
+		{
+			"type"		"model"
+			"model"		"models/props_fairgrounds/toggle_switch.mdl"
+		}
+		"583"
+		{
+			"type"		"model"
+			"model"		"models/props_fairgrounds/tol_boarding_rail.mdl"
+		}
+		"584"
+		{
+			"type"		"model"
+			"model"		"models/props_fairgrounds/tol_sideroom_painting.mdl"
+		}
+		"585"
+		{
+			"type"		"model"
+			"model"		"models/props_fairgrounds/tol_sideroom_props.mdl"
+		}
+		"586"
+		{
+			"type"		"model"
+			"model"		"models/props_fairgrounds/tol_sign.mdl"
+		}
+		"587"
+		{
+			"type"		"model"
+			"model"		"models/props_fairgrounds/tol_sign002.mdl"
+		}
+		"588"
+		{
+			"type"		"model"
+			"model"		"models/props_fairgrounds/tol_tunnel_heart.mdl"
+		}
+		"589"
+		{
+			"type"		"model"
+			"model"		"models/props_fairgrounds/track_column_01.mdl"
+		}
+		"590"
+		{
+			"type"		"model"
+			"model"		"models/props_fairgrounds/track_column_base.mdl"
+		}
+		"591"
+		{
+			"type"		"model"
+			"model"		"models/props_fairgrounds/track_curve_01.mdl"
+		}
+		"592"
+		{
+			"type"		"model"
+			"model"		"models/props_fairgrounds/track_curve_02.mdl"
+		}
+		"593"
+		{
+			"type"		"model"
+			"model"		"models/props_fairgrounds/track_straight_128.mdl"
+		}
+		"594"
+		{
+			"type"		"model"
+			"model"		"models/props_fairgrounds/track_straight_192.mdl"
+		}
+		"595"
+		{
+			"type"		"model"
+			"model"		"models/props_fairgrounds/track_straight_320.mdl"
+		}
+		"596"
+		{
+			"type"		"model"
+			"model"		"models/props_fairgrounds/track_straight_512.mdl"
+		}
+		"597"
+		{
+			"type"		"model"
+			"model"		"models/props_fairgrounds/traffic_barrel.mdl"
+		}
+		"598"
+		{
+			"type"		"model"
+			"model"		"models/props_fairgrounds/trailermessageboard.mdl"
+		}
+		"599"
+		{
+			"type"		"model"
+			"model"		"models/props_fairgrounds/walkway_structure.mdl"
+		}
+		"600"
+		{
+			"type"		"model"
+			"model"		"models/props_windows/hotel_door_sliding.mdl"
+		}
+		"601"
+		{
+			"type"		"model"
+			"model"		"models/props_windows/window_mill01_frame.mdl"
+		}
+		"602"
+		{
+			"type"		"model"
+			"model"		"models/props_windows/window_urban_sash_32_72_boarded.mdl"
+		}
+		"603"
+		{
+			"type"		"model"
+			"model"		"models/props_windows/hotel_door_sliding_glass003.mdl"
+		}
+		"604"
+		{
+			"type"		"model"
+			"model"		"models/props_wasteland/light_spotlight01_lamp.mdl"
+		}
+		"605"
+		{
+			"type"		"model"
+			"model"		"models/props_windows/window_industrial.mdl"
+		}
+		"606"
+		{
+			"type"		"model"
+			"model"		"models/props_windows/window_urban_sash_32_72_full_frame.mdl"
+		}
+		"607"
+		{
+			"type"		"model"
+			"model"		"models/props_windows/hotel_door_sliding_glass001.mdl"
+		}
+		"608"
+		{
+			"type"		"model"
+			"model"		"models/props_wasteland/prison_switchbox001a.mdl"
+		}
+		"609"
+		{
+			"type"		"model"
+			"model"		"models/props_windows/hotel_window_glass001.mdl"
+		}
+		"610"
+		{
+			"type"		"model"
+			"model"		"models/props_vehicles/racecar_stage.mdl"
+		}
+		"611"
+		{
+			"type"		"model"
+			"model"		"models/props_vents/ventbreakable01_dm01_frame.mdl"
+		}
+		"612"
+		{
+			"type"		"model"
+			"model"		"models/props_vehicles/hmmwv_glass.mdl"
+		}
+		"613"
+		{
+			"type"		"model"
+			"model"		"models/props_vehicles/ceda_trailer_closed.mdl"
+		}
+		"614"
+		{
+			"type"		"header"
+			"text"		"Foliage"
+		}
+		"615"
+		{
+			"type"		"model"
+			"model"		"models/props_foliage/cane_field_ref.mdl"
+		}
+		"616"
+		{
+			"type"		"model"
+			"model"		"models/props_windows/window_urban_stacked_40_112_boarded.mdl"
+		}
+		"617"
+		{
+			"type"		"model"
+			"model"		"models/props_windows/window_urban_stacked_double_96_112_boarded.mdl"
+		}
+		"618"
+		{
+			"type"		"model"
+			"model"		"models/props_foliage/cane_field_split01.mdl"
+		}
+		"619"
+		{
+			"type"		"model"
+			"model"		"models/props_foliage/cane_field_split02.mdl"
+		}
+		"620"
+		{
+			"type"		"model"
+			"model"		"models/props_foliage/cane_field_split03.mdl"
+		}
+		"621"
+		{
+			"type"		"model"
+			"model"		"models/props_foliage/cane_field_split04.mdl"
+		}
+		"622"
+		{
+			"type"		"model"
+			"model"		"models/props_foliage/cane_field_split05.mdl"
+		}
+		"623"
+		{
+			"type"		"model"
+			"model"		"models/props_foliage/fallentree01.mdl"
+		}
+		"624"
+		{
+			"type"		"model"
+			"model"		"models/props_foliage/flower_barrel.mdl"
+		}
+		"625"
+		{
+			"type"		"model"
+			"model"		"models/props_foliage/mall_big_plant01.mdl"
+		}
+		"626"
+		{
+			"type"		"model"
+			"model"		"models/props_foliage/mall_big_plant01_dirt.mdl"
+		}
+		"627"
+		{
+			"type"		"model"
+			"model"		"models/props_foliage/mall_bigleaves_plant01.mdl"
+		}
+		"628"
+		{
+			"type"		"model"
+			"model"		"models/props_foliage/mall_bigleaves_plant01_medium.mdl"
+		}
+		"629"
+		{
+			"type"		"model"
+			"model"		"models/props_foliage/mall_bigleaves_plant02.mdl"
+		}
+		"630"
+		{
+			"type"		"model"
+			"model"		"models/props_foliage/mall_bigleaves_plant02_medium.mdl"
+		}
+		"631"
+		{
+			"type"		"model"
+			"model"		"models/props_foliage/mall_bigleaves_plant03.mdl"
+		}
+		"632"
+		{
+			"type"		"model"
+			"model"		"models/props_foliage/mall_bigleaves_plant03_dirt.mdl"
+		}
+		"633"
+		{
+			"type"		"model"
+			"model"		"models/props_foliage/mall_bigleaves_plant03_medium.mdl"
+		}
+		"634"
+		{
+			"type"		"model"
+			"model"		"models/props_foliage/mall_bush01.mdl"
+		}
+		"635"
+		{
+			"type"		"model"
+			"model"		"models/props_foliage/mall_bush02.mdl"
+		}
+		"636"
+		{
+			"type"		"model"
+			"model"		"models/props_foliage/mall_fern01.mdl"
+		}
+		"637"
+		{
+			"type"		"model"
+			"model"		"models/props_foliage/mall_grass_bush01.mdl"
+		}
+		"638"
+		{
+			"type"		"model"
+			"model"		"models/props_foliage/mall_grass_bush01_dirt.mdl"
+		}
+		"639"
+		{
+			"type"		"model"
+			"model"		"models/props_foliage/mall_palm01.mdl"
+		}
+		"640"
+		{
+			"type"		"model"
+			"model"		"models/props_foliage/mall_palm01_medium.mdl"
+		}
+		"641"
+		{
+			"type"		"model"
+			"model"		"models/props_foliage/mall_palmplant02.mdl"
+		}
+		"642"
+		{
+			"type"		"model"
+			"model"		"models/props_foliage/mall_pot_large01.mdl"
+		}
+		"643"
+		{
+			"type"		"model"
+			"model"		"models/props_foliage/mall_pot_large02.mdl"
+		}
+		"644"
+		{
+			"type"		"model"
+			"model"		"models/props_foliage/mall_pot_square01.mdl"
+		}
+		"645"
+		{
+			"type"		"model"
+			"model"		"models/props_foliage/mall_pot_square02.mdl"
+		}
+		"646"
+		{
+			"type"		"model"
+			"model"		"models/props_foliage/mall_pot_squarexl01.mdl"
+		}
+		"647"
+		{
+			"type"		"model"
+			"model"		"models/props_foliage/mall_pot_xlarge01.mdl"
+		}
+		"648"
+		{
+			"type"		"model"
+			"model"		"models/props_foliage/mall_pot_xlarge02.mdl"
+		}
+		"649"
+		{
+			"type"		"model"
+			"model"		"models/props_foliage/mall_small_palm01.mdl"
+		}
+		"650"
+		{
+			"type"		"model"
+			"model"		"models/props_foliage/mall_small_palm01_cluster.mdl"
+		}
+		"651"
+		{
+			"type"		"model"
+			"model"		"models/props_foliage/mall_small_palm01_cluster_medium.mdl"
+		}
+		"652"
+		{
+			"type"		"model"
+			"model"		"models/props_foliage/mall_small_palm01_medium.mdl"
+		}
+		"653"
+		{
+			"type"		"model"
+			"model"		"models/props_foliage/mall_tree_large01.mdl"
+		}
+		"654"
+		{
+			"type"		"model"
+			"model"		"models/props_foliage/mall_tree_medium01.mdl"
+		}
+		"655"
+		{
+			"type"		"model"
+			"model"		"models/props_foliage/old_tree01.mdl"
+		}
+		"656"
+		{
+			"type"		"model"
+			"model"		"models/props_foliage/swamp_cluster01.mdl"
+		}
+		"657"
+		{
+			"type"		"model"
+			"model"		"models/props_foliage/swamp_cluster_water.mdl"
+		}
+		"658"
+		{
+			"type"		"model"
+			"model"		"models/props_foliage/swamp_cypress_broken01.mdl"
+		}
+		"659"
+		{
+			"type"		"model"
+			"model"		"models/props_foliage/swamp_cypress_dry01.mdl"
+		}
+		"660"
+		{
+			"type"		"model"
+			"model"		"models/props_foliage/swamp_cypress_dry02.mdl"
+		}
+		"661"
+		{
+			"type"		"model"
+			"model"		"models/props_foliage/swamp_cypress_knee01.mdl"
+		}
+		"662"
+		{
+			"type"		"model"
+			"model"		"models/props_foliage/swamp_cypress_knee02.mdl"
+		}
+		"663"
+		{
+			"type"		"model"
+			"model"		"models/props_foliage/swamp_cypress_knee03.mdl"
+		}
+		"664"
+		{
+			"type"		"model"
+			"model"		"models/props_foliage/swamp_cypress_large01.mdl"
+		}
+		"665"
+		{
+			"type"		"model"
+			"model"		"models/props_foliage/swamp_cypress_large01_grnd.mdl"
+		}
+		"666"
+		{
+			"type"		"model"
+			"model"		"models/props_foliage/swamp_cypress_large02.mdl"
+		}
+		"667"
+		{
+			"type"		"model"
+			"model"		"models/props_foliage/swamp_cypress_large02_grnd.mdl"
+		}
+		"668"
+		{
+			"type"		"model"
+			"model"		"models/props_foliage/swamp_cypress_large_grnd01.mdl"
+		}
+		"669"
+		{
+			"type"		"model"
+			"model"		"models/props_foliage/swamp_cypress_large_grnd_grass01.mdl"
+		}
+		"670"
+		{
+			"type"		"model"
+			"model"		"models/props_foliage/swamp_cypress_medium01.mdl"
+		}
+		"671"
+		{
+			"type"		"model"
+			"model"		"models/props_foliage/swamp_cypress_medium_grnd01.mdl"
+		}
+		"672"
+		{
+			"type"		"model"
+			"model"		"models/props_foliage/swamp_cypress_medium_grnd_grass01.mdl"
+		}
+		"673"
+		{
+			"type"		"model"
+			"model"		"models/props_foliage/swamp_cypress_small01.mdl"
+		}
+		"674"
+		{
+			"type"		"model"
+			"model"		"models/props_foliage/swamp_cypress_small02.mdl"
+		}
+		"675"
+		{
+			"type"		"model"
+			"model"		"models/props_foliage/swamp_cypress_small_grnd01.mdl"
+		}
+		"676"
+		{
+			"type"		"model"
+			"model"		"models/props_foliage/swamp_cypress_small_grnd02.mdl"
+		}
+		"677"
+		{
+			"type"		"model"
+			"model"		"models/props_foliage/swamp_cypress_small_grnd_grass01.mdl"
+		}
+		"678"
+		{
+			"type"		"model"
+			"model"		"models/props_foliage/swamp_cypress_stump01.mdl"
+		}
+		"679"
+		{
+			"type"		"model"
+			"model"		"models/props_foliage/swamp_fallentree01.mdl"
+		}
+		"680"
+		{
+			"type"		"model"
+			"model"		"models/props_foliage/swamp_fallentree01_bare.mdl"
+		}
+		"681"
+		{
+			"type"		"model"
+			"model"		"models/props_foliage/swamp_fallentree_dry01.mdl"
+		}
+		"682"
+		{
+			"type"		"model"
+			"model"		"models/props_foliage/swamp_grass01.mdl"
+		}
+		"683"
+		{
+			"type"		"model"
+			"model"		"models/props_foliage/swamp_grass_row01.mdl"
+		}
+		"684"
+		{
+			"type"		"model"
+			"model"		"models/props_foliage/swamp_rock01.mdl"
+		}
+		"685"
+		{
+			"type"		"model"
+			"model"		"models/props_foliage/swamp_rock01_grass.mdl"
+		}
+		"686"
+		{
+			"type"		"model"
+			"model"		"models/props_foliage/swamp_rock02.mdl"
+		}
+		"687"
+		{
+			"type"		"model"
+			"model"		"models/props_foliage/swamp_rock02_grass.mdl"
+		}
+		"688"
+		{
+			"type"		"model"
+			"model"		"models/props_foliage/swamp_rockcypress01.mdl"
+		}
+		"689"
+		{
+			"type"		"model"
+			"model"		"models/props_foliage/swamp_rockcypress02.mdl"
+		}
+		"690"
+		{
+			"type"		"model"
+			"model"		"models/props_foliage/swamp_shrubwall_256_deep.mdl"
+		}
+		"691"
+		{
+			"type"		"model"
+			"model"		"models/props_foliage/swamp_shrubwall_256a.mdl"
+		}
+		"692"
+		{
+			"type"		"model"
+			"model"		"models/props_foliage/swamp_shrubwall_256b.mdl"
+		}
+		"693"
+		{
+			"type"		"model"
+			"model"		"models/props_foliage/swamp_shrubwall_512.mdl"
+		}
+		"694"
+		{
+			"type"		"model"
+			"model"		"models/props_foliage/swamp_shrubwall_512_deep.mdl"
+		}
+		"695"
+		{
+			"type"		"model"
+			"model"		"models/props_foliage/swamp_shrubwall_block_128_deep.mdl"
+		}
+		"696"
+		{
+			"type"		"model"
+			"model"		"models/props_foliage/swamp_shrubwall_block_256.mdl"
+		}
+		"697"
+		{
+			"type"		"model"
+			"model"		"models/props_foliage/swamp_shrubwall_block_256_deep.mdl"
+		}
+		"698"
+		{
+			"type"		"model"
+			"model"		"models/props_foliage/swamp_shrubwall_block_512.mdl"
+		}
+		"699"
+		{
+			"type"		"model"
+			"model"		"models/props_foliage/swamp_shrubwall_block_512_deep.mdl"
+		}
+		"700"
+		{
+			"type"		"model"
+			"model"		"models/props_foliage/swamp_trees_small01.mdl"
+		}
+		"701"
+		{
+			"type"		"model"
+			"model"		"models/props_foliage/swamp_trees_small_row01.mdl"
+		}
+		"702"
+		{
+			"type"		"model"
+			"model"		"models/props_foliage/swamp_trees_small_row02.mdl"
+		}
+		"703"
+		{
+			"type"		"model"
+			"model"		"models/props_foliage/swamp_waterplant01.mdl"
+		}
+		"704"
+		{
+			"type"		"model"
+			"model"		"models/props_foliage/swampcl_animatedleaves01.mdl"
+		}
+		"705"
+		{
+			"type"		"model"
+			"model"		"models/props_foliage/tree_city01.mdl"
+		}
+		"706"
+		{
+			"type"		"model"
+			"model"		"models/props_foliage/tree_trunk.mdl"
+		}
+		"707"
+		{
+			"type"		"model"
+			"model"		"models/props_foliage/tree_trunk_chunk01.mdl"
+		}
+		"708"
+		{
+			"type"		"model"
+			"model"		"models/props_foliage/tree_trunk_chunk02.mdl"
+		}
+		"709"
+		{
+			"type"		"model"
+			"model"		"models/props_foliage/tree_trunk_chunk03.mdl"
+		}
+		"710"
+		{
+			"type"		"model"
+			"model"		"models/props_foliage/tree_trunk_chunk04.mdl"
+		}
+		"711"
+		{
+			"type"		"model"
+			"model"		"models/props_foliage/tree_trunk_chunk05.mdl"
+		}
+		"712"
+		{
+			"type"		"model"
+			"model"		"models/props_foliage/tree_trunk_chunk06.mdl"
+		}
+		"713"
+		{
+			"type"		"model"
+			"model"		"models/props_foliage/tree_trunk_fallen.mdl"
+		}
+		"714"
+		{
+			"type"		"model"
+			"model"		"models/props_foliage/trees_cluster01.mdl"
+		}
+		"715"
+		{
+			"type"		"model"
+			"model"		"models/props_foliage/urban_balcony_planter01.mdl"
+		}
+		"716"
+		{
+			"type"		"model"
+			"model"		"models/props_foliage/urban_balcony_planter02.mdl"
+		}
+		"717"
+		{
+			"type"		"model"
+			"model"		"models/props_foliage/urban_bigplant01.mdl"
+		}
+		"718"
+		{
+			"type"		"model"
+			"model"		"models/props_foliage/urban_bush01.mdl"
+		}
+		"719"
+		{
+			"type"		"model"
+			"model"		"models/props_foliage/urban_bush02.mdl"
+		}
+		"720"
+		{
+			"type"		"model"
+			"model"		"models/props_foliage/urban_bush_angled_128.mdl"
+		}
+		"721"
+		{
+			"type"		"model"
+			"model"		"models/props_foliage/urban_bush_angled_256.mdl"
+		}
+		"722"
+		{
+			"type"		"model"
+			"model"		"models/props_foliage/urban_bush_angled_64.mdl"
+		}
+		"723"
+		{
+			"type"		"model"
+			"model"		"models/props_foliage/urban_fern01.mdl"
+		}
+		"724"
+		{
+			"type"		"model"
+			"model"		"models/props_foliage/urban_grass_bush01.mdl"
+		}
+		"725"
+		{
+			"type"		"model"
+			"model"		"models/props_foliage/urban_hedge_128_64_high.mdl"
+		}
+		"726"
+		{
+			"type"		"model"
+			"model"		"models/props_foliage/urban_hedge_256_128_high.mdl"
+		}
+		"727"
+		{
+			"type"		"model"
+			"model"		"models/props_foliage/urban_hedge_256_128_seethrough.mdl"
+		}
+		"728"
+		{
+			"type"		"model"
+			"model"		"models/props_foliage/urban_palm01.mdl"
+		}
+		"729"
+		{
+			"type"		"model"
+			"model"		"models/props_foliage/urban_palm01_medium.mdl"
+		}
+		"730"
+		{
+			"type"		"model"
+			"model"		"models/props_foliage/urban_palm01_small.mdl"
+		}
+		"731"
+		{
+			"type"		"model"
+			"model"		"models/props_foliage/urban_pot_bigplant01.mdl"
+		}
+		"732"
+		{
+			"type"		"model"
+			"model"		"models/props_foliage/urban_pot_clay01.mdl"
+		}
+		"733"
+		{
+			"type"		"model"
+			"model"		"models/props_foliage/urban_pot_clay02.mdl"
+		}
+		"734"
+		{
+			"type"		"model"
+			"model"		"models/props_foliage/urban_pot_clay03.mdl"
+		}
+		"735"
+		{
+			"type"		"model"
+			"model"		"models/props_foliage/urban_pot_fancy01.mdl"
+		}
+		"736"
+		{
+			"type"		"model"
+			"model"		"models/props_foliage/urban_pot_large01.mdl"
+		}
+		"737"
+		{
+			"type"		"model"
+			"model"		"models/props_foliage/urban_pot_square01.mdl"
+		}
+		"738"
+		{
+			"type"		"model"
+			"model"		"models/props_foliage/urban_pot_xlarge01.mdl"
+		}
+		"739"
+		{
+			"type"		"model"
+			"model"		"models/props_foliage/urban_pot_xlsquare01.mdl"
+		}
+		"740"
+		{
+			"type"		"model"
+			"model"		"models/props_foliage/urban_small_palm01.mdl"
+		}
+		"741"
+		{
+			"type"		"model"
+			"model"		"models/props_foliage/urban_streetpalm01.mdl"
+		}
+		"742"
+		{
+			"type"		"model"
+			"model"		"models/props_foliage/urban_streetpalm01_medium.mdl"
+		}
+		"743"
+		{
+			"type"		"model"
+			"model"		"models/props_foliage/urban_streetpalm01_small.mdl"
+		}
+		"744"
+		{
+			"type"		"model"
+			"model"		"models/props_foliage/urban_streettree01.mdl"
+		}
+		"745"
+		{
+			"type"		"model"
+			"model"		"models/props_foliage/urban_streettree01_medium.mdl"
+		}
+		"746"
+		{
+			"type"		"model"
+			"model"		"models/props_foliage/urban_streettree01_small.mdl"
+		}
+		"747"
+		{
+			"type"		"model"
+			"model"		"models/props_foliage/urban_tree01.mdl"
+		}
+		"748"
+		{
+			"type"		"model"
+			"model"		"models/props_foliage/urban_tree01_medium.mdl"
+		}
+		"749"
+		{
+			"type"		"model"
+			"model"		"models/props_foliage/urban_tree01_small.mdl"
+		}
+		"750"
+		{
+			"type"		"model"
+			"model"		"models/props_foliage/urban_tree_base_bushes01.mdl"
+		}
+		"751"
+		{
+			"type"		"model"
+			"model"		"models/props_foliage/urban_tree_base_bushes01_large.mdl"
+		}
+		"752"
+		{
+			"type"		"model"
+			"model"		"models/props_foliage/urban_tree_base_bushes02.mdl"
+		}
+		"753"
+		{
+			"type"		"model"
+			"model"		"models/props_foliage/urban_tree_giant01.mdl"
+		}
+		"754"
+		{
+			"type"		"model"
+			"model"		"models/props_foliage/urban_tree_giant01_a.mdl"
+		}
+		"755"
+		{
+			"type"		"model"
+			"model"		"models/props_foliage/urban_tree_giant01_medium.mdl"
+		}
+		"756"
+		{
+			"type"		"model"
+			"model"		"models/props_foliage/urban_tree_giant01_skysphere.mdl"
+		}
+		"757"
+		{
+			"type"		"model"
+			"model"		"models/props_foliage/urban_tree_giant01_small.mdl"
+		}
+		"758"
+		{
+			"type"		"model"
+			"model"		"models/props_foliage/urban_tree_giant02.mdl"
+		}
+		"759"
+		{
+			"type"		"model"
+			"model"		"models/props_foliage/urban_tree_giant02_medium.mdl"
+		}
+		"760"
+		{
+			"type"		"model"
+			"model"		"models/props_foliage/urban_tree_giant02_mediuma.mdl"
+		}
+		"761"
+		{
+			"type"		"model"
+			"model"		"models/props_foliage/urban_tree_giant02_small.mdl"
+		}
+		"762"
+		{
+			"type"		"model"
+			"model"		"models/props_foliage/urban_tree_giant_dario.mdl"
+		}
+		"763"
+		{
+			"type"		"model"
+			"model"		"models/props_foliage/urban_trees_cluster01.mdl"
+		}
+		"764"
+		{
+			"type"		"model"
+			"model"		"models/props_foliage/urban_trees_cluster02.mdl"
+		}
+		"765"
+		{
+			"type"		"model"
+			"model"		"models/props_foliage/urban_trees_dryleaves01.mdl"
+		}
+		"766"
+		{
+			"type"		"model"
+			"model"		"models/props_foliage/urban_trees_small01.mdl"
+		}
+		"767"
+		{
+			"type"		"model"
+			"model"		"models/props_foliage/urban_vine01.mdl"
+		}
+		"768"
+		{
+			"type"		"model"
+			"model"		"models/props_foliage/urban_vine02.mdl"
+		}
+		"769"
+		{
+			"type"		"model"
+			"model"		"models/props_foliage/urban_vine03.mdl"
+		}
+		"770"
+		{
+			"type"		"model"
+			"model"		"models/props_foliage/urban_vine04.mdl"
+		}
+		"771"
+		{
+			"type"		"model"
+			"model"		"models/props_foliage/urban_wall_basket01.mdl"
+		}
+		"772"
+		{
+			"type"		"model"
+			"model"		"models/props_foliage/urban_wall_basket02.mdl"
+		}
+		"773"
+		{
+			"type"		"header"
+			"text"		"Fortifications"
+		}
+		"774"
+		{
+			"type"		"model"
+			"model"		"models/props_fortifications/barricade001_128_reference.mdl"
+		}
+		"775"
+		{
+			"type"		"model"
+			"model"		"models/props_fortifications/barricade001_64_reference.mdl"
+		}
+		"776"
+		{
+			"type"		"model"
+			"model"		"models/props_fortifications/barricade_gate001_64_reference.mdl"
+		}
+		"777"
+		{
+			"type"		"model"
+			"model"		"models/props_fortifications/barricade_razorwire001_128_reference.mdl"
+		}
+		"778"
+		{
+			"type"		"model"
+			"model"		"models/props_fortifications/concrete_barrier001_128_reference.mdl"
+		}
+		"779"
+		{
+			"type"		"model"
+			"model"		"models/props_fortifications/concrete_barrier001_96_reference.mdl"
+		}
+		"780"
+		{
+			"type"		"model"
+			"model"		"models/props_fortifications/concrete_block001_128_reference.mdl"
+		}
+		"781"
+		{
+			"type"		"model"
+			"model"		"models/props_fortifications/concrete_post001_48.mdl"
+		}
+		"782"
+		{
+			"type"		"model"
+			"model"		"models/props_fortifications/concrete_wall001_96_reference.mdl"
+		}
+		"783"
+		{
+			"type"		"model"
+			"model"		"models/props_fortifications/guard_tower.mdl"
+		}
+		"784"
+		{
+			"type"		"model"
+			"model"		"models/props_fortifications/orange_cone001_reference.mdl"
+		}
+		"785"
+		{
+			"type"		"model"
+			"model"		"models/props_fortifications/police_barrier001_128_reference.mdl"
+		}
+		"786"
+		{
+			"type"		"model"
+			"model"		"models/props_fortifications/traffic_barrier001.mdl"
+		}
+		"787"
+		{
+			"type"		"header"
+			"text"		"Furniture"
+		}
+		"788"
+		{
+			"type"		"model"
+			"model"		"models/props_furniture/bathtub1.mdl"
+		}
+		"789"
+		{
+			"type"		"model"
+			"model"		"models/props_furniture/cafe_barstool1.mdl"
+		}
+		"790"
+		{
+			"type"		"model"
+			"model"		"models/props_furniture/cafe_cabinet1.mdl"
+		}
+		"791"
+		{
+			"type"		"model"
+			"model"		"models/props_furniture/chair2.mdl"
+		}
+		"792"
+		{
+			"type"		"model"
+			"model"		"models/props_furniture/chair2_gib1.mdl"
+		}
+		"793"
+		{
+			"type"		"model"
+			"model"		"models/props_furniture/chair2_gib2.mdl"
+		}
+		"794"
+		{
+			"type"		"model"
+			"model"		"models/props_furniture/chair2_gib3.mdl"
+		}
+		"795"
+		{
+			"type"		"model"
+			"model"		"models/props_furniture/chair2_gib5.mdl"
+		}
+		"796"
+		{
+			"type"		"model"
+			"model"		"models/props_furniture/conduit_128.mdl"
+		}
+		"797"
+		{
+			"type"		"model"
+			"model"		"models/props_furniture/conduit_bend_64.mdl"
+		}
+		"798"
+		{
+			"type"		"model"
+			"model"		"models/props_furniture/cupboard1.mdl"
+		}
+		"799"
+		{
+			"type"		"model"
+			"model"		"models/props_furniture/fireplace2.mdl"
+		}
+		"800"
+		{
+			"type"		"model"
+			"model"		"models/props_furniture/hotel_chair.mdl"
+		}
+		"801"
+		{
+			"type"		"model"
+			"model"		"models/props_furniture/inn_chandelier1.mdl"
+		}
+		"802"
+		{
+			"type"		"model"
+			"model"		"models/props_furniture/it_mkt_table2.mdl"
+		}
+		"803"
+		{
+			"type"		"model"
+			"model"		"models/props_furniture/kitchen_cabinet1.mdl"
+		}
+		"804"
+		{
+			"type"		"model"
+			"model"		"models/props_furniture/kitchen_countertop1.mdl"
+		}
+		"805"
+		{
+			"type"		"model"
+			"model"		"models/props_furniture/kitchen_shelf1.mdl"
+		}
+		"806"
+		{
+			"type"		"model"
+			"model"		"models/props_furniture/kitchen_vent1.mdl"
+		}
+		"807"
+		{
+			"type"		"model"
+			"model"		"models/props_furniture/piano.mdl"
+		}
+		"808"
+		{
+			"type"		"model"
+			"model"		"models/props_furniture/picture_frame1.mdl"
+		}
+		"809"
+		{
+			"type"		"model"
+			"model"		"models/props_furniture/picture_frame10.mdl"
+		}
+		"810"
+		{
+			"type"		"model"
+			"model"		"models/props_furniture/picture_frame4.mdl"
+		}
+		"811"
+		{
+			"type"		"model"
+			"model"		"models/props_furniture/shelf1.mdl"
+		}
+	}
+	"name"		"Props A - F"
+	"version"		"3"
+}

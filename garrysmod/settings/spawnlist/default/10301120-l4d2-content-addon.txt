@@ -1,0 +1,22 @@
+
+"TableToKeyValues"
+{
+	"parentid"		"10301000"
+	"icon"		"games/16/left4dead2.png"
+	"id"		"10301120"
+	"contents"
+	{
+		"1"
+		{
+			"type"		"header"
+			"text"		"Left 4 Dead 2 Content Addon 2016"
+		}
+        "2"
+		{
+			"type"		"header"
+			"text"		"Created by Kajar9 @ cscheater.era.ee"
+		}
+    }
+	"name"		"Left 4 Dead 2"
+	"version"		"3"
+}

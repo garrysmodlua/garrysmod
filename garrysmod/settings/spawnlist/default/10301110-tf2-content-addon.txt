@@ -1,0 +1,22 @@
+
+"TableToKeyValues"
+{
+	"parentid"		"10301000"
+	"icon"		"games/16/tf.png"
+	"id"		"10301110"
+	"contents"
+	{
+		"1"
+		{
+			"type"		"header"
+			"text"		"Team Fortress 2 Content Addon 2016"
+		}
+        "2"
+		{
+			"type"		"header"
+			"text"		"Created by Kajar9 @ cscheater.era.ee"
+		}
+    }
+	"name"		"Team Fortress 2"
+	"version"		"3"
+}

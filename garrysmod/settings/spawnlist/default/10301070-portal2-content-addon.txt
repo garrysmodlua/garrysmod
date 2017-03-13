@@ -1,0 +1,33 @@
+﻿
+"TableToKeyValues"
+{
+	"parentid"		"10301000"
+	"icon"		"games/16/portal2.png"
+	"id"		"10301070"
+	"contents"
+	{
+		"1"
+		{
+			"type"		"header"
+			"text"		"Portal 2 Content Addon 2016"
+		}
+        "2"
+		{
+			"type"		"header"
+			"text"		"Created by Kajar9 @ cscheater.era.ee"
+		}
+        "3"
+		{
+			"type"		"header"
+			"text"		"Credit : malcontents ¤MBM¤"
+		}
+        "4"
+		{
+			"type"		"header"
+			"text"		"His Workshop : https://goo.gl/AUPUcg"
+		}
+
+    }
+	"name"		"Portal 2"
+	"version"		"3"
+}

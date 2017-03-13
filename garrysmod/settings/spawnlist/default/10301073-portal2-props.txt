@@ -1,0 +1,3177 @@
+
+"TableToKeyValues"
+{
+	"parentid"		"10301070"
+	"icon"		"icon16/page.png"
+	"id"		"10301073"
+	"contents"
+	{
+		"1"
+		{
+			"type"		"header"
+			"text"		"Misc."
+		}
+		"2"
+		{
+			"type"		"model"
+			"model"		"models/props/terror/hamradio.mdl"
+		}
+		"3"
+		{
+			"type"		"model"
+			"model"		"models/props_bts/ball_catcher_behind.mdl"
+		}
+		"4"
+		{
+			"type"		"model"
+			"model"		"models/props_bts/ball_launcher_behind.mdl"
+		}
+		"5"
+		{
+			"type"		"model"
+			"model"		"models/props_bts/bts_chair.mdl"
+		}
+		"6"
+		{
+			"type"		"model"
+			"model"		"models/props_bts/bts_chair_static.mdl"
+		}
+		"7"
+		{
+			"type"		"model"
+			"model"		"models/props_bts/bts_clipboard.mdl"
+		}
+		"8"
+		{
+			"type"		"model"
+			"model"		"models/props_bts/bts_stool_static.mdl"
+		}
+		"9"
+		{
+			"type"		"model"
+			"model"		"models/props_bts/cage_light.mdl"
+		}
+		"10"
+		{
+			"type"		"model"
+			"model"		"models/props_diorama/velvet_rope_72.mdl"
+		}
+		"11"
+		{
+			"type"		"model"
+			"model"		"models/props_junk/garbage_coffeemug001a_forevergibs.mdl"
+		}
+		"12"
+		{
+			"type"		"model"
+			"model"		"models/extras/info_speech.mdl"
+		}
+		"13"
+		{
+			"type"		"header"
+			"text"		"Ducts"
+		}
+		"14"
+		{
+			"type"		"model"
+			"model"		"models/props_bts/duct_128a.mdl"
+		}
+		"15"
+		{
+			"type"		"model"
+			"model"		"models/props_bts/duct_128b.mdl"
+		}
+		"16"
+		{
+			"type"		"model"
+			"model"		"models/props_bts/duct_16b.mdl"
+		}
+		"17"
+		{
+			"type"		"model"
+			"model"		"models/props_bts/duct_256a.mdl"
+		}
+		"18"
+		{
+			"type"		"model"
+			"model"		"models/props_bts/duct_256b.mdl"
+		}
+		"19"
+		{
+			"type"		"model"
+			"model"		"models/props_bts/duct_32b.mdl"
+		}
+		"20"
+		{
+			"type"		"model"
+			"model"		"models/props_bts/duct_45a.mdl"
+		}
+		"21"
+		{
+			"type"		"model"
+			"model"		"models/props_bts/duct_45b.mdl"
+		}
+		"22"
+		{
+			"type"		"model"
+			"model"		"models/props_bts/duct_512a.mdl"
+		}
+		"23"
+		{
+			"type"		"model"
+			"model"		"models/props_bts/duct_512b.mdl"
+		}
+		"24"
+		{
+			"type"		"model"
+			"model"		"models/props_bts/duct_64a.mdl"
+		}
+		"25"
+		{
+			"type"		"model"
+			"model"		"models/props_bts/duct_64b.mdl"
+		}
+		"26"
+		{
+			"type"		"model"
+			"model"		"models/props_bts/duct_90a.mdl"
+		}
+		"27"
+		{
+			"type"		"model"
+			"model"		"models/props_bts/duct_90b.mdl"
+		}
+		"28"
+		{
+			"type"		"model"
+			"model"		"models/props_bts/duct_addon.mdl"
+		}
+		"29"
+		{
+			"type"		"model"
+			"model"		"models/props_bts/duct_addon_lod1.mdl"
+		}
+		"30"
+		{
+			"type"		"model"
+			"model"		"models/props_bts/duct_addon_lod2.mdl"
+		}
+		"31"
+		{
+			"type"		"model"
+			"model"		"models/props_bts/duct_angle_longa.mdl"
+		}
+		"32"
+		{
+			"type"		"model"
+			"model"		"models/props_bts/duct_coupler32a.mdl"
+		}
+		"33"
+		{
+			"type"		"model"
+			"model"		"models/props_bts/duct_coupler512a.mdl"
+		}
+		"34"
+		{
+			"type"		"model"
+			"model"		"models/props_bts/duct_coupler64a.mdl"
+		}
+		"35"
+		{
+			"type"		"model"
+			"model"		"models/props_bts/duct_damper256a.mdl"
+		}
+		"36"
+		{
+			"type"		"model"
+			"model"		"models/props_bts/duct_diiffuse1angle_a.mdl"
+		}
+		"37"
+		{
+			"type"		"model"
+			"model"		"models/props_bts/duct_diiffuse1side_a.mdl"
+		}
+		"38"
+		{
+			"type"		"model"
+			"model"		"models/props_bts/duct_diiffuse2_a.mdl"
+		}
+		"39"
+		{
+			"type"		"model"
+			"model"		"models/props_bts/duct_flex256a.mdl"
+		}
+		"40"
+		{
+			"type"		"model"
+			"model"		"models/props_bts/duct_grill_large_128a.mdl"
+		}
+		"41"
+		{
+			"type"		"model"
+			"model"		"models/props_bts/duct_grill_small_128a.mdl"
+		}
+		"42"
+		{
+			"type"		"model"
+			"model"		"models/props_bts/duct_inline_rotate_a.mdl"
+		}
+		"43"
+		{
+			"type"		"model"
+			"model"		"models/props_bts/duct_inline_rotate_b.mdl"
+		}
+		"44"
+		{
+			"type"		"model"
+			"model"		"models/props_bts/duct_intersect_b.mdl"
+		}
+		"45"
+		{
+			"type"		"model"
+			"model"		"models/props_bts/duct_intersect_rectta.mdl"
+		}
+		"46"
+		{
+			"type"		"model"
+			"model"		"models/props_bts/duct_intersect_recttb.mdl"
+		}
+		"47"
+		{
+			"type"		"model"
+			"model"		"models/props_bts/duct_intersect_ta.mdl"
+		}
+		"48"
+		{
+			"type"		"model"
+			"model"		"models/props_bts/duct_intersect_tb.mdl"
+		}
+		"49"
+		{
+			"type"		"model"
+			"model"		"models/props_bts/duct_intersect_vert_ta.mdl"
+		}
+		"50"
+		{
+			"type"		"model"
+			"model"		"models/props_bts/duct_intersect_vert_tb.mdl"
+		}
+		"51"
+		{
+			"type"		"model"
+			"model"		"models/props_bts/duct_intersectya.mdl"
+		}
+		"52"
+		{
+			"type"		"model"
+			"model"		"models/props_bts/duct_intersectyb.mdl"
+		}
+		"53"
+		{
+			"type"		"model"
+			"model"		"models/props_bts/duct_offset64a.mdl"
+		}
+		"54"
+		{
+			"type"		"model"
+			"model"		"models/props_bts/duct_offset64b.mdl"
+		}
+		"55"
+		{
+			"type"		"model"
+			"model"		"models/props_bts/duct_transition128.mdl"
+		}
+		"56"
+		{
+			"type"		"model"
+			"model"		"models/props_bts/duct_transition256.mdl"
+		}
+		"57"
+		{
+			"type"		"model"
+			"model"		"models/props_bts/duct_vert90a.mdl"
+		}
+		"58"
+		{
+			"type"		"model"
+			"model"		"models/props_bts/duct_vert90b.mdl"
+		}
+		"59"
+		{
+			"type"		"header"
+			"text"		"Walkways"
+		}
+		"60"
+		{
+			"type"		"model"
+			"model"		"models/props_bts/handrail_128.mdl"
+		}
+		"61"
+		{
+			"type"		"model"
+			"model"		"models/props_bts/handrail_16.mdl"
+		}
+		"62"
+		{
+			"type"		"model"
+			"model"		"models/props_bts/handrail_32.mdl"
+		}
+		"63"
+		{
+			"type"		"model"
+			"model"		"models/props_bts/handrail_32_end.mdl"
+		}
+		"64"
+		{
+			"type"		"model"
+			"model"		"models/props_bts/handrail_64.mdl"
+		}
+		"65"
+		{
+			"type"		"model"
+			"model"		"models/props_bts/handrail_corner_128.mdl"
+		}
+		"66"
+		{
+			"type"		"model"
+			"model"		"models/props_bts/handrail_corner_16.mdl"
+		}
+		"67"
+		{
+			"type"		"model"
+			"model"		"models/props_bts/handrail_opening_128.mdl"
+		}
+		"68"
+		{
+			"type"		"model"
+			"model"		"models/props_bts/hanging_platform_a.mdl"
+		}
+		"69"
+		{
+			"type"		"model"
+			"model"		"models/props_bts/hanging_platform_b.mdl"
+		}
+		"70"
+		{
+			"type"		"model"
+			"model"		"models/props_bts/hanging_stair_128.mdl"
+		}
+		"71"
+		{
+			"type"		"model"
+			"model"		"models/props_bts/hanging_stair_128_lod1.mdl"
+		}
+		"72"
+		{
+			"type"		"model"
+			"model"		"models/props_bts/hanging_stair_256.mdl"
+		}
+		"73"
+		{
+			"type"		"model"
+			"model"		"models/props_bts/hanging_stair_256_lod1.mdl"
+		}
+		"74"
+		{
+			"type"		"model"
+			"model"		"models/props_bts/hanging_stair_32.mdl"
+		}
+		"75"
+		{
+			"type"		"model"
+			"model"		"models/props_bts/hanging_stair_32_lod1.mdl"
+		}
+		"76"
+		{
+			"type"		"model"
+			"model"		"models/props_bts/hanging_stair_64.mdl"
+		}
+		"77"
+		{
+			"type"		"model"
+			"model"		"models/props_bts/hanging_stair_64_lod1.mdl"
+		}
+		"78"
+		{
+			"type"		"model"
+			"model"		"models/props_bts/hanging_stair_exit.mdl"
+		}
+		"79"
+		{
+			"type"		"model"
+			"model"		"models/props_bts/hanging_stair_exit_lod1.mdl"
+		}
+		"80"
+		{
+			"type"		"model"
+			"model"		"models/props_bts/hanging_stair_landing_a.mdl"
+		}
+		"81"
+		{
+			"type"		"model"
+			"model"		"models/props_bts/hanging_stair_landing_b.mdl"
+		}
+		"82"
+		{
+			"type"		"model"
+			"model"		"models/props_bts/hanging_walkway_128a.mdl"
+		}
+		"83"
+		{
+			"type"		"model"
+			"model"		"models/props_bts/hanging_walkway_128a_lod1.mdl"
+		}
+		"84"
+		{
+			"type"		"model"
+			"model"		"models/props_bts/hanging_walkway_128b.mdl"
+		}
+		"85"
+		{
+			"type"		"model"
+			"model"		"models/props_bts/hanging_walkway_128c.mdl"
+		}
+		"86"
+		{
+			"type"		"model"
+			"model"		"models/props_bts/hanging_walkway_128d.mdl"
+		}
+		"87"
+		{
+			"type"		"model"
+			"model"		"models/props_bts/hanging_walkway_16a.mdl"
+		}
+		"88"
+		{
+			"type"		"model"
+			"model"		"models/props_bts/hanging_walkway_256a.mdl"
+		}
+		"89"
+		{
+			"type"		"model"
+			"model"		"models/props_bts/hanging_walkway_32a.mdl"
+		}
+		"90"
+		{
+			"type"		"model"
+			"model"		"models/props_bts/hanging_walkway_32b.mdl"
+		}
+		"91"
+		{
+			"type"		"model"
+			"model"		"models/props_bts/hanging_walkway_32c.mdl"
+		}
+		"92"
+		{
+			"type"		"model"
+			"model"		"models/props_bts/hanging_walkway_512a.mdl"
+		}
+		"93"
+		{
+			"type"		"model"
+			"model"		"models/props_bts/hanging_walkway_64a.mdl"
+		}
+		"94"
+		{
+			"type"		"model"
+			"model"		"models/props_bts/hanging_walkway_64b.mdl"
+		}
+		"95"
+		{
+			"type"		"model"
+			"model"		"models/props_bts/hanging_walkway_64c.mdl"
+		}
+		"96"
+		{
+			"type"		"model"
+			"model"		"models/props_bts/hanging_walkway_64d.mdl"
+		}
+		"97"
+		{
+			"type"		"model"
+			"model"		"models/props_bts/hanging_walkway_64e.mdl"
+		}
+		"98"
+		{
+			"type"		"model"
+			"model"		"models/props_bts/hanging_walkway_angle_30.mdl"
+		}
+		"99"
+		{
+			"type"		"model"
+			"model"		"models/props_bts/hanging_walkway_corner.mdl"
+		}
+		"100"
+		{
+			"type"		"model"
+			"model"		"models/props_bts/hanging_walkway_corner_lod1.mdl"
+		}
+		"101"
+		{
+			"type"		"model"
+			"model"		"models/props_bts/hanging_walkway_end_a.mdl"
+		}
+		"102"
+		{
+			"type"		"model"
+			"model"		"models/props_bts/hanging_walkway_end_b.mdl"
+		}
+		"103"
+		{
+			"type"		"model"
+			"model"		"models/props_bts/hanging_walkway_end_b_lod1.mdl"
+		}
+		"104"
+		{
+			"type"		"model"
+			"model"		"models/props_bts/hanging_walkway_end_cap.mdl"
+		}
+		"105"
+		{
+			"type"		"model"
+			"model"		"models/props_bts/hanging_walkway_gate_a.mdl"
+		}
+		"106"
+		{
+			"type"		"model"
+			"model"		"models/props_bts/hanging_walkway_gate_door.mdl"
+		}
+		"107"
+		{
+			"type"		"model"
+			"model"		"models/props_bts/hanging_walkway_gate_frame.mdl"
+		}
+		"108"
+		{
+			"type"		"model"
+			"model"		"models/props_bts/hanging_walkway_hanger_a.mdl"
+		}
+		"109"
+		{
+			"type"		"model"
+			"model"		"models/props_bts/hanging_walkway_l.mdl"
+		}
+		"110"
+		{
+			"type"		"model"
+			"model"		"models/props_bts/hanging_walkway_l_lod1.mdl"
+		}
+		"111"
+		{
+			"type"		"model"
+			"model"		"models/props_bts/hanging_walkway_l_norail.mdl"
+		}
+		"112"
+		{
+			"type"		"model"
+			"model"		"models/props_bts/hanging_walkway_support_128.mdl"
+		}
+		"113"
+		{
+			"type"		"model"
+			"model"		"models/props_bts/hanging_walkway_support_256.mdl"
+		}
+		"114"
+		{
+			"type"		"model"
+			"model"		"models/props_bts/hanging_walkway_support_a.mdl"
+		}
+		"115"
+		{
+			"type"		"model"
+			"model"		"models/props_bts/hanging_walkway_support_bracket.mdl"
+		}
+		"116"
+		{
+			"type"		"model"
+			"model"		"models/props_bts/hanging_walkway_t.mdl"
+		}
+		"117"
+		{
+			"type"		"model"
+			"model"		"models/props_bts/hanging_walkway_t_lod1.mdl"
+		}
+		"118"
+		{
+			"type"		"model"
+			"model"		"models/props_bts/hanging_walkway_t_norail.mdl"
+		}
+		"119"
+		{
+			"type"		"model"
+			"model"		"models/props_bts/hanging_walkway_x.mdl"
+		}
+		"120"
+		{
+			"type"		"model"
+			"model"		"models/props_bts/hanging_walkway_x_lod1.mdl"
+		}
+		"121"
+		{
+			"type"		"model"
+			"model"		"models/props_bts/walkway_destroyed_128a.mdl"
+		}
+		"122"
+		{
+			"type"		"model"
+			"model"		"models/props_bts/walkway_destroyed_64a.mdl"
+		}
+		"123"
+		{
+			"type"		"model"
+			"model"		"models/props_underground/railing_128a.mdl"
+		}
+		"124"
+		{
+			"type"		"model"
+			"model"		"models/props_underground/railing_128b.mdl"
+		}
+		"125"
+		{
+			"type"		"model"
+			"model"		"models/props_underground/railing_256a.mdl"
+		}
+		"126"
+		{
+			"type"		"model"
+			"model"		"models/props_underground/railing_256b.mdl"
+		}
+		"127"
+		{
+			"type"		"model"
+			"model"		"models/props_underground/railing_512b.mdl"
+		}
+		"128"
+		{
+			"type"		"model"
+			"model"		"models/props_underground/railing_64b.mdl"
+		}
+		"129"
+		{
+			"type"		"model"
+			"model"		"models/props_underground/railing_circular.mdl"
+		}
+		"130"
+		{
+			"type"		"model"
+			"model"		"models/props_underground/railing_corner_128a.mdl"
+		}
+		"131"
+		{
+			"type"		"model"
+			"model"		"models/props_underground/railing_corner_64b.mdl"
+		}
+		"132"
+		{
+			"type"		"model"
+			"model"		"models/props_underground/stair_128.mdl"
+		}
+		"133"
+		{
+			"type"		"model"
+			"model"		"models/props_underground/stair_256.mdl"
+		}
+		"134"
+		{
+			"type"		"model"
+			"model"		"models/props_underground/stair_32.mdl"
+		}
+		"135"
+		{
+			"type"		"model"
+			"model"		"models/props_underground/stair_64.mdl"
+		}
+		"136"
+		{
+			"type"		"model"
+			"model"		"models/props_underground/stair_exit.mdl"
+		}
+		"137"
+		{
+			"type"		"model"
+			"model"		"models/props_underground/stair_landing_a.mdl"
+		}
+		"138"
+		{
+			"type"		"model"
+			"model"		"models/props_underground/stair_landing_b.mdl"
+		}
+		"139"
+		{
+			"type"		"model"
+			"model"		"models/props_underground/stair_module_a.mdl"
+		}
+		"140"
+		{
+			"type"		"model"
+			"model"		"models/props_underground/stair_module_b.mdl"
+		}
+		"141"
+		{
+			"type"		"model"
+			"model"		"models/props_underground/stair_module_c.mdl"
+		}
+		"142"
+		{
+			"type"		"model"
+			"model"		"models/props_underground/walkway_t.mdl"
+		}
+		"143"
+		{
+			"type"		"model"
+			"model"		"models/props_underground/walkway_x.mdl"
+		}
+		"144"
+		{
+			"type"		"model"
+			"model"		"models/props_underground/walkway_gate_frame.mdl"
+		}
+		"145"
+		{
+			"type"		"model"
+			"model"		"models/props_underground/walkway_l.mdl"
+		}
+		"146"
+		{
+			"type"		"model"
+			"model"		"models/props_underground/walkway_128a.mdl"
+		}
+		"147"
+		{
+			"type"		"model"
+			"model"		"models/props_underground/walkway_128b.mdl"
+		}
+		"148"
+		{
+			"type"		"model"
+			"model"		"models/props_underground/walkway_256a.mdl"
+		}
+		"149"
+		{
+			"type"		"model"
+			"model"		"models/props_underground/walkway_32a.mdl"
+		}
+		"150"
+		{
+			"type"		"model"
+			"model"		"models/props_underground/walkway_32b.mdl"
+		}
+		"151"
+		{
+			"type"		"model"
+			"model"		"models/props_underground/walkway_32c.mdl"
+		}
+		"152"
+		{
+			"type"		"model"
+			"model"		"models/props_underground/walkway_512a.mdl"
+		}
+		"153"
+		{
+			"type"		"model"
+			"model"		"models/props_underground/walkway_64a.mdl"
+		}
+		"154"
+		{
+			"type"		"model"
+			"model"		"models/props_underground/walkway_64b.mdl"
+		}
+		"155"
+		{
+			"type"		"model"
+			"model"		"models/props_underground/walkway_64c.mdl"
+		}
+		"156"
+		{
+			"type"		"model"
+			"model"		"models/props_underground/walkway_corner.mdl"
+		}
+		"157"
+		{
+			"type"		"model"
+			"model"		"models/props_underground/walkway_destroyed_128a.mdl"
+		}
+		"158"
+		{
+			"type"		"model"
+			"model"		"models/props_underground/walkway_destroyed_64a.mdl"
+		}
+		"159"
+		{
+			"type"		"model"
+			"model"		"models/props_underground/walkway_end_a.mdl"
+		}
+		"160"
+		{
+			"type"		"model"
+			"model"		"models/props_underground/walkway_end_b.mdl"
+		}
+		"161"
+		{
+			"type"		"model"
+			"model"		"models/props_underground/walkway_end_c.mdl"
+		}
+		"162"
+		{
+			"type"		"model"
+			"model"		"models/props_underground/walkway_end_cap.mdl"
+		}
+		"163"
+		{
+			"type"		"model"
+			"model"		"models/props_underground/walkway_gate_b.mdl"
+		}
+		"164"
+		{
+			"type"		"model"
+			"model"		"models/props_underground/walkway_gate_frame_alt.mdl"
+		}
+		"165"
+		{
+			"type"		"model"
+			"model"		"models/props_underground/walkway_support_a.mdl"
+		}
+		"166"
+		{
+			"type"		"model"
+			"model"		"models/props_underground/walkway_support_b.mdl"
+		}
+		"167"
+		{
+			"type"		"model"
+			"model"		"models/props_underground/walkway_gate_a.mdl"
+		}
+		"168"
+		{
+			"type"		"header"
+			"text"		"Tubes"
+		}
+		"169"
+		{
+			"type"		"model"
+			"model"		"models/props_underground/tube_paint_128_flex.mdl"
+		}
+		"170"
+		{
+			"type"		"model"
+			"model"		"models/props_underground/tube_paint_128_flex_lod1.mdl"
+		}
+		"171"
+		{
+			"type"		"model"
+			"model"		"models/props_underground/tube_paint_128_flex_lod2.mdl"
+		}
+		"172"
+		{
+			"type"		"model"
+			"model"		"models/props_underground/tube_paint_128_flex_vertex.mdl"
+		}
+		"173"
+		{
+			"type"		"model"
+			"model"		"models/props_underground/tube_paint_128_narrow.mdl"
+		}
+		"174"
+		{
+			"type"		"model"
+			"model"		"models/props_underground/tube_paint_128_narrow_lod1.mdl"
+		}
+		"175"
+		{
+			"type"		"model"
+			"model"		"models/props_underground/tube_paint_128_narrow_lod2.mdl"
+		}
+		"176"
+		{
+			"type"		"model"
+			"model"		"models/props_underground/tube_paint_128a.mdl"
+		}
+		"177"
+		{
+			"type"		"model"
+			"model"		"models/props_underground/tube_paint_128a_lod1.mdl"
+		}
+		"178"
+		{
+			"type"		"model"
+			"model"		"models/props_underground/tube_paint_128a_lod2.mdl"
+		}
+		"179"
+		{
+			"type"		"model"
+			"model"		"models/props_underground/tube_paint_128b.mdl"
+		}
+		"180"
+		{
+			"type"		"model"
+			"model"		"models/props_underground/tube_paint_128b_lod1.mdl"
+		}
+		"181"
+		{
+			"type"		"model"
+			"model"		"models/props_underground/tube_paint_128b_lod2.mdl"
+		}
+		"182"
+		{
+			"type"		"model"
+			"model"		"models/props_underground/tube_paint_256a.mdl"
+		}
+		"183"
+		{
+			"type"		"model"
+			"model"		"models/props_underground/tube_paint_256a_lod1.mdl"
+		}
+		"184"
+		{
+			"type"		"model"
+			"model"		"models/props_underground/tube_paint_256a_lod2.mdl"
+		}
+		"185"
+		{
+			"type"		"model"
+			"model"		"models/props_underground/tube_paint_256a_vertex.mdl"
+		}
+		"186"
+		{
+			"type"		"model"
+			"model"		"models/props_underground/tube_paint_256b.mdl"
+		}
+		"187"
+		{
+			"type"		"model"
+			"model"		"models/props_underground/tube_paint_256b_lod1.mdl"
+		}
+		"188"
+		{
+			"type"		"model"
+			"model"		"models/props_underground/tube_paint_256b_lod2.mdl"
+		}
+		"189"
+		{
+			"type"		"model"
+			"model"		"models/props_underground/tube_paint_45bend_a.mdl"
+		}
+		"190"
+		{
+			"type"		"model"
+			"model"		"models/props_underground/tube_paint_45bend_a_cap.mdl"
+		}
+		"191"
+		{
+			"type"		"model"
+			"model"		"models/props_underground/tube_paint_45bend_a_lod1.mdl"
+		}
+		"192"
+		{
+			"type"		"model"
+			"model"		"models/props_underground/tube_paint_45bend_a_lod2.mdl"
+		}
+		"193"
+		{
+			"type"		"model"
+			"model"		"models/props_underground/tube_paint_45straight_long.mdl"
+		}
+		"194"
+		{
+			"type"		"model"
+			"model"		"models/props_underground/tube_paint_45straight_long_lod1.mdl"
+		}
+		"195"
+		{
+			"type"		"model"
+			"model"		"models/props_underground/tube_paint_45straight_long_lod2.mdl"
+		}
+		"196"
+		{
+			"type"		"model"
+			"model"		"models/props_underground/tube_paint_45straight_short.mdl"
+		}
+		"197"
+		{
+			"type"		"model"
+			"model"		"models/props_underground/tube_paint_45straight_short_lod1.mdl"
+		}
+		"198"
+		{
+			"type"		"model"
+			"model"		"models/props_underground/tube_paint_45straight_short_lod2.mdl"
+		}
+		"199"
+		{
+			"type"		"model"
+			"model"		"models/props_underground/tube_paint_512a.mdl"
+		}
+		"200"
+		{
+			"type"		"model"
+			"model"		"models/props_underground/tube_paint_512a_lod1.mdl"
+		}
+		"201"
+		{
+			"type"		"model"
+			"model"		"models/props_underground/tube_paint_512a_lod2.mdl"
+		}
+		"202"
+		{
+			"type"		"model"
+			"model"		"models/props_underground/tube_paint_512a_vertex.mdl"
+		}
+		"203"
+		{
+			"type"		"model"
+			"model"		"models/props_underground/tube_paint_64b.mdl"
+		}
+		"204"
+		{
+			"type"		"model"
+			"model"		"models/props_underground/tube_paint_64b_lod1.mdl"
+		}
+		"205"
+		{
+			"type"		"model"
+			"model"		"models/props_underground/tube_paint_64b_lod2.mdl"
+		}
+		"206"
+		{
+			"type"		"model"
+			"model"		"models/props_underground/tube_paint_90a_broken.mdl"
+		}
+		"207"
+		{
+			"type"		"model"
+			"model"		"models/props_underground/tube_paint_90bend_a.mdl"
+		}
+		"208"
+		{
+			"type"		"model"
+			"model"		"models/props_underground/tube_paint_90bend_a_cap.mdl"
+		}
+		"209"
+		{
+			"type"		"model"
+			"model"		"models/props_underground/tube_paint_90bend_a_lod1.mdl"
+		}
+		"210"
+		{
+			"type"		"model"
+			"model"		"models/props_underground/tube_paint_90bend_a_lod2.mdl"
+		}
+		"211"
+		{
+			"type"		"model"
+			"model"		"models/props_underground/tube_paint_90bend_b.mdl"
+		}
+		"212"
+		{
+			"type"		"model"
+			"model"		"models/props_underground/tube_paint_90bend_b_lod1.mdl"
+		}
+		"213"
+		{
+			"type"		"model"
+			"model"		"models/props_underground/tube_paint_90bend_b_lod2.mdl"
+		}
+		"214"
+		{
+			"type"		"model"
+			"model"		"models/props_underground/tube_paint_90bend_b_vertex.mdl"
+		}
+		"215"
+		{
+			"type"		"model"
+			"model"		"models/props_underground/tube_paint_interior_cap.mdl"
+		}
+		"216"
+		{
+			"type"		"model"
+			"model"		"models/props_underground/tube_paint_intersect.mdl"
+		}
+		"217"
+		{
+			"type"		"model"
+			"model"		"models/props_underground/tube_paint_intersect_lod1.mdl"
+		}
+		"218"
+		{
+			"type"		"model"
+			"model"		"models/props_underground/tube_paint_intersect_lod2.mdl"
+		}
+		"219"
+		{
+			"type"		"model"
+			"model"		"models/props_underground/tube_paint_intersect_t.mdl"
+		}
+		"220"
+		{
+			"type"		"model"
+			"model"		"models/props_underground/tube_paint_intersect_t_cap.mdl"
+		}
+		"221"
+		{
+			"type"		"model"
+			"model"		"models/props_underground/tube_paint_intersect_t_lod1.mdl"
+		}
+		"222"
+		{
+			"type"		"model"
+			"model"		"models/props_underground/tube_paint_intersect_t_lod2.mdl"
+		}
+		"223"
+		{
+			"type"		"model"
+			"model"		"models/props_underground/tube_paint_intersect_t_vertex.mdl"
+		}
+		"224"
+		{
+			"type"		"model"
+			"model"		"models/props_underground/tube_paint_leak.mdl"
+		}
+		"225"
+		{
+			"type"		"header"
+			"text"		"Lights"
+		}
+		"226"
+		{
+			"type"		"model"
+			"model"		"models/props_bts/light_cage001a.mdl"
+		}
+		"227"
+		{
+			"type"		"model"
+			"model"		"models/props_bts/light_hanging_1a.mdl"
+		}
+		"228"
+		{
+			"type"		"model"
+			"model"		"models/props_bts/light_wallmount_1.mdl"
+		}
+		"229"
+		{
+			"type"		"model"
+			"model"		"models/props_lighting/light_construction.mdl"
+		}
+		"230"
+		{
+			"type"		"model"
+			"model"		"models/props_lights/light_array_underground.mdl"
+		}
+		"231"
+		{
+			"type"		"model"
+			"model"		"models/props_lights/light_array_underground_02.mdl"
+		}
+		"232"
+		{
+			"type"		"model"
+			"model"		"models/props_lights/light_array_underground_lod1.mdl"
+		}
+		"233"
+		{
+			"type"		"model"
+			"model"		"models/props_lights/overhead_light_old.mdl"
+		}
+		"234"
+		{
+			"type"		"model"
+			"model"		"models/props_lights/light_panel_128_001.mdl"
+		}
+		"235"
+		{
+			"type"		"model"
+			"model"		"models/props_lights/light_panel_64_001.mdl"
+		}
+		"236"
+		{
+			"type"		"model"
+			"model"		"models/props_lights/stage_light01.mdl"
+		}
+		"237"
+		{
+			"type"		"model"
+			"model"		"models/props_lights/under_neonlamp.mdl"
+		}
+		"238"
+		{
+			"type"		"model"
+			"model"		"models/props_mall/cage_light_fixture.mdl"
+		}
+		"239"
+		{
+			"type"		"model"
+			"model"		"models/props_office/office_lamp_1970.mdl"
+		}
+		"240"
+		{
+			"type"		"model"
+			"model"		"models/props_office/office_light002.mdl"
+		}
+		"241"
+		{
+			"type"		"model"
+			"model"		"models/props_underground/floorlamp_lobby.mdl"
+		}
+		"242"
+		{
+			"type"		"model"
+			"model"		"models/props_underground/light_ceiling_lobby.mdl"
+		}
+		"243"
+		{
+			"type"		"header"
+			"text"		"Factory"
+		}
+		"244"
+		{
+			"type"		"model"
+			"model"		"models/props_factory/conveyor_belt.mdl"
+		}
+		"245"
+		{
+			"type"		"model"
+			"model"		"models/props_factory/conveyor_belt_b.mdl"
+		}
+		"246"
+		{
+			"type"		"model"
+			"model"		"models/props_factory/conveyor_belt_exit.mdl"
+		}
+		"247"
+		{
+			"type"		"model"
+			"model"		"models/props_factory/conveyor_belt_module.mdl"
+		}
+		"248"
+		{
+			"type"		"model"
+			"model"		"models/props_factory/neurotoxin_hose_attach.mdl"
+		}
+		"249"
+		{
+			"type"		"model"
+			"model"		"models/props_factory/neurotoxin_tank.mdl"
+		}
+		"250"
+		{
+			"type"		"model"
+			"model"		"models/props_factory/neurotoxin_tank_valve.mdl"
+		}
+		"251"
+		{
+			"type"		"model"
+			"model"		"models/props_factory/toxic_sign.mdl"
+		}
+		"252"
+		{
+			"type"		"model"
+			"model"		"models/props_factory/turret_factory_closed.mdl"
+		}
+		"253"
+		{
+			"type"		"model"
+			"model"		"models/props_factory/turret_factory_ajar/turret_factory_ajar.mdl"
+		}
+		"254"
+		{
+			"type"		"model"
+			"model"		"models/props_factory/turret_factory_open/turret_factory_open.mdl"
+		}
+		"255"
+		{
+			"type"		"header"
+			"text"		"Moon"
+		}
+		"256"
+		{
+			"type"		"model"
+			"model"		"models/props_moon/lunar_module.mdl"
+		}
+		"257"
+		{
+			"type"		"model"
+			"model"		"models/props_moon/lunar_rover.mdl"
+		}
+		"258"
+		{
+			"type"		"model"
+			"model"		"models/props_moon/moonrock_large01.mdl"
+		}
+		"259"
+		{
+			"type"		"model"
+			"model"		"models/props_moon/moonrock_large02.mdl"
+		}
+		"260"
+		{
+			"type"		"model"
+			"model"		"models/props_moon/moonrock_large03.mdl"
+		}
+		"261"
+		{
+			"type"		"model"
+			"model"		"models/props_moon/moonrock_med01.mdl"
+		}
+		"262"
+		{
+			"type"		"model"
+			"model"		"models/props_moon/moonrock_med02.mdl"
+		}
+		"263"
+		{
+			"type"		"model"
+			"model"		"models/props_moon/moonrock_med03.mdl"
+		}
+		"264"
+		{
+			"type"		"model"
+			"model"		"models/props_moon/moonrock_med04.mdl"
+		}
+		"265"
+		{
+			"type"		"model"
+			"model"		"models/props_moon/moonrock_med05.mdl"
+		}
+		"266"
+		{
+			"type"		"model"
+			"model"		"models/props_moon/moonrock_med06.mdl"
+		}
+		"267"
+		{
+			"type"		"model"
+			"model"		"models/props_moon/moonrock_med07.mdl"
+		}
+		"268"
+		{
+			"type"		"model"
+			"model"		"models/props_moon/moonrock_med08.mdl"
+		}
+		"269"
+		{
+			"type"		"model"
+			"model"		"models/props_moon/moonrock_med09.mdl"
+		}
+		"270"
+		{
+			"type"		"model"
+			"model"		"models/props_moon/moonrock_small01.mdl"
+		}
+		"271"
+		{
+			"type"		"model"
+			"model"		"models/props_moon/moonrock_small02.mdl"
+		}
+		"272"
+		{
+			"type"		"model"
+			"model"		"models/props_moon/moonrock_small03.mdl"
+		}
+		"273"
+		{
+			"type"		"model"
+			"model"		"models/props_moon/moonrock_small04.mdl"
+		}
+		"274"
+		{
+			"type"		"model"
+			"model"		"models/props_moon/moonrock_small05.mdl"
+		}
+		"275"
+		{
+			"type"		"header"
+			"text"		"Gameplay"
+		}
+		"276"
+		{
+			"type"		"model"
+			"model"		"models/weapons/w_portalgun.mdl"
+		}
+		"277"
+		{
+			"type"		"model"
+			"model"		"models/props/metal_box_fx_fizzler.mdl"
+		}
+		"278"
+		{
+			"type"		"model"
+			"model"		"models/props_gameplay/mp_ball.mdl"
+		}
+		"279"
+		{
+			"type"		"model"
+			"model"		"models/props/reflection_cube.mdl"
+		}
+		"280"
+		{
+			"type"		"model"
+			"model"		"models/props_underground/underground_weighted_cube.mdl"
+		}
+		"281"
+		{
+			"type"		"model"
+			"model"		"models/npcs/monsters/monster_a.mdl"
+		}
+		"282"
+		{
+			"type"		"model"
+			"model"		"models/props/ball_button.mdl"
+		}
+		"283"
+		{
+			"type"		"model"
+			"model"		"models/props/box_socket.mdl"
+		}
+		"284"
+		{
+			"type"		"model"
+			"model"		"models/props/portal_button.mdl"
+		}
+		"285"
+		{
+			"type"		"model"
+			"model"		"models/props/portal_button_damaged01.mdl"
+		}
+		"286"
+		{
+			"type"		"model"
+			"model"		"models/props/portal_button_damaged02.mdl"
+		}
+		"287"
+		{
+			"type"		"model"
+			"model"		"models/props/faith_plate.mdl"
+		}
+		"288"
+		{
+			"type"		"model"
+			"model"		"models/props/faith_plate_128.mdl"
+		}
+		"289"
+		{
+			"type"		"model"
+			"model"		"models/props/fizzler.mdl"
+		}
+		"290"
+		{
+			"type"		"model"
+			"model"		"models/props/fizzler_dynamic.mdl"
+		}
+		"291"
+		{
+			"type"		"model"
+			"model"		"models/props_underground/underground_fizzler_wall.mdl"
+		}
+		"292"
+		{
+			"type"		"model"
+			"model"		"models/props/laser_catcher.mdl"
+		}
+		"293"
+		{
+			"type"		"model"
+			"model"		"models/props/laser_catcher_center.mdl"
+		}
+		"294"
+		{
+			"type"		"model"
+			"model"		"models/props/laser_emitter.mdl"
+		}
+		"295"
+		{
+			"type"		"model"
+			"model"		"models/props/laser_emitter_center.mdl"
+		}
+		"296"
+		{
+			"type"		"model"
+			"model"		"models/props/laser_receptacle.mdl"
+		}
+		"297"
+		{
+			"type"		"model"
+			"model"		"models/props/portal_emitter.mdl"
+		}
+		"298"
+		{
+			"type"		"model"
+			"model"		"models/props_gameplay/crusher_floorplate.mdl"
+		}
+		"299"
+		{
+			"type"		"model"
+			"model"		"models/props_gameplay/crusher_piston_bottom.mdl"
+		}
+		"300"
+		{
+			"type"		"model"
+			"model"		"models/props_gameplay/crusher_piston_top.mdl"
+		}
+		"301"
+		{
+			"type"		"model"
+			"model"		"models/props_gameplay/industrial_elevator_2_a.mdl"
+		}
+		"302"
+		{
+			"type"		"model"
+			"model"		"models/props_gameplay/industrial_elevator_a.mdl"
+		}
+		"303"
+		{
+			"type"		"model"
+			"model"		"models/props_gameplay/laser_disc.mdl"
+		}
+		"304"
+		{
+			"type"		"model"
+			"model"		"models/props_gameplay/laser_disc_player.mdl"
+		}
+		"305"
+		{
+			"type"		"model"
+			"model"		"models/props_underground/moving_platform_motor.mdl"
+		}
+		"306"
+		{
+			"type"		"model"
+			"model"		"models/props_underground/moving_platform_rails.mdl"
+		}
+		"307"
+		{
+			"type"		"model"
+			"model"		"models/props_underground/moving_platform_track.mdl"
+		}
+		"308"
+		{
+			"type"		"model"
+			"model"		"models/props_underground/underground_floor_button.mdl"
+		}
+		"309"
+		{
+			"type"		"model"
+			"model"		"models/props_underground/underground_paintdropper.mdl"
+		}
+		"310"
+		{
+			"type"		"model"
+			"model"		"models/props_underground/underground_testchamber_button.mdl"
+		}
+		"311"
+		{
+			"type"		"model"
+			"model"		"models/props_underground/rot_panel_piston2.mdl"
+		}
+		"312"
+		{
+			"type"		"model"
+			"model"		"models/props_underground/rot_panel_piston1.mdl"
+		}
+		"313"
+		{
+			"type"		"header"
+			"text"		"Relaxation Center"
+		}
+		"314"
+		{
+			"type"		"model"
+			"model"		"models/props_motel/aircon.mdl"
+		}
+		"315"
+		{
+			"type"		"model"
+			"model"		"models/props_motel/armchair.mdl"
+		}
+		"316"
+		{
+			"type"		"model"
+			"model"		"models/props_motel/bedside_table.mdl"
+		}
+		"317"
+		{
+			"type"		"model"
+			"model"		"models/props_motel/clock_radio01.mdl"
+		}
+		"318"
+		{
+			"type"		"model"
+			"model"		"models/props_motel/closet_curtain01.mdl"
+		}
+		"319"
+		{
+			"type"		"model"
+			"model"		"models/props_motel/fridge.mdl"
+		}
+		"320"
+		{
+			"type"		"model"
+			"model"		"models/props_motel/hotel_container_furniture01.mdl"
+		}
+		"321"
+		{
+			"type"		"model"
+			"model"		"models/props_motel/hotel_container_furniture01_destroyed.mdl"
+		}
+		"322"
+		{
+			"type"		"model"
+			"model"		"models/props_motel/hotel_container_furniture02.mdl"
+		}
+		"323"
+		{
+			"type"		"model"
+			"model"		"models/props_motel/hotel_container_furniture02_destroyed.mdl"
+		}
+		"324"
+		{
+			"type"		"model"
+			"model"		"models/props_motel/hotel_container_furniture03.mdl"
+		}
+		"325"
+		{
+			"type"		"model"
+			"model"		"models/props_motel/hotel_container_furniture03_destroyed.mdl"
+		}
+		"326"
+		{
+			"type"		"model"
+			"model"		"models/props_motel/hotel_container_furniture04.mdl"
+		}
+		"327"
+		{
+			"type"		"model"
+			"model"		"models/props_motel/hotel_container_furniture04_destroyed.mdl"
+		}
+		"328"
+		{
+			"type"		"model"
+			"model"		"models/props_motel/microwave.mdl"
+		}
+		"329"
+		{
+			"type"		"model"
+			"model"		"models/props_motel/pink_tablelamp.mdl"
+		}
+		"330"
+		{
+			"type"		"model"
+			"model"		"models/props_motel/rotating_picture.mdl"
+		}
+		"331"
+		{
+			"type"		"model"
+			"model"		"models/props_motel/small_chair.mdl"
+		}
+		"332"
+		{
+			"type"		"model"
+			"model"		"models/props_motel/smoke_detector01.mdl"
+		}
+		"333"
+		{
+			"type"		"model"
+			"model"		"models/props_motel/tall_round_table.mdl"
+		}
+		"334"
+		{
+			"type"		"model"
+			"model"		"models/props_motel/telephone.mdl"
+		}
+		"335"
+		{
+			"type"		"model"
+			"model"		"models/props_motel/trimdesk_wall.mdl"
+		}
+		"336"
+		{
+			"type"		"model"
+			"model"		"models/props_motel/tv.mdl"
+		}
+		"337"
+		{
+			"type"		"model"
+			"model"		"models/props_motel/wall_lamp.mdl"
+		}
+		"338"
+		{
+			"type"		"header"
+			"text"		"Office"
+		}
+		"339"
+		{
+			"type"		"model"
+			"model"		"models/props_underground/filecabinet_lobby.mdl"
+		}
+		"340"
+		{
+			"type"		"model"
+			"model"		"models/props_office/cabinet_small_door.mdl"
+		}
+		"341"
+		{
+			"type"		"model"
+			"model"		"models/props_office/cabinet_small_drawers.mdl"
+		}
+		"342"
+		{
+			"type"		"model"
+			"model"		"models/props_office/cubicle_desk_drawers.mdl"
+		}
+		"343"
+		{
+			"type"		"model"
+			"model"		"models/props_office/file_cabient_1970.mdl"
+		}
+		"344"
+		{
+			"type"		"model"
+			"model"		"models/props_office/file_rack_1970.mdl"
+		}
+		"345"
+		{
+			"type"		"model"
+			"model"		"models/props_office/paper_single.mdl"
+		}
+		"346"
+		{
+			"type"		"model"
+			"model"		"models/props_office/filebox_1980.mdl"
+		}
+		"347"
+		{
+			"type"		"model"
+			"model"		"models/props_office/filebox_lid_1980.mdl"
+		}
+		"348"
+		{
+			"type"		"model"
+			"model"		"models/props_office/cardboardbox_a_1970.mdl"
+		}
+		"349"
+		{
+			"type"		"model"
+			"model"		"models/props_office/cardboardbox_b_1970.mdl"
+		}
+		"350"
+		{
+			"type"		"model"
+			"model"		"models/props_office/cardboardbox_c_1970.mdl"
+		}
+		"351"
+		{
+			"type"		"model"
+			"model"		"models/props_underground/chair_folding_01.mdl"
+		}
+		"352"
+		{
+			"type"		"model"
+			"model"		"models/props_underground/chair_lobby.mdl"
+		}
+		"353"
+		{
+			"type"		"model"
+			"model"		"models/props_underground/chair_office_padded_1980.mdl"
+		}
+		"354"
+		{
+			"type"		"model"
+			"model"		"models/props_office/chair_swivel.mdl"
+		}
+		"355"
+		{
+			"type"		"model"
+			"model"		"models/props_office/office_chair_1940_01.mdl"
+		}
+		"356"
+		{
+			"type"		"model"
+			"model"		"models/props_office/office_chair_1970.mdl"
+		}
+		"357"
+		{
+			"type"		"model"
+			"model"		"models/props_office/clock_wall_1980.mdl"
+		}
+		"358"
+		{
+			"type"		"model"
+			"model"		"models/props_office/coffee_mug_01.mdl"
+		}
+		"359"
+		{
+			"type"		"model"
+			"model"		"models/props_office/coffee_mug_02.mdl"
+		}
+		"360"
+		{
+			"type"		"model"
+			"model"		"models/props_office/coffee_mug_03.mdl"
+		}
+		"361"
+		{
+			"type"		"model"
+			"model"		"models/props_office/coffee_mug_04.mdl"
+		}
+		"362"
+		{
+			"type"		"model"
+			"model"		"models/props_office/coffee_mug_05.mdl"
+		}
+		"363"
+		{
+			"type"		"model"
+			"model"		"models/props_office/coffee_mug_06.mdl"
+		}
+		"364"
+		{
+			"type"		"model"
+			"model"		"models/props_office/coffee_mug_07.mdl"
+		}
+		"365"
+		{
+			"type"		"model"
+			"model"		"models/props_office/coffee_mug_08.mdl"
+		}
+		"366"
+		{
+			"type"		"model"
+			"model"		"models/props_office/coffee_mug_09.mdl"
+		}
+		"367"
+		{
+			"type"		"model"
+			"model"		"models/props_office/coffee_mug_10.mdl"
+		}
+		"368"
+		{
+			"type"		"model"
+			"model"		"models/props_office/coffee_mug_11.mdl"
+		}
+		"369"
+		{
+			"type"		"model"
+			"model"		"models/props_office/coffee_mug_12.mdl"
+		}
+		"370"
+		{
+			"type"		"model"
+			"model"		"models/props_office/coffee_mug_17.mdl"
+		}
+		"371"
+		{
+			"type"		"model"
+			"model"		"models/props_office/computer_01_1970.mdl"
+		}
+		"372"
+		{
+			"type"		"model"
+			"model"		"models/props_office/computer_02_1970.mdl"
+		}
+		"373"
+		{
+			"type"		"model"
+			"model"		"models/props_office/computer_03_1970.mdl"
+		}
+		"374"
+		{
+			"type"		"model"
+			"model"		"models/props_office/computer_04_1970.mdl"
+		}
+		"375"
+		{
+			"type"		"model"
+			"model"		"models/props_office/computer_cabinet01.mdl"
+		}
+		"376"
+		{
+			"type"		"model"
+			"model"		"models/props_office/computer_cabinet02.mdl"
+		}
+		"377"
+		{
+			"type"		"model"
+			"model"		"models/props_office/computer_tall01.mdl"
+		}
+		"378"
+		{
+			"type"		"model"
+			"model"		"models/props_office/computer_tall02.mdl"
+		}
+		"379"
+		{
+			"type"		"model"
+			"model"		"models/props_office/control_desk_l.mdl"
+		}
+		"380"
+		{
+			"type"		"model"
+			"model"		"models/props_office/control_desk_r.mdl"
+		}
+		"381"
+		{
+			"type"		"model"
+			"model"		"models/props_office/lab_copy_machine.mdl"
+		}
+		"382"
+		{
+			"type"		"model"
+			"model"		"models/props_office/lab_copy_machine_broken.mdl"
+		}
+		"383"
+		{
+			"type"		"model"
+			"model"		"models/props_office/lab_display_standup.mdl"
+		}
+		"384"
+		{
+			"type"		"model"
+			"model"		"models/props_office/lab_furn1.mdl"
+		}
+		"385"
+		{
+			"type"		"model"
+			"model"		"models/props_office/lab_furn2.mdl"
+		}
+		"386"
+		{
+			"type"		"model"
+			"model"		"models/props_underground/interactive_console.mdl"
+		}
+		"387"
+		{
+			"type"		"model"
+			"model"		"models/props_underground/interactive_console_backpanel01.mdl"
+		}
+		"388"
+		{
+			"type"		"model"
+			"model"		"models/props_underground/interactive_console_display01.mdl"
+		}
+		"389"
+		{
+			"type"		"model"
+			"model"		"models/props_underground/intercom_panel.mdl"
+		}
+		"390"
+		{
+			"type"		"model"
+			"model"		"models/props_office/computer_1980.mdl"
+		}
+		"391"
+		{
+			"type"		"model"
+			"model"		"models/props_office/computer_1980_flatscreen.mdl"
+		}
+		"392"
+		{
+			"type"		"model"
+			"model"		"models/props_office/computer_base01.mdl"
+		}
+		"393"
+		{
+			"type"		"model"
+			"model"		"models/props_office/computer_monitor01.mdl"
+		}
+		"394"
+		{
+			"type"		"model"
+			"model"		"models/props_office/pc_1970.mdl"
+		}
+		"395"
+		{
+			"type"		"model"
+			"model"		"models/props_underground/desk_lobby.mdl"
+		}
+		"396"
+		{
+			"type"		"model"
+			"model"		"models/props_office/cubicle_desk_a.mdl"
+		}
+		"397"
+		{
+			"type"		"model"
+			"model"		"models/props_office/cubicle_desk_b.mdl"
+		}
+		"398"
+		{
+			"type"		"model"
+			"model"		"models/props_office/desk_curved.mdl"
+		}
+		"399"
+		{
+			"type"		"model"
+			"model"		"models/props_office/desk_freestanding.mdl"
+		}
+		"400"
+		{
+			"type"		"model"
+			"model"		"models/props_office/table_folding01.mdl"
+		}
+		"401"
+		{
+			"type"		"model"
+			"model"		"models/props_office/metal_desk_1.mdl"
+		}
+		"402"
+		{
+			"type"		"model"
+			"model"		"models/props_office/office_desk_1970.mdl"
+		}
+		"403"
+		{
+			"type"		"model"
+			"model"		"models/props_office/office_keyboard.mdl"
+		}
+		"404"
+		{
+			"type"		"model"
+			"model"		"models/props_office/telephone_1970.mdl"
+		}
+		"405"
+		{
+			"type"		"model"
+			"model"		"models/props_office/office_phone.mdl"
+		}
+		"406"
+		{
+			"type"		"model"
+			"model"		"models/props_office/office_phone_1940_01.mdl"
+		}
+		"407"
+		{
+			"type"		"model"
+			"model"		"models/props_office/office_typewriter_1940_01.mdl"
+		}
+		"408"
+		{
+			"type"		"model"
+			"model"		"models/props_office/pencilsharpener01.mdl"
+		}
+		"409"
+		{
+			"type"		"model"
+			"model"		"models/props_office/dod_trophy.mdl"
+		}
+		"410"
+		{
+			"type"		"model"
+			"model"		"models/props_office/tv_1970.mdl"
+		}
+		"411"
+		{
+			"type"		"model"
+			"model"		"models/props_office/whiteboard_coop.mdl"
+		}
+		"412"
+		{
+			"type"		"model"
+			"model"		"models/props_office/whiteboard.mdl"
+		}
+		"413"
+		{
+			"type"		"model"
+			"model"		"models/props_office/duct_change_round1.mdl"
+		}
+		"414"
+		{
+			"type"		"model"
+			"model"		"models/props_office/duct_change_round2.mdl"
+		}
+		"415"
+		{
+			"type"		"model"
+			"model"		"models/props_office/duct_round_128.mdl"
+		}
+		"416"
+		{
+			"type"		"model"
+			"model"		"models/props_office/duct_round_32.mdl"
+		}
+		"417"
+		{
+			"type"		"model"
+			"model"		"models/props_office/duct_round_45bend.mdl"
+		}
+		"418"
+		{
+			"type"		"model"
+			"model"		"models/props_office/duct_round_64.mdl"
+		}
+		"419"
+		{
+			"type"		"model"
+			"model"		"models/props_office/duct_round_8.mdl"
+		}
+		"420"
+		{
+			"type"		"model"
+			"model"		"models/props_office/duct_round_90bend.mdl"
+		}
+		"421"
+		{
+			"type"		"model"
+			"model"		"models/props_office/duct_round_diffuser_lg.mdl"
+		}
+		"422"
+		{
+			"type"		"model"
+			"model"		"models/props_office/duct_round_diffuser_sm.mdl"
+		}
+		"423"
+		{
+			"type"		"model"
+			"model"		"models/props_office/duct_round_intersect.mdl"
+		}
+		"424"
+		{
+			"type"		"model"
+			"model"		"models/props_office/duct_round_s.mdl"
+		}
+		"425"
+		{
+			"type"		"model"
+			"model"		"models/props_office/duct_round_t.mdl"
+		}
+		"426"
+		{
+			"type"		"model"
+			"model"		"models/props_office/duct_round_vsplit.mdl"
+		}
+		"427"
+		{
+			"type"		"model"
+			"model"		"models/props_office/duct_round_y.mdl"
+		}
+		"428"
+		{
+			"type"		"model"
+			"model"		"models/props_office/popart70s_01.mdl"
+		}
+		"429"
+		{
+			"type"		"model"
+			"model"		"models/props_office/popart70s_02.mdl"
+		}
+		"430"
+		{
+			"type"		"model"
+			"model"		"models/props_office/potato_trophy.mdl"
+		}
+		"431"
+		{
+			"type"		"model"
+			"model"		"models/props_office/shower_trophy.mdl"
+		}
+		"432"
+		{
+			"type"		"model"
+			"model"		"models/props_underground/cavejohnson_portrait01.mdl"
+		}
+		"433"
+		{
+			"type"		"header"
+			"text"		"BYDtWD"
+		}
+		"434"
+		{
+			"type"		"model"
+			"model"		"models/props_sabotage/potato.mdl"
+		}
+		"435"
+		{
+			"type"		"model"
+			"model"		"models/props_sabotage/potato02.mdl"
+		}
+		"436"
+		{
+			"type"		"model"
+			"model"		"models/props_sabotage/potato03.mdl"
+		}
+		"437"
+		{
+			"type"		"model"
+			"model"		"models/props_sabotage/potato04.mdl"
+		}
+		"438"
+		{
+			"type"		"model"
+			"model"		"models/props_sabotage/potato05.mdl"
+		}
+		"439"
+		{
+			"type"		"model"
+			"model"		"models/props_sabotage/potato06.mdl"
+		}
+		"440"
+		{
+			"type"		"model"
+			"model"		"models/props_sabotage/volcano.mdl"
+		}
+		"441"
+		{
+			"type"		"header"
+			"text"		"Trains"
+		}
+		"442"
+		{
+			"type"		"model"
+			"model"		"models/props_trainstation/train_boxcar_damaged.mdl"
+		}
+		"443"
+		{
+			"type"		"model"
+			"model"		"models/props_trainstation/wrecked_boxcar_gate.mdl"
+		}
+		"444"
+		{
+			"type"		"model"
+			"model"		"models/props_trainstation/wrecked_boxcar_jump.mdl"
+		}
+		"445"
+		{
+			"type"		"model"
+			"model"		"models/props_vehicles/train_box.mdl"
+		}
+		"446"
+		{
+			"type"		"model"
+			"model"		"models/props_vehicles/train_boxwreck.mdl"
+		}
+		"447"
+		{
+			"type"		"model"
+			"model"		"models/traincars/car_b_hi_l_collision.mdl"
+		}
+		"448"
+		{
+			"type"		"model"
+			"model"		"models/traincars/car_b_hi_n_side_top.mdl"
+		}
+		"449"
+		{
+			"type"		"model"
+			"model"		"models/traincars/car_b_hi_r_collision.mdl"
+		}
+		"450"
+		{
+			"type"		"model"
+			"model"		"models/traincars/undercarriage.mdl"
+		}
+		"451"
+		{
+			"type"		"header"
+			"text"		"Aperture Logos"
+		}
+		"452"
+		{
+			"type"		"model"
+			"model"		"models/props_underground/aperture_sign_02.mdl"
+		}
+		"453"
+		{
+			"type"		"model"
+			"model"		"models/props_underground/aperture_sign_1940_01.mdl"
+		}
+		"454"
+		{
+			"type"		"model"
+			"model"		"models/props_underground/aperture_sign_1940_01_destroyed.mdl"
+		}
+		"455"
+		{
+			"type"		"model"
+			"model"		"models/props_underground/aperture_sign_1940_atom.mdl"
+		}
+		"456"
+		{
+			"type"		"model"
+			"model"		"models/props_underground/aperture_sign_1970_01.mdl"
+		}
+		"457"
+		{
+			"type"		"header"
+			"text"		"Elevator"
+		}
+		"458"
+		{
+			"type"		"model"
+			"model"		"models/elevator/elevator.mdl"
+		}
+		"459"
+		{
+			"type"		"model"
+			"model"		"models/elevator/elevator_b.mdl"
+		}
+		"460"
+		{
+			"type"		"model"
+			"model"		"models/elevator/elevator_blades.mdl"
+		}
+		"461"
+		{
+			"type"		"model"
+			"model"		"models/elevator/elevator_central_pipe.mdl"
+		}
+		"462"
+		{
+			"type"		"model"
+			"model"		"models/elevator/elevator_coop_main.mdl"
+		}
+		"463"
+		{
+			"type"		"model"
+			"model"		"models/elevator/elevator_coop_main_scaled.mdl"
+		}
+		"464"
+		{
+			"type"		"model"
+			"model"		"models/elevator/elevator_coop_trim.mdl"
+		}
+		"465"
+		{
+			"type"		"model"
+			"model"		"models/elevator/elevator_escape.mdl"
+		}
+		"466"
+		{
+			"type"		"model"
+			"model"		"models/elevator/elevator_frame_section.mdl"
+		}
+		"467"
+		{
+			"type"		"model"
+			"model"		"models/elevator/elevator_hole.mdl"
+		}
+		"468"
+		{
+			"type"		"model"
+			"model"		"models/elevator/elevator_hole_rim.mdl"
+		}
+		"469"
+		{
+			"type"		"model"
+			"model"		"models/elevator/elevator_roof_collar.mdl"
+		}
+		"470"
+		{
+			"type"		"model"
+			"model"		"models/elevator/elevator_roof_collar_glass.mdl"
+		}
+		"471"
+		{
+			"type"		"model"
+			"model"		"models/elevator/elevator_rubble.mdl"
+		}
+		"472"
+		{
+			"type"		"model"
+			"model"		"models/elevator/elevator_rubble_01.mdl"
+		}
+		"473"
+		{
+			"type"		"model"
+			"model"		"models/elevator/elevator_tube_512.mdl"
+		}
+		"474"
+		{
+			"type"		"model"
+			"model"		"models/elevator/elevator_tube_opener.mdl"
+		}
+		"475"
+		{
+			"type"		"model"
+			"model"		"models/elevator/elevator_turbine_glass.mdl"
+		}
+		"476"
+		{
+			"type"		"model"
+			"model"		"models/elevator/elevator_turbine_off.mdl"
+		}
+		"477"
+		{
+			"type"		"model"
+			"model"		"models/elevator/elevator_turbine_static.mdl"
+		}
+		"478"
+		{
+			"type"		"model"
+			"model"		"models/elevator/tube_blcokage_02.mdl"
+		}
+		"479"
+		{
+			"type"		"model"
+			"model"		"models/elevator/tube_blockage_01.mdl"
+		}
+		"480"
+		{
+			"type"		"model"
+			"model"		"models/elevator/tube_blockage_02.mdl"
+		}
+		"481"
+		{
+			"type"		"model"
+			"model"		"models/elevator/tube_blockage_static.mdl"
+		}
+		"482"
+		{
+			"type"		"model"
+			"model"		"models/elevator/tuberubble_02.mdl"
+		}
+		"483"
+		{
+			"type"		"model"
+			"model"		"models/elevator/turretsinelevator.mdl"
+		}
+		"484"
+		{
+			"type"		"model"
+			"model"		"models/props_underground/elevator_a.mdl"
+		}
+		"485"
+		{
+			"type"		"model"
+			"model"		"models/props_underground/elevator_door_bottom.mdl"
+		}
+		"486"
+		{
+			"type"		"model"
+			"model"		"models/props_underground/elevator_door_top.mdl"
+		}
+		"487"
+		{
+			"type"		"model"
+			"model"		"models/props_underground/elevator_enclosure.mdl"
+		}
+		"488"
+		{
+			"type"		"model"
+			"model"		"models/props_underground/elevator_enclosure_lod1.mdl"
+		}
+		"489"
+		{
+			"type"		"model"
+			"model"		"models/props_underground/elevator_rails.mdl"
+		}
+		"490"
+		{
+			"type"		"model"
+			"model"		"models/props_underground/entrance_elevator.mdl"
+		}
+		"491"
+		{
+			"type"		"model"
+			"model"		"models/props_underground/entrance_elevator_band.mdl"
+		}
+		"492"
+		{
+			"type"		"model"
+			"model"		"models/props_underground/entrance_elevator_sign.mdl"
+		}
+		"493"
+		{
+			"type"		"model"
+			"model"		"models/props_underground/entrance_elevator_sign_02.mdl"
+		}
+		"494"
+		{
+			"type"		"header"
+			"text"		"Distillery/Tanks"
+		}
+		"495"
+		{
+			"type"		"model"
+			"model"		"models/props_underground/distillery_cables.mdl"
+		}
+		"496"
+		{
+			"type"		"model"
+			"model"		"models/props_underground/distillery_syringe_01.mdl"
+		}
+		"497"
+		{
+			"type"		"model"
+			"model"		"models/props_underground/distillery_tank_structure.mdl"
+		}
+		"498"
+		{
+			"type"		"model"
+			"model"		"models/props_underground/distillery_tanks_small.mdl"
+		}
+		"499"
+		{
+			"type"		"model"
+			"model"		"models/props_underground/paint_distillery_tank.mdl"
+		}
+		"500"
+		{
+			"type"		"model"
+			"model"		"models/props_underground/paint_distillery_tank_lod1.mdl"
+		}
+		"501"
+		{
+			"type"		"model"
+			"model"		"models/props_underground/tank_a_256x512.mdl"
+		}
+		"502"
+		{
+			"type"		"model"
+			"model"		"models/props_underground/tank_a_384x768.mdl"
+		}
+		"503"
+		{
+			"type"		"model"
+			"model"		"models/props_underground/tank_b_384x192.mdl"
+		}
+		"504"
+		{
+			"type"		"model"
+			"model"		"models/props_underground/tank_b_512x256.mdl"
+		}
+		"505"
+		{
+			"type"		"model"
+			"model"		"models/props_underground/tank_c_384x320.mdl"
+		}
+		"506"
+		{
+			"type"		"model"
+			"model"		"models/props_underground/tank_d_320x512.mdl"
+		}
+		"507"
+		{
+			"type"		"model"
+			"model"		"models/props_underground/tank_frame.mdl"
+		}
+		"508"
+		{
+			"type"		"model"
+			"model"		"models/props_underground/tank_small_1.mdl"
+		}
+		"509"
+		{
+			"type"		"model"
+			"model"		"models/props_underground/tank_small_1_connector.mdl"
+		}
+		"510"
+		{
+			"type"		"model"
+			"model"		"models/props_underground/tank_small_2.mdl"
+		}
+		"511"
+		{
+			"type"		"header"
+			"text"		"Frames"
+		}
+		"512"
+		{
+			"type"		"model"
+			"model"		"models/props_underground/frame_128_01.mdl"
+		}
+		"513"
+		{
+			"type"		"model"
+			"model"		"models/props_underground/frame_128_02.mdl"
+		}
+		"514"
+		{
+			"type"		"model"
+			"model"		"models/props_underground/frame_256_01.mdl"
+		}
+		"515"
+		{
+			"type"		"model"
+			"model"		"models/props_underground/gantry_256_a.mdl"
+		}
+		"516"
+		{
+			"type"		"model"
+			"model"		"models/props_underground/gantry_256_b.mdl"
+		}
+		"517"
+		{
+			"type"		"model"
+			"model"		"models/props_underground/gantry_256_c.mdl"
+		}
+		"518"
+		{
+			"type"		"model"
+			"model"		"models/props_underground/gantry_256_d.mdl"
+		}
+		"519"
+		{
+			"type"		"model"
+			"model"		"models/props_underground/gantry_256_e.mdl"
+		}
+		"520"
+		{
+			"type"		"model"
+			"model"		"models/props_underground/lab_structure_128.mdl"
+		}
+		"521"
+		{
+			"type"		"model"
+			"model"		"models/props_underground/lab_structure_joint.mdl"
+		}
+		"522"
+		{
+			"type"		"model"
+			"model"		"models/props_underground/lab_structure_side512high.mdl"
+		}
+		"523"
+		{
+			"type"		"model"
+			"model"		"models/props_underground/pillar_cage.mdl"
+		}
+		"524"
+		{
+			"type"		"model"
+			"model"		"models/props_underground/truss_32_128.mdl"
+		}
+		"525"
+		{
+			"type"		"model"
+			"model"		"models/props_underground/truss_32_256.mdl"
+		}
+		"526"
+		{
+			"type"		"model"
+			"model"		"models/props_underground/truss_32_256_lod1.mdl"
+		}
+		"527"
+		{
+			"type"		"model"
+			"model"		"models/props_underground/truss_64_128.mdl"
+		}
+		"528"
+		{
+			"type"		"model"
+			"model"		"models/props_underground/truss_64_256.mdl"
+		}
+		"529"
+		{
+			"type"		"model"
+			"model"		"models/props_underground/truss_box_1024x256_01.mdl"
+		}
+		"530"
+		{
+			"type"		"header"
+			"text"		"Geodomes"
+		}
+		"531"
+		{
+			"type"		"model"
+			"model"		"models/props_underground/geodome_exo_support.mdl"
+		}
+		"532"
+		{
+			"type"		"model"
+			"model"		"models/props_underground/geodome_exo_support_alt.mdl"
+		}
+		"533"
+		{
+			"type"		"model"
+			"model"		"models/props_underground/geodome_exterior_3072.mdl"
+		}
+		"534"
+		{
+			"type"		"model"
+			"model"		"models/props_underground/geodome_exterior_3072_exo.mdl"
+		}
+		"535"
+		{
+			"type"		"model"
+			"model"		"models/props_underground/geodome_exterior_destroyed.mdl"
+		}
+		"536"
+		{
+			"type"		"model"
+			"model"		"models/props_underground/geodome_interior_4096.mdl"
+		}
+		"537"
+		{
+			"type"		"model"
+			"model"		"models/props_underground/geodome_interior_4096_lod1.mdl"
+		}
+		"538"
+		{
+			"type"		"model"
+			"model"		"models/props_underground/geodome_interior_bomb_fling.mdl"
+		}
+		"539"
+		{
+			"type"		"model"
+			"model"		"models/props_underground/geodome_interior_crazy_box.mdl"
+		}
+		"540"
+		{
+			"type"		"model"
+			"model"		"models/props_underground/geodome_interior_destroyed.mdl"
+		}
+		"541"
+		{
+			"type"		"model"
+			"model"		"models/props_underground/geodome_interior_jump_intro.mdl"
+		}
+		"542"
+		{
+			"type"		"model"
+			"model"		"models/props_underground/geodome_interior_speed_flings.mdl"
+		}
+		"543"
+		{
+			"type"		"model"
+			"model"		"models/props_underground/geodome_interior_speed_ramp.mdl"
+		}
+		"544"
+		{
+			"type"		"model"
+			"model"		"models/props_underground/hemisphere_1024.mdl"
+		}
+		"545"
+		{
+			"type"		"model"
+			"model"		"models/props_underground/hemisphere_1024_damaged.mdl"
+		}
+		"546"
+		{
+			"type"		"model"
+			"model"		"models/props_underground/hemisphere_1536.mdl"
+		}
+		"547"
+		{
+			"type"		"model"
+			"model"		"models/props_underground/hemisphere_3072_damaged.mdl"
+		}
+		"548"
+		{
+			"type"		"model"
+			"model"		"models/props_underground/hemisphere_512.mdl"
+		}
+		"549"
+		{
+			"type"		"header"
+			"text"		"Pipes"
+		}
+		"550"
+		{
+			"type"		"model"
+			"model"		"models/props_underground/paint_pipe_industrial001_256a.mdl"
+		}
+		"551"
+		{
+			"type"		"model"
+			"model"		"models/props_underground/paint_pipe_industrial001_512b.mdl"
+		}
+		"552"
+		{
+			"type"		"model"
+			"model"		"models/props_underground/paint_pipe_industrial001_curve01b.mdl"
+		}
+		"553"
+		{
+			"type"		"model"
+			"model"		"models/props_underground/paint_pipe_industrial001_curve01c.mdl"
+		}
+		"554"
+		{
+			"type"		"model"
+			"model"		"models/props_underground/paint_tube_rim.mdl"
+		}
+		"555"
+		{
+			"type"		"model"
+			"model"		"models/props_underground/pipe_debris01.mdl"
+		}
+		"556"
+		{
+			"type"		"model"
+			"model"		"models/props_underground/pipe_debris02.mdl"
+		}
+		"557"
+		{
+			"type"		"model"
+			"model"		"models/props_underground/pipe_debris03.mdl"
+		}
+		"558"
+		{
+			"type"		"model"
+			"model"		"models/props_underground/pipe_insert.mdl"
+		}
+		"559"
+		{
+			"type"		"header"
+			"text"		"Doors"
+		}
+		"560"
+		{
+			"type"		"model"
+			"model"		"models/props/portal_door.mdl"
+		}
+		"561"
+		{
+			"type"		"model"
+			"model"		"models/props/portal_door_bits_frame.mdl"
+		}
+		"562"
+		{
+			"type"		"model"
+			"model"		"models/props/portal_door_bits_left.mdl"
+		}
+		"563"
+		{
+			"type"		"model"
+			"model"		"models/props/portal_door_bits_right.mdl"
+		}
+		"564"
+		{
+			"type"		"model"
+			"model"		"models/props/portal_door_combined.mdl"
+		}
+		"565"
+		{
+			"type"		"model"
+			"model"		"models/props/portal_door_destroyed.mdl"
+		}
+		"566"
+		{
+			"type"		"model"
+			"model"		"models/props_underground/pressure_door.mdl"
+		}
+		"567"
+		{
+			"type"		"model"
+			"model"		"models/props_underground/pressure_door_blown.mdl"
+		}
+		"568"
+		{
+			"type"		"model"
+			"model"		"models/props_underground/pressure_door_broken.mdl"
+		}
+		"569"
+		{
+			"type"		"model"
+			"model"		"models/props_underground/pressure_door_frame.mdl"
+		}
+		"570"
+		{
+			"type"		"model"
+			"model"		"models/props_underground/pressure_door_sign.mdl"
+		}
+		"571"
+		{
+			"type"		"model"
+			"model"		"models/props_underground/pressure_door_wheel.mdl"
+		}
+		"572"
+		{
+			"type"		"model"
+			"model"		"models/props_underground/test_chamber_door.mdl"
+		}
+		"573"
+		{
+			"type"		"model"
+			"model"		"models/props_underground/test_chamber_door_static.mdl"
+		}
+		"574"
+		{
+			"type"		"model"
+			"model"		"models/props_underground/vault_door.mdl"
+		}
+		"575"
+		{
+			"type"		"model"
+			"model"		"models/props_underground/vault_door02.mdl"
+		}
+		"576"
+		{
+			"type"		"model"
+			"model"		"models/props_underground/vault_door_.mdl"
+		}
+		"577"
+		{
+			"type"		"model"
+			"model"		"models/props_underground/vault_door_entrance.mdl"
+		}
+		"578"
+		{
+			"type"		"model"
+			"model"		"models/props_underground/vault_door_panel.mdl"
+		}
+		"579"
+		{
+			"type"		"model"
+			"model"		"models/props_underground/door_bipart_frame_128.mdl"
+		}
+		"580"
+		{
+			"type"		"model"
+			"model"		"models/props_underground/door_bipart_frame_128_combined.mdl"
+		}
+		"581"
+		{
+			"type"		"model"
+			"model"		"models/props_underground/door_bipart_lower_128.mdl"
+		}
+		"582"
+		{
+			"type"		"model"
+			"model"		"models/props_underground/door_bipart_upper_128.mdl"
+		}
+		"583"
+		{
+			"type"		"header"
+			"text"		"Stasis Chamber"
+		}
+		"584"
+		{
+			"type"		"model"
+			"model"		"models/props_underground/stasis_chamber_body_02_cheap.mdl"
+		}
+		"585"
+		{
+			"type"		"model"
+			"model"		"models/props_underground/stasis_chamber_body_cheap.mdl"
+		}
+		"586"
+		{
+			"type"		"model"
+			"model"		"models/props_underground/stasis_chamber_cheap.mdl"
+		}
+		"587"
+		{
+			"type"		"model"
+			"model"		"models/props_underground/stasis_chamber_cheap_02.mdl"
+		}
+		"588"
+		{
+			"type"		"model"
+			"model"		"models/props_underground/stasis_chamber_dead.mdl"
+		}
+		"589"
+		{
+			"type"		"model"
+			"model"		"models/props_underground/stasis_chamber_female_01.mdl"
+		}
+		"590"
+		{
+			"type"		"model"
+			"model"		"models/props_underground/stasis_chamber_female_02.mdl"
+		}
+		"591"
+		{
+			"type"		"model"
+			"model"		"models/props_underground/stasis_chamber_female_03.mdl"
+		}
+		"592"
+		{
+			"type"		"model"
+			"model"		"models/props_underground/stasis_chamber_glass.mdl"
+		}
+		"593"
+		{
+			"type"		"model"
+			"model"		"models/props_underground/stasis_chamber_male.mdl"
+		}
+		"594"
+		{
+			"type"		"model"
+			"model"		"models/props_underground/stasis_chamber_male01.mdl"
+		}
+		"595"
+		{
+			"type"		"model"
+			"model"		"models/props_underground/stasis_chamber_male_02.mdl"
+		}
+		"596"
+		{
+			"type"		"model"
+			"model"		"models/props_underground/stasis_chamber_outro.mdl"
+		}
+		"597"
+		{
+			"type"		"model"
+			"model"		"models/props_underground/life_support_system.mdl"
+		}
+		"598"
+		{
+			"type"		"model"
+			"model"		"models/props_underground/stasis_chamber_light_spot.mdl"
+		}
+		"599"
+		{
+			"type"		"header"
+			"text"		"Underground"
+		}
+		"600"
+		{
+			"type"		"model"
+			"model"		"models/props_underground/wood_panel_64x128_01.mdl"
+		}
+		"601"
+		{
+			"type"		"model"
+			"model"		"models/props_underground/floor_tile_a.mdl"
+		}
+		"602"
+		{
+			"type"		"model"
+			"model"		"models/props_underground/floor_tile_b.mdl"
+		}
+		"603"
+		{
+			"type"		"model"
+			"model"		"models/props_underground/life_preserver.mdl"
+		}
+		"604"
+		{
+			"type"		"model"
+			"model"		"models/props_underground/lobby_curtains.mdl"
+		}
+		"605"
+		{
+			"type"		"model"
+			"model"		"models/props_underground/lobby_plant_01.mdl"
+		}
+		"606"
+		{
+			"type"		"model"
+			"model"		"models/props_underground/lobby_shelves01.mdl"
+		}
+		"607"
+		{
+			"type"		"model"
+			"model"		"models/props_underground/office_decoration_1940_01.mdl"
+		}
+		"608"
+		{
+			"type"		"model"
+			"model"		"models/props_underground/office_decoration_1940_02.mdl"
+		}
+		"609"
+		{
+			"type"		"model"
+			"model"		"models/props_underground/old_speaker.mdl"
+		}
+		"610"
+		{
+			"type"		"model"
+			"model"		"models/props_underground/old_speaker_big.mdl"
+		}
+		"611"
+		{
+			"type"		"model"
+			"model"		"models/props_underground/paint_caution_sign.mdl"
+		}
+		"612"
+		{
+			"type"		"model"
+			"model"		"models/props_underground/projector.mdl"
+		}
+		"613"
+		{
+			"type"		"model"
+			"model"		"models/props_underground/projector_screen.mdl"
+		}
+		"614"
+		{
+			"type"		"model"
+			"model"		"models/props_underground/pump_station.mdl"
+		}
+		"615"
+		{
+			"type"		"model"
+			"model"		"models/props_underground/pump_station_lod1.mdl"
+		}
+		"616"
+		{
+			"type"		"model"
+			"model"		"models/props_underground/ramp_motor.mdl"
+		}
+		"617"
+		{
+			"type"		"model"
+			"model"		"models/props_underground/ramp_motor_wheel.mdl"
+		}
+		"618"
+		{
+			"type"		"model"
+			"model"		"models/props_underground/rollup_motor.mdl"
+		}
+		"619"
+		{
+			"type"		"model"
+			"model"		"models/props_underground/rollup_motor_wheel.mdl"
+		}
+		"620"
+		{
+			"type"		"model"
+			"model"		"models/props_underground/rubble_slabs.mdl"
+		}
+		"621"
+		{
+			"type"		"model"
+			"model"		"models/props_underground/rubble_slabs2.mdl"
+		}
+		"622"
+		{
+			"type"		"model"
+			"model"		"models/props_underground/shock_absorber.mdl"
+		}
+		"623"
+		{
+			"type"		"model"
+			"model"		"models/props_underground/shock_absorber_cheap.mdl"
+		}
+		"624"
+		{
+			"type"		"model"
+			"model"		"models/props_underground/shock_absorber_cheap_single.mdl"
+		}
+		"625"
+		{
+			"type"		"model"
+			"model"		"models/props_underground/underground_fizzler.mdl"
+		}
+		"626"
+		{
+			"type"		"model"
+			"model"		"models/props_underground/smokingtable_lobby.mdl"
+		}
+		"627"
+		{
+			"type"		"model"
+			"model"		"models/props_underground/wood_panel_128x256_01.mdl"
+		}
+		"628"
+		{
+			"type"		"model"
+			"model"		"models/props_underground/underground_fizzlersupport_elevator.mdl"
+		}
+		"629"
+		{
+			"type"		"model"
+			"model"		"models/props_underground/ticket_dispenser_01.mdl"
+		}
+		"630"
+		{
+			"type"		"model"
+			"model"		"models/props_underground/ticket_sign_01.mdl"
+		}
+		"631"
+		{
+			"type"		"model"
+			"model"		"models/props_underground/truss_box_256x128_01.mdl"
+		}
+		"632"
+		{
+			"type"		"model"
+			"model"		"models/props_underground/truss_box_256x256_01.mdl"
+		}
+		"633"
+		{
+			"type"		"model"
+			"model"		"models/props_underground/truss_box_256x256_02.mdl"
+		}
+	}
+	"name"		"Props"
+	"version"		"3"
+}

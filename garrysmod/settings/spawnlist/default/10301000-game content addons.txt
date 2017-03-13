@@ -1,0 +1,8 @@
+"TableToKeyValues"
+{
+	"parentid"		"0"
+	"icon"		"icon16/box.png"
+	"id"		"10301000"
+	"name"		"Game Content Addons"
+	"version"		"3"
+}

@@ -1,0 +1,192 @@
+
+"TableToKeyValues"
+{
+	"parentid"		"10301070"
+	"icon"		"icon16/page.png"
+	"id"		"10301071"
+	"contents"
+	{
+		"1"
+		{
+			"type"		"model"
+			"model"		"models/player/chell/player.mdl"
+		}
+		"2"
+		{
+			"type"		"model"
+			"model"		"models/props_lab/bot_male.mdl"
+		}
+		"3"
+		{
+			"type"		"model"
+			"model"		"models/npcs/personality_sphere/personality_sphere_skins.mdl"
+		}
+		"4"
+		{
+			"type"		"model"
+			"model"		"models/npcs/potatos/world_model/potatos_wmodel.mdl"
+		}
+		"5"
+		{
+			"type"		"model"
+			"model"		"models/npcs/turret/turret.mdl"
+		}
+		"6"
+		{
+			"type"		"model"
+			"model"		"models/npcs/turret/turret_backwards.mdl"
+		}
+		"7"
+		{
+			"type"		"model"
+			"model"		"models/npcs/turret/turret_boxed.mdl"
+		}
+		"8"
+		{
+			"type"		"model"
+			"model"		"models/npcs/turret/turret_skeleton.mdl"
+		}
+		"9"
+		{
+			"type"		"model"
+			"model"		"models/npcs/turret/turretwife.mdl"
+		}
+		"10"
+		{
+			"type"		"model"
+			"model"		"models/player/ballbot/ballbot.mdl"
+		}
+		"11"
+		{
+			"type"		"model"
+			"model"		"models/player/ballbot/ballbot_skin_black.mdl"
+		}
+		"12"
+		{
+			"type"		"model"
+			"model"		"models/player/ballbot/ballbot_skin_burst.mdl"
+		}
+		"13"
+		{
+			"type"		"model"
+			"model"		"models/player/ballbot/ballbot_skin_military.mdl"
+		}
+		"14"
+		{
+			"type"		"model"
+			"model"		"models/player/ballbot/ballbot_skin_moon.mdl"
+		}
+		"15"
+		{
+			"type"		"model"
+			"model"		"models/player/ballbot/ballbot_skin_wcc.mdl"
+		}
+		"16"
+		{
+			"type"		"model"
+			"model"		"models/player/eggbot/eggbot.mdl"
+		}
+		"17"
+		{
+			"type"		"model"
+			"model"		"models/player/eggbot/eggbot_skin_black.mdl"
+		}
+		"18"
+		{
+			"type"		"model"
+			"model"		"models/player/eggbot/eggbot_skin_burst.mdl"
+		}
+		"19"
+		{
+			"type"		"model"
+			"model"		"models/player/eggbot/eggbot_skin_military.mdl"
+		}
+		"20"
+		{
+			"type"		"model"
+			"model"		"models/player/eggbot/eggbot_skin_moon.mdl"
+		}
+		"21"
+		{
+			"type"		"model"
+			"model"		"models/player/eggbot/eggbot_skin_wcc.mdl"
+		}
+		"22"
+		{
+			"type"		"header"
+			"text"		"GLaDOS"
+		}
+		"23"
+		{
+			"type"		"model"
+			"model"		"models/npcs/glados/glados_animation.mdl"
+		}
+		"24"
+		{
+			"type"		"model"
+			"model"		"models/npcs/glados/glados_bodeah_temp.mdl"
+		}
+		"25"
+		{
+			"type"		"model"
+			"model"		"models/npcs/glados/glados_chest_temp.mdl"
+		}
+		"26"
+		{
+			"type"		"model"
+			"model"		"models/npcs/glados/glados_disc.mdl"
+		}
+		"27"
+		{
+			"type"		"model"
+			"model"		"models/npcs/glados/glados_disc_base.mdl"
+		}
+		"28"
+		{
+			"type"		"model"
+			"model"		"models/npcs/glados/glados_disc_base_a4.mdl"
+		}
+		"29"
+		{
+			"type"		"model"
+			"model"		"models/npcs/glados/glados_head_anim.mdl"
+		}
+		"30"
+		{
+			"type"		"model"
+			"model"		"models/npcs/glados/glados_small_head.mdl"
+		}
+		"31"
+		{
+			"type"		"model"
+			"model"		"models/npcs/glados/glados_stairs_destruction.mdl"
+		}
+		"32"
+		{
+			"type"		"model"
+			"model"		"models/npcs/glados/glados_stairs_destruction02.mdl"
+		}
+		"33"
+		{
+			"type"		"model"
+			"model"		"models/npcs/glados/glados_wheatley.mdl"
+		}
+		"34"
+		{
+			"type"		"model"
+			"model"		"models/npcs/glados/glados_wheatley_boss.mdl"
+		}
+		"35"
+		{
+			"type"		"model"
+			"model"		"models/npcs/glados/glados_wheatley_boss_screen.mdl"
+		}
+		"36"
+		{
+			"type"		"model"
+			"model"		"models/npcs/glados/glados_wheatley_newbody.mdl"
+		}
+	}
+	"name"		"Characters"
+	"version"		"3"
+}

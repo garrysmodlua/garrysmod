@@ -1,0 +1,40 @@
+
+"TableToKeyValues"
+{
+	"parentid"		"10301120"
+	"icon"		"icon16/page.png"
+	"id"		"10301121"
+	"contents"
+	{
+		"1"
+		{
+			"type"		"model"
+			"model"		"models/survivors/survivor_gambler.mdl"
+			"wide"		"128"
+			"tall"		"128"
+		}
+		"2"
+		{
+			"type"		"model"
+			"model"		"models/survivors/survivor_coach.mdl"
+			"wide"		"128"
+			"tall"		"128"
+		}
+		"3"
+		{
+			"type"		"model"
+			"model"		"models/survivors/survivor_mechanic.mdl"
+			"wide"		"128"
+			"tall"		"128"
+		}
+		"4"
+		{
+			"type"		"model"
+			"model"		"models/survivors/survivor_producer.mdl"
+			"wide"		"128"
+			"tall"		"128"
+		}
+	}
+	"name"		"Characters"
+	"version"		"3"
+}

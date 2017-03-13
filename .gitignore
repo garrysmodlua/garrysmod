@@ -1,1 +1,4 @@
 ﻿/.vs
+/garrysmod/cfg
+*.cfg
+*.vdf

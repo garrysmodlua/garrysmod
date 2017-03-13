@@ -1,0 +1,22 @@
+
+"TableToKeyValues"
+{
+	"parentid"		"10301000"
+	"icon"		"games/16/hl2.png"
+	"id"		"10301030"
+	"contents"
+	{
+		"1"
+		{
+			"type"		"header"
+			"text"		"Half Life 2 Extras Content Addon 2016"
+		}
+        "2"
+		{
+			"type"		"header"
+			"text"		"Created by Kajar9 @ cscheater.era.ee"
+		}
+	}
+	"name"		"HL2 Extras"
+	"version"		"3"
+}

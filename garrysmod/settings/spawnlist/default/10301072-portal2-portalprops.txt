@@ -1,0 +1,392 @@
+
+"TableToKeyValues"
+{
+	"parentid"		"10301070"
+	"icon"		"icon16/page.png"
+	"id"		"10301072"
+	"contents"
+	{
+		"1"
+		{
+			"type"		"header"
+			"text"		"Misc."
+		}
+		"2"
+		{
+			"type"		"model"
+			"model"		"models/props/glados_ceiling_light/glados_ceiling_light.mdl"
+		}
+		"3"
+		{
+			"type"		"model"
+			"model"		"models/props/glados_pillar/glados_pillar.mdl"
+		}
+		"4"
+		{
+			"type"		"model"
+			"model"		"models/props/food_can/food_can_open.mdl"
+		}
+		"5"
+		{
+			"type"		"model"
+			"model"		"models/props/water_bottle/water_bottle.mdl"
+		}
+		"6"
+		{
+			"type"		"model"
+			"model"		"models/props/saucepan/saucepan.mdl"
+		}
+		"7"
+		{
+			"type"		"model"
+			"model"		"models/props/security_camera.mdl"
+		}
+		"8"
+		{
+			"type"		"model"
+			"model"		"models/props/security_camera_prop_reference.mdl"
+		}
+		"9"
+		{
+			"type"		"model"
+			"model"		"models/props_bts/vertical_small_piston_base.mdl"
+		}
+		"10"
+		{
+			"type"		"model"
+			"model"		"models/props_bts/vertical_small_piston_body.mdl"
+		}
+		"11"
+		{
+			"type"		"header"
+			"text"		"Test Chamber"
+		}
+		"12"
+		{
+			"type"		"model"
+			"model"		"models/props/radio_reference.mdl"
+		}
+		"13"
+		{
+			"type"		"model"
+			"model"		"models/props/bed_body_reference.mdl"
+		}
+		"14"
+		{
+			"type"		"model"
+			"model"		"models/props/bed_cover_reference.mdl"
+		}
+		"15"
+		{
+			"type"		"model"
+			"model"		"models/props/box_dropper.mdl"
+		}
+		"16"
+		{
+			"type"		"model"
+			"model"		"models/props/box_dropper_cover.mdl"
+		}
+		"17"
+		{
+			"type"		"model"
+			"model"		"models/props/button_base_reference.mdl"
+		}
+		"18"
+		{
+			"type"		"model"
+			"model"		"models/props/button_top_reference.mdl"
+		}
+		"19"
+		{
+			"type"		"model"
+			"model"		"models/props/metal_box.mdl"
+		}
+		"20"
+		{
+			"type"		"model"
+			"model"		"models/props/clock.mdl"
+		}
+		"21"
+		{
+			"type"		"model"
+			"model"		"models/props/combine_ball_catcher.mdl"
+		}
+		"22"
+		{
+			"type"		"model"
+			"model"		"models/props/combine_ball_launcher.mdl"
+		}
+		"23"
+		{
+			"type"		"model"
+			"model"		"models/props/door_01_frame_reference.mdl"
+		}
+		"24"
+		{
+			"type"		"model"
+			"model"		"models/props/door_01_frame_wide_reference.mdl"
+		}
+		"25"
+		{
+			"type"		"model"
+			"model"		"models/props/door_01_lftdoor_reference.mdl"
+		}
+		"26"
+		{
+			"type"		"model"
+			"model"		"models/props/door_01_rtdoor_reference.mdl"
+		}
+		"27"
+		{
+			"type"		"model"
+			"model"		"models/props/portaldoor.mdl"
+		}
+		"28"
+		{
+			"type"		"model"
+			"model"		"models/props/portal_cleanser_1.mdl"
+		}
+		"29"
+		{
+			"type"		"model"
+			"model"		"models/props/switch001.mdl"
+		}
+		"30"
+		{
+			"type"		"model"
+			"model"		"models/props/door_02.mdl"
+		}
+		"31"
+		{
+			"type"		"model"
+			"model"		"models/props/lift_platform.mdl"
+		}
+		"32"
+		{
+			"type"		"model"
+			"model"		"models/props/light_rail_platform.mdl"
+		}
+		"33"
+		{
+			"type"		"model"
+			"model"		"models/props/light_rail_platform_phys.mdl"
+		}
+		"34"
+		{
+			"type"		"model"
+			"model"		"models/props/pedestal_base_reference.mdl"
+		}
+		"35"
+		{
+			"type"		"model"
+			"model"		"models/props/pedestal_center_reference.mdl"
+		}
+		"36"
+		{
+			"type"		"model"
+			"model"		"models/props/sphere.mdl"
+		}
+		"37"
+		{
+			"type"		"model"
+			"model"		"models/props/table_reference.mdl"
+		}
+		"38"
+		{
+			"type"		"model"
+			"model"		"models/props/toilet_body_reference.mdl"
+		}
+		"39"
+		{
+			"type"		"model"
+			"model"		"models/props/toilet_lid_reference.mdl"
+		}
+		"40"
+		{
+			"type"		"model"
+			"model"		"models/props/tripwire_turret.mdl"
+		}
+		"41"
+		{
+			"type"		"model"
+			"model"		"models/props/light_rail_endcap.mdl"
+		}
+		"42"
+		{
+			"type"		"model"
+			"model"		"models/props/turret_01.mdl"
+		}
+		"43"
+		{
+			"type"		"header"
+			"text"		"Office"
+		}
+		"44"
+		{
+			"type"		"model"
+			"model"		"models/props/lab_chair/lab_chair.mdl"
+		}
+		"45"
+		{
+			"type"		"model"
+			"model"		"models/props/lab_desk01/lab_desk01.mdl"
+		}
+		"46"
+		{
+			"type"		"model"
+			"model"		"models/props/lab_desk02/lab_desk02.mdl"
+		}
+		"47"
+		{
+			"type"		"model"
+			"model"		"models/props/lab_desk03/lab_desk03.mdl"
+		}
+		"48"
+		{
+			"type"		"model"
+			"model"		"models/props/lab_desk04/lab_desk04.mdl"
+		}
+		"49"
+		{
+			"type"		"model"
+			"model"		"models/props/lab_desk05/lab_desk05.mdl"
+		}
+		"50"
+		{
+			"type"		"model"
+			"model"		"models/props/lab_monitor_pose01/lab_monitor_pose01.mdl"
+		}
+		"51"
+		{
+			"type"		"model"
+			"model"		"models/props/lab_monitor_pose01/lab_monitor_pose03.mdl"
+		}
+		"52"
+		{
+			"type"		"model"
+			"model"		"models/props/pc_case02/pc_case02.mdl"
+		}
+		"53"
+		{
+			"type"		"model"
+			"model"		"models/props/pc_case_open/pc_case_open.mdl"
+		}
+		"54"
+		{
+			"type"		"header"
+			"text"		"Vault Door"
+		}
+		"55"
+		{
+			"type"		"model"
+			"model"		"models/props/vert_door/vert_door_frame.mdl"
+		}
+		"56"
+		{
+			"type"		"model"
+			"model"		"models/props/vert_door/vert_door_locked.mdl"
+		}
+		"57"
+		{
+			"type"		"model"
+			"model"		"models/props/vert_door/vert_door_lower.mdl"
+		}
+		"58"
+		{
+			"type"		"model"
+			"model"		"models/props/vert_door/vert_door_upper.mdl"
+		}
+		"59"
+		{
+			"type"		"header"
+			"text"		"Elevator"
+		}
+		"60"
+		{
+			"type"		"model"
+			"model"		"models/props/elevatorshaft_wall/elevatorshaft_wall.mdl"
+		}
+		"61"
+		{
+			"type"		"model"
+			"model"		"models/props/elevator_caps/elevator_caps.mdl"
+		}
+		"62"
+		{
+			"type"		"model"
+			"model"		"models/props/round_elevator_body.mdl"
+		}
+		"63"
+		{
+			"type"		"model"
+			"model"		"models/props/round_elevator_doors.mdl"
+		}
+		"64"
+		{
+			"type"		"model"
+			"model"		"models/elevator/elevator_entrance.mdl"
+		}
+		"65"
+		{
+			"type"		"header"
+			"text"		"Pipes"
+		}
+		"66"
+		{
+			"type"		"model"
+			"model"		"models/props/wall_pipes_bend01/wall_pipes_bend01.mdl"
+		}
+		"67"
+		{
+			"type"		"model"
+			"model"		"models/props/wall_pipes_bend01/wall_pipes_bend01_flipped.mdl"
+		}
+		"68"
+		{
+			"type"		"model"
+			"model"		"models/props/wall_pipes_bend02/wall_pipes_bend02.mdl"
+		}
+		"69"
+		{
+			"type"		"model"
+			"model"		"models/props/wall_pipes_bend03/wall_pipes_bend03.mdl"
+		}
+		"70"
+		{
+			"type"		"model"
+			"model"		"models/props/wall_pipes_corner/wall_pipes_corner.mdl"
+		}
+		"71"
+		{
+			"type"		"model"
+			"model"		"models/props/wall_pipes_corner02/wall_pipes_corner02.mdl"
+		}
+		"72"
+		{
+			"type"		"model"
+			"model"		"models/props/wall_pipes_horiz/wall_pipes_horiz.mdl"
+		}
+		"73"
+		{
+			"type"		"model"
+			"model"		"models/props/wall_pipes_terminate01/wall_pipes_terminate01.mdl"
+		}
+		"74"
+		{
+			"type"		"model"
+			"model"		"models/props/wall_pipes_tjunc01/wall_pipes_tjunc01.mdl"
+		}
+		"75"
+		{
+			"type"		"model"
+			"model"		"models/props/wall_pipes_wave/wall_pipes_wave.mdl"
+		}
+		"76"
+		{
+			"type"		"model"
+			"model"		"models/props/wall_pipes_wave/wall_pipes_wave_flipped.mdl"
+		}
+	}
+	"name"		"Portal Props"
+	"version"		"3"
+}

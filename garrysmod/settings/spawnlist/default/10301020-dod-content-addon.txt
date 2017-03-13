@@ -1,0 +1,22 @@
+
+"TableToKeyValues"
+{
+	"parentid"		"10301000"
+	"icon"		"games/16/dod.png"
+	"id"		"10301020"
+	"contents"
+	{
+		"1"
+		{
+			"type"		"header"
+			"text"		"Day of Defeat : Source Content Addon 2016"
+		}
+        "2"
+		{
+			"type"		"header"
+			"text"		"Created by Kajar9 @ cscheater.era.ee"
+		}
+	}
+	"name"		"Day of Defeat"
+	"version"		"3"
+}
